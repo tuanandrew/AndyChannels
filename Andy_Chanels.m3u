@@ -325,6 +325,9 @@ https://runway-hls.secdn.net/runway-live/play/runway/playlist.m3u8
 #EXTINF:-1 group-title="FASHION" tvg-id="HDFashion" tvg-name="HDFashion" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic-MTVTGNetwork.png?raw=true",HD Fashion & Lifestyle
 https://nimble.dashstreams.net/onestudio/hdfashionlifestyle/playlist.m3u8
 
+#EXTINF:-1 group-title="FASHION" tvg-id="DarcizzleOffshore" tvg-name="DarcizzleOffshore" tvg-logo="https://pbs.twimg.com/profile_images/1295819336226136067/MwohKciL_400x400.png",Darcizzle Offshore
+http://30a-tv.com/darcizzle.m3u8
+
 
 
 #EXTINF:-1 group-title="VTC" tvg-id="VTC1" tvg-name="VTC1" tvg-logo="https://i.ibb.co/mH4XCCF/VTC1-BEARTV.png",VTC1
