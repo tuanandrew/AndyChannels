@@ -1,0 +1,2343 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2019/01/hieu-hien-vn-logo.png",HieuHien.vn update 31/8/2019
+http://hjyjrvmlsk.vcdn.com.vn/hls/elgfjdh/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2019/01/hieu-hien-vn-logo.png",Fanpage: facebook.com/HieuHien.vn
+http://hjyjrvmlsk.vcdn.com.vn/hls/elgfjdh/index.m3u8
+#EXTINF:-1  tvg-logo="https://www.hieuhien.vn/wp-content/uploads/2019/01/hieu-hien-vn-logo.png",Cộng đồng HieuHien.vn: facebook.com/Groups/HieuHien.vn
+http://hjyjrvmlsk.vcdn.com.vn/hls/elgfjdh/index.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://gardenmedia.vn/kcfinder/upload/images/Quang-Cao-Truyen-Hinh-Vinh-Long-1(1).jpg",Vĩnh Long 1 HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/THVL1-HD-1080p/chunks.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://www.gmodules.com/gadgets/proxy?container=ig&url=https://static.thvli.vn/assets/thumbnail/2017/05/09/jcsqtzfi_THVL-2-HD-N.jpg" ,Vĩnh Long 2 HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/THVL2-HD-1080p/chunks.m3u8
+
+
+#EXTINF:-1 group-title="VTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png",VTV1 HD
+http://hjyjrvmlsk.vcdn.com.vn/hls/elgfjdh/index.m3u8
+
+#EXTINF:-1 group-title="VTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png",VTV2 HD
+http://hjyjrvmlsk.vcdn.com.vn/hls/m0hlc1s/index.m3u8
+
+#EXTINF:-1 group-title="VTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png",VTV3 HD
+http://hjyjrvmlsk.vcdn.com.vn/hls/idmwifi/index.m3u8
+
+#EXTINF:-1 group-title="VTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png",VTV4 HD
+http://hjyjrvmlsk.vcdn.com.vn/hls/hktebdo/index.m3u8
+
+#EXTINF:-1  tvg-logo="VTV5" group-title="VTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png",VTV5 HD
+http://hjyjrvmlsk.vcdn.com.vn/hls/ira1wlr/index.m3u8
+
+#EXTINF:-1  tvg-logo="VTV6 HD" group-title="VTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/1200px-VTV6_logo_2013_final.svg.png",VTV6 HD
+http://hjyjrvmlsk.vcdn.com.vn/hls/fjg6388/index.m3u8
+
+#EXTINF:-1 group-title="VTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/VTV7_logo_2016_final.svg/1200px-VTV7_logo_2016_final.svg.png",VTV7 HD
+http://hjyjrvmlsk.vcdn.com.vn/hls/nwalmjv/index.m3u8
+
+#EXTINF:-1 group-title="VTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/VTV8_logo_2016_final.svg/685px-VTV8_logo_2016_final.svg.png",VTV8 HD
+http://hjyjrvmlsk.vcdn.com.vn/hls/wgabpze/index.m3u8
+
+#EXTINF:-1 group-title="VTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VTV9_logo_2013_final.svg/1200px-VTV9_logo_2013_final.svg.png",VTV9 HD
+http://hjyjrvmlsk.vcdn.com.vn/hls/ig9jpqw/index.m3u8
+
+#EXTINF:-1 group-title="HTV"  tvg-logo="http://hoangthanh.tk/icon-channel/HTV/htv1.png", HTV1
+http://live.cdn.mobifonetv.vn/motv/myhtv1_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="HTV"  tvg-logo="http://hoangthanh.tk/icon-channel/HTV/htv2.png", HTV2 - Vie Channel 
+http://live.cdn.mobifonetv.vn/motv/myhtv2_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="HTVC"  tvg-logo="https://i.imgur.com/WQHqOFj.jpg" tvg-name="HTV2",HTV2 HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="HTV"  tvg-logo="http://hoangthanh.tk/icon-channel/HTV/htv3.png", HTV3 - Dreams TV
+http://live.cdn.mobifonetv.vn/motv/myhtv3_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="HTVC"  tvg-logo="https://i.imgur.com/qazQC3J.jpg" tvg-name="HTV3",HTV3
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV3-SD-720p/playlist.m3u8
+#EXTINF:-1 group-title="HTV"  tvg-logo="http://hoangthanh.tk/icon-channel/HTV/htvkey.png", HTV4 Key
+http://live.cdn.mobifonetv.vn/motv/myhtv4_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="HTV"  tvg-logo="http://hoangthanh.tk/icon-channel/HTV/htv7.png", HTV7
+http://live.cdn.mobifonetv.vn/motv/myhtv7_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="HTVC"  tvg-logo="https://i.imgur.com/lj72rHM.jpg" tvg-name="HTV7" ,HTV7 HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV7-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="HTV"  tvg-logo="http://hoangthanh.tk/icon-channel/HTV/htv9.png", HTV9
+http://live.cdn.mobifonetv.vn/motv/myhtv9_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="HTVC"  tvg-logo="https://i.imgur.com/lVkFTxB.jpg" tvg-name="HTV9",HTV9 HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV9-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="HTV",HTVC Phim
+http://live.cdn.mobifonetv.vn/motv/myhtvcphim_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="HTVC"  tvg-logo="https://i.imgur.com/pAqskAN.png" ,HTVC Phim HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="HTVC"  tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/8c/HTVC_thuanviet.png" ,HTVC Thuần Việt SD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/chunks.m3u8
+#EXTINF:-1 group-title="HTVC"  tvg-logo="http://img.hplus.com.vn/728x409/banner/2018/06/05/879824-ThuanVietHD1.png" ,HTVC Thuần Việt HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="HTVC"  tvg-logo="https://i.imgur.com/gXSu7YV.jpg",HTVC Thể Thao
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-ABR/HTV-ABR/HTV-THETHAO-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="HTVC"  tvg-logo="https://i.imgur.com/gXSu7YV.jpg",HTVC Thể Thao HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-ABR/HTV-ABR/HTV-THETHAO-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="HTVC"  tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2019-05-22/6833055-9051942-plus.png",HTVC Plus
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="HTVC"  tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f4/FBNC_new2014.png",FBNC
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FBNC-HD-1080p/playlist.m3u
+
+#EXTINF:-1 group-title="HTV"  tvg-logo="http://hoangthanh.tk/icon-channel/HTV/htvcphunu.png", HTVC Phụ Nữ
+http://live.cdn.mobifonetv.vn/motv/myhtvcphunu_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="HTV"  tvg-logo="http://hoangthanh.tk/icon-channel/HTV/htvcgiadinh.png", HTVC Gia Đình
+http://live.cdn.mobifonetv.vn/motv/myhtvcgiadinh_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="HTV"  tvg-logo="http://hoangthanh.tk/icon-channel/HTV/htvccanhac.png", HTVC Ca Nhạc
+http://live.cdn.mobifonetv.vn/motv/myhtvccanhac_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="HTV"  tvg-logo="http://hoangthanh.tk/icon-channel/HTV/htvcdlcs.png", HTVC Du lịch & Cuộc sống
+http://live.cdn.mobifonetv.vn/motv/myhtvcdulich_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="HTV"  tvg-logo="http://hoangthanh.tk/icon-channel/HTV/htvthethao.png", HTV Thể Thao
+http://live.cdn.mobifonetv.vn/motv/myhtvcthethao_hls.smil/chunklist_b1200000.m3u8
+
+
+
+#EXTINF:-1 tvg-id="VTC" tvg-name="VTC" group-title="VTC" tvg-logo="https://i.imgur.com/4Uljs81.png",VTC1 HD
+https://v2bdoz1zs4.vcdn.com.vn/hls/VTC1_631/03.m3u8
+
+#EXTINF:-1 tvg-id="VTC" tvg-name="VTC" group-title="VTC" tvg-logo="https://i.imgur.com/4Uljs81.png",VTC1 HD Sever 2
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTC1-SD-ABR/HTV-ABR/VTC1-SD-720p/chunks.m3u8?
+
+#EXTINF:-1 tvg-id="VTC" tvg-name="VTC" group-title="VTC" tvg-logo="https://i.imgur.com/4Uljs81.png",VTC1 HD 3(off)
+#http://live.sphim.tv/vtc1-sd/vtc1-sd.smil/chunklist_b2000000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="VTC" tvg-name="VTC" group-title="VTC" tvg-logo="https://i.imgur.com/4Uljs81.png",VTC1 HD Sever 3
+http://xemtivi.online/live/vtc/vtc/smil:vtc1_sd.smil/chunklist_b1596000_sleng.m3u8
+
+
+#EXTINF:-1 tvg-id="VTC" tvg-name="VTC2-Cliptv" group-title="VTC" tvg-logo="https://i.imgur.com/80JNlos.png",VTC2 HD
+http://xemtivi.online/live/vtc/vtc/smil:vtc2_sd.smil/chunklist_b1596000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="VTC" tvg-name="VTC" group-title="VTC" tvg-logo="https://i.imgur.com/VosBu63.png",VTC3 HD
+http://xemtivi.online/live/vtc/vtc/smil:vtc3_sd.smil/chunklist_b1596000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="VTC" tvg-name="VTC" group-title="VTC" tvg-logo="https://i.imgur.com/VosBu63.png",VTC3 Sever 2
+http://cdn3.vtcplay.vn:1935/VTC/smil:VTC3.smil/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="VTC" tvg-name="VTC" group-title="VTC" tvg-logo="https://i.imgur.com/v9DNS85.png",VTC4 HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTC4-SD-ABR/HTV-ABR/VTC4-SD-720p/chunks.m3u8?
+
+#EXTINF:-1 tvg-id="VTC" tvg-name="VTC" group-title="VTC" tvg-logo="https://i.imgur.com/v9DNS85.png",VTC4 HD Sever 2
+http://xemtivi.online/live/vtc/vtc/smil:vtc4_sd.smil/chunklist_b1596000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="VTC" tvg-name="VTC5-Cliptv" group-title="VTC" tvg-logo="https://i.imgur.com/w18H0gU.jpg",VTC5 HD
+http://xemtivi.online/live/vtc/vtc/smil:vtc5_sd.smil/chunklist_b1596000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="VTC" tvg-name="VTC" group-title="VTC" tvg-logo="https://i.imgur.com/YasRGy0.png",VTC6 HD
+http://xemtivi.online/live/vtc/vtc/smil:vtc6_sd.smil/chunklist_b1596000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="TODAYTV" tvg-name="TODAYTV" group-title="VTC" tvg-logo="https://i.imgur.com/lW2DbEB.png",VTC7-TodayTV HD
+http://xemtivi.online/live/vtc/vtc/smil:vtc7_sd.smil/chunklist_b1596000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="VTC" tvg-name="VTC" group-title="VTC" tvg-logo="https://i.imgur.com/FVM7co8.jpg",VTC8 HD
+http://xemtivi.online/live/vtc/vtc/smil:vtc8_sd.smil/chunklist_b1596000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="VTC" tvg-name="VTC" group-title="VTC" tvg-logo="https://i.imgur.com/UOIPXAr.png",VTC9 HD
+http://xemtivi.online/live/vtc/vtc/smil:vtc9_sd.smil/chunklist_b1596000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="VTC" tvg-name="VTC" group-title="VTC" tvg-logo="https://i.imgur.com/UOIPXAr.png",VTC9 Sever 2
+http://cdn3.vtcplay.vn:1935/VTC/smil:VTC9.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VTC10-ClipTV" tvg-name="VTC10-ClipTV" group-title="VTC" tvg-logo="https://i.imgur.com/gyKnxEP.png",VTC10 HD
+http://xemtivi.online/live/vtc/vtc/smil:vtc10_sd.smil/chunklist_b1596000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="VTC10-ClipTV" tvg-name="VTC10-ClipTV" group-title="VTC" tvg-logo="https://i.imgur.com/gyKnxEP.png",VTC10 Sever 2
+http://cdn3.vtcplay.vn:1935/VTC/smil:VTC10.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VTC" tvg-name="VTC" group-title="VTC" tvg-logo="https://i.imgur.com/liNUOk4.jpg",VTC11 HD
+http://xemtivi.online/live/vtc/vtc/smil:vtc11_sd.smil/chunklist_b1596000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="VTC" tvg-name="VTC" group-title="VTC" tvg-logo="https://i.imgur.com/OHzugWa.jpg",VTC12 HD
+http://xemtivi.online/live/vtc/vtc/smil:vtc12_sd.smil/chunklist_b1596000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="VTC" tvg-name="VTC" group-title="VTC" tvg-logo="https://i.imgur.com/hLQNEhy.png",VTC13 HD
+http://xemtivi.online/live/vtc/vtc/smil:vtc13_sd.smil/chunklist_b1596000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="VTC" tvg-name="VTC14-Cliptv" group-title="VTC" tvg-logo="https://i.imgur.com/85swmKd.png",VTC14 HD
+http://xemtivi.online/live/vtc/vtc/smil:vtc14_sd.smil/chunklist_b1596000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="VTC" tvg-name="VTC14-Cliptv" group-title="VTC" tvg-logo="https://i.imgur.com/85swmKd.png",VTC14 Sever 2
+http://cdn3.vtcplay.vn:1935/VTC/smil:VTC14.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VTC16-ClipTV" tvg-name="VTC16-ClipTV" group-title="VTC" tvg-logo="https://i.imgur.com/amaDGnw.jpg",VTC16 HD
+http://xemtivi.online/live/vtc/vtc/smil:vtc16_sd.smil/chunklist_b1596000_sleng.m3u8
+
+
+#EXTINF:-1 tvg-id="VTC16-ClipTV" tvg-name="VTC16-ClipTV" group-title="VTC" tvg-logo="https://i.imgur.com/amaDGnw.jpg",VTC16 Sever 2
+http://cdn3.vtcplay.vn:1935/VTC/smil:VTC16.smil/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1  tvg-logo="AXN-ClipTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/FOX_HD.svg/1280px-FOX_HD.svg.png" ,FOX HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="AXN-ClipTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Fox_Family_Movies_logo.png" ,FOX FAMILY MOVIES HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="AXN-ClipTV"  tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/433_300.png",Fox Movies HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="AXN-ClipTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/200px-Channel_V_Logo.svg.png",Channel V HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="AXN-ClipTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/1200px-Afc_logo.svg.png",Asian Food Channel HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
+
+#EXTINF:46  tvg-logo="MyTV_National Geographic HD" tvg-name="National Geographic HD"  tvg-logo="http://winetmedia.net/id/img/brand/20.png",National Geographic HD
+http://220.158.149.14:9999/live/TV00000000000000000115@HHZT;LIVE
+
+#EXTINF:46  tvg-logo="MyTV_National Geographic HD" tvg-name="Fashion TV"  tvg-logo="https://www.brandsvietnam.com/upload/news/480px/2015/8357_FashionTV.png",Fashion TV
+http://220.158.149.14:9999/live/TV00000000000000000116@HHZT;LIVE
+
+#EXTINF:  tvg-logo="MTV-CLIPTV"  tvg-logo="https://banner2.kisspng.com/20180608/wks/kisspng-viacom-media-networks-logo-mtv-television-channel-5b1aebf1b7ea01.1221936115284909937533.jpg",MTV
+http://220.158.149.14:9999/live/TV00000000000000000111@HHZT;LIVE
+
+#EXTINF:  tvg-logo="BBC"  tvg-logo="https://jvtea44x1mh3gctjp1q2nymo-wpengine.netdna-ssl.com/wp-content/uploads/2012/08/BBC-Logo-drsign-Evolution-Story-marketing-facts-1200x630.jpg",BBC
+http://220.158.149.14:9999/live/TV00000000000000000109@HHZT;LIVE
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1280px-KBS_World_%282009%29.svg.png", KBS WORLD
+http://220.158.149.14:9999/live/TV00000000000000000112@HHZT;LIVE
+
+#EXTINF:  tvg-logo="MyTV_Disney HD" tvg-name="Disney Channel"  tvg-logo="https://imgur.com/pycFGMd.png",Disney Channel HD
+http://220.158.149.14:9999/live/TV00000000000000000113@HHZT;LIVE
+
+
+#EXTINF:46  tvg-logo="MyTV_National Geographic HD" tvg-name="Fashion TV"  tvg-logo="http://htvc.vn/uploads/editor/images/Logo%20Discovery-Asia%201.png",Discovery Asia HD
+http://220.158.149.14:9999/live/TV00000000000000000114@HHZT;LIVE
+
+#EXTINF:46  tvg-logo="MyTV_National Geographic HD" tvg-name="Fashion TV"  tvg-logo="http://img.hplus.com.vn/460x260/poster/2019/02/14/136186-davinci.png",Davinci HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="CWTV_ASIA" tvg-name="CINEMA WORLD"  tvg-logo="https://yt3.ggpht.com/-xwCFrG81DaQ/AAAAAAAAAAI/AAAAAAAAAAA/f6rAw6dKG8A/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="INTERNATIONAL",CINEMA WORLD HD
+http://210.210.155.35/uq2663/h/h04/01.m3u8?fluxustv.m3u8
+
+#EXTINF:-1    tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e6/Diva_Universal.png" group-title="INTERNATIONAL",DIVA
+http://210.210.155.35/session/8a1b53d6-7d82-11e8-98cf-b82a72d63267/uq2663/h/h11/index.m3u8
+
+#EXTINF:-1 group-title="INTERNATIONAL"  tvg-logo="https://www.dullmensclub.com/new/wp-content/uploads/2014/11/Deutsche-Welle.png" ,DW News
+http://thepk.co:2086/rware73/d0Qa94cX0w/15348
+
+#EXTINF:-1    tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/1280px-Arirang.svg.png" group-title="INTERNATIONAL",ARIANG HD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="THỜI SỰ - CHÍNH TRỊ"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQhD5JSMY-yA_zL3BO6Sox8kRF25ghdjbAS7Y_66UGIA26Gbysn" ,VOV Vietnam Journey HD
+http://vncdn.mediatech.vn/vovlive/tv1live.m3u8
+
+#EXTINF:-1 group-title="THỜI SỰ - CHÍNH TRỊ"  tvg-logo="https://upload.wikimedia.org/wikipedia/vi/d/d7/Logo-NhanDan.png" ,Nhân Dân
+https://5952e4052a2e8.streamlock.net/live/smil:thienviet.smil/chunklist_w1189190049_b1544100_sleng.m3u8
+
+#EXTINF:-1 group-title="THỜI SỰ - CHÍNH TRỊ"  tvg-logo="http://img.hplus.com.vn/728x409/banner/2018/06/05/741464-anninh.png" ,ANTV
+http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+
+#EXTINF:-1 group-title="THỜI SỰ - CHÍNH TRỊ"  tvg-logo="http://img.hplus.com.vn/728x409/banner/2018/06/05/741464-anninh.png" ,ANTV HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/ANTV-SD-ABR/HTV-ABR/ANTV-SD-720p/chunks.m3u8
+
+#EXTINF:-1 group-title="THỜI SỰ - CHÍNH TRỊ"  tvg-logo="https://upload.wikimedia.org/wikipedia/vi/1/17/KenhQuocHoi_logo.png" ,Quốc Hội HD
+http://113.164.225.140:1935/live/quochoitvlive.stream_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="THỜI SỰ - CHÍNH TRỊ"  tvg-logo="https://i.imgur.com/6UFpJHo.jpg" ,Quốc Phòng VN HD
+http://116.104.85.4:1935/standard/smil:standard.smil/chunklist_w1128386065_b996000_sleng.m3u8
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/QPTV-SD-ABR/HTV-ABR/QPTV-SD-720p/chunks.m3u8
+
+#EXTINF:-1 group-title="THỜI SỰ - CHÍNH TRỊ"  tvg-logo="https://dhtn.ttxvn.org.vn/Images/files/TTXVN.png" ,TTXVN HD
+http://live.vnanet.vn/720P/playlist.m3u8
+
+
+#EXTINF:-1 group-title="AN VIÊN"  tvg-logo="http://xspace.talaweb.com/suamaytinhbang115/home/share/KhanhChi1202.hsvn/logo-antg.png" ,An Ninh Thế Giới
+http://live.cdn.mobifonetv.vn/motv/antg_hls.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="AN VIÊN"  tvg-logo="http://103.56.158.185/tv_icon/phim-hay.png" ,PHIMHAY
+http://live.cdn.mobifonetv.vn/motv3/phimhay_hls.smil/chunklist_b1200000.m3u8
+
+#EXTINF:-1 group-title="AN VIÊN"  tvg-logo="http://tv.vietbao.vn/images/tv2015/channels/915-sam-btv11.jpg" ,SAM BTV11
+http://live.cdn.mobifonetv.vn/motv/sam_hls.smil/chunklist_b1200000.m3u8
+
+#EXTINF:-1 group-title="AN VIÊN"  tvg-logo="http://103.56.158.185/tv_icon/vietteen.png" ,Vietteen
+http://live.cdn.mobifonetv.vn/motv/vietteen_hls.smil/chunklist_b1200000.m3u8
+
+#EXTINF:-1 group-title="AN VIÊN"  tvg-logo="http://tv.vietbao.vn/images/tv2015/channels/913-ncm-btv10.jpg" ,BTV10
+http://live.cdn.mobifonetv.vn/motv/ncm_hls.smil/chunklist_b1200000.m3u8
+
+
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSy5gQQ5BcSqCZVQortgOTgHiKL3JcSmVH0fsgNl6miqq0zOin-",Vĩnh Long 1 HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/THVL1-HD-1080p/chunks.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://gardenmedia.vn/kcfinder/upload/images/niyt_VA9.png" ,Vĩnh Long 2 HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/THVL2-HD-1080p/chunks.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="https://static.thvli.vn/assets/thumbnail/2019/02/02/ex95fvqg_Logo-THVLi3.jpg" ,Vĩnh Long 3 HD
+
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="https://static.thvli.vn/assets/thumbnail/2019/05/30/ww471q39_Logo-THVL4-HD.jpg" ,Vĩnh Long 4 HD
+#https://livemobile.thvli.vn/38f25bf3a83726c3ca75825287b0dacc1562516321/live/thvl4hd_2160000/index.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="https://truyenhinhnghean.vn/file/4028eaa46735a26101673a4df345003c/old_image/dataimages/201807/original/1411496_Logo_NTV_HD_chuan.png" ,Nghệ An HD
+http://113.160.173.47:8080/live/na1_1080/index.m3u8
+
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRsoMcoFyOWSLzxcw3S4xAPWKKGPoej-WJkC4-9m3CAhCwQWkq1" ,An Giang
+http://221.133.9.35:1935/live/1.stream_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/BRT_HD.png" ,Bà Rịa - Vũng Tàu
+http://113.163.216.23:1935/live/tv2.stream_480p/playlist.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/06/04/269136-VinhPhuc.png" ,Vĩnh Phúc
+rtmp://117.6.162.63/live//thvp
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://ibongda.net/upload/channel/btv_baclieu.png" ,Bạc Liêu
+http://118.69.205.213/thbl/thbl.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://hhvn.com.vn/wp-content/uploads/2016/07/tbk.png" ,Bắc Kạn
+http://118.107.68.10:1935/live/_definst_/BK_live/chunklist.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://bacgiangtv.vn/upload/files/logo.png" ,Bắc Giang
+http://vncdn.mediatech.vn/bgtvlive/tv1live.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="https://i.imgur.com/LaygJzZ.png" ,Bắc Ninh HD
+http://118.107.68.10:1935/live/_definst_/BTVHD_12806b51bdf7ac364126/playlist.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ben-tre_14588084926.jpg" ,Bến Tre HD
+http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/06/18/522019-BTV1.png" ,Bình Dương 1
+http://live.cdn.mobifonetv.vn/motv/mybtv1_hls.smil/chunklist_b1200000.m3u8
+
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://hhvn.com.vn/wp-content/uploads/2016/07/btv2.png" ,Bình Dương 2
+http://live.cdn.mobifonetv.vn/motv/mybtv2_hls.smil/chunklist_b1200000.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="https://archive.is/zlAdb/b289be51ba8217b32eb15f39052bdb8e106fa641.jpg" ,Bình Dương 3
+
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_lang-son_145880895824.jpg", Lạng Sơn HD
+http://vncdn.mediatech.vn/lstvlive/tv1live.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://tv.vietbao.vn/images/tv2015/channels/294-truyen-hinh-binh-phuoc-bptv1.jpg" ,Bình Phước 1
+http://118.69.197.145/hls/bptv1.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://4.bp.blogspot.com/-pQRzTkOMDyA/UYvB3H2zuMI/AAAAAAAAARA/B-eTGYr4ac8/s1600/binh-phuoc2.jpg" ,Bình Phước 2 HomeTV
+http://118.69.197.145/hls/bptv2.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="https://lh3.googleusercontent.com/TCcZl-IXKvL20I51LKH1CxIMKnzxzEYCn5QQxHaCSPVxAfhMxt33a9hCyod7QbK49rYW" ,Bình Thuận HD
+http://202.43.109.142:1935/thbttv/bttv/chunklist_w650363958.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR85kzm0URKyx2FgxFByn3Yfy9gfN9l4Rgq87fb7MZGC8PmXH0r" ,Cà Mau HD
+http://tv.ctvcamau.vn/live/tv/tv.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://caobangtv.vn/Uploaded/Users/Admin/images/2015/7/logo%20png.png" ,Cao Bằng
+http://118.107.68.10:1935/live/smil:Caobang.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="https://canthotv.vn/wp-content/uploads/2019/02/logo-headerTHTPCT5.png" ,Cần Thơ
+https://tv.canthotv.vn/live/tv/tv.m3u8 
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://www.drt.danang.vn/images/drt1.png" ,Đà Nẵng 1
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://www.drt.danang.vn/images/drt2.png" ,Đà Nẵng 2 HD
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/09/25/229604-DN1.png" ,Đồng Nai 1
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DONGNAI1-SD-ABR/HTV-ABR/DONGNAI1-SD-720p/chunks.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/09/25/447767-DN2.png" ,Đồng Nai 2
+http://118.107.68.10:1935/live/smil:DNAI2WEB.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="https://dongthap.sanphamweb.com/wp-content/uploads/2018/11/logo2-1.png" ,Đồng Tháp 1
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DONGTHAP-SD-ABR/HTV-ABR/DONGTHAP-SD-720p/chunks.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://gardenmedia.vn/kcfinder/upload/images/bang-gia-quang-cao-truyen-hinh-daklak.png" ,Đắk Lắk
+http://118.69.161.10:8134/liveevent.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2017-06-02/661716-dak-nong.png" ,Đắk Nông
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://gialaitv.vn/wp-content/themes/carrington-mobile/img/logo.png" ,Gia Lai
+http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="https://yt3.ggpht.com/a-/AAuE7mAZKAFIz-LPY9YjH5XU1TItgbn-lKfWWs-KGg=s900-mo-c-c0xffffffff-rj-k-no" ,Hà Giang
+http://118.107.68.10:1935/live/_definst_/HG_live/chunklist.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://hanamtv.vn/template/default/images/logo.png" ,Hà Nam
+http://113.160.198.111/Medias/HaNam/480P/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://tivis.101vn.com/images/hn1.png" ,Hà Nội 1 HD
+http://hanoitvlive.8ef55e0c.cdnviet.com/hanoi1.smil/chunklist_b3500000.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://tivis.101vn.com/images/hn2.png" ,Hà Nội 2 HD
+http://hanoitvlive.8ef55e0c.cdnviet.com/hanoi2.smil/chunklist_b3500000.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTICccj4x2d9jB3s7IdMJ8kP_WYSy4ZRlHWC0fxehLAA_nGxSKm" ,Hà Tĩnh HD
+http://171.244.141.125:8080/hls/hatinhtv.m3u8
+
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="https://i.imgur.com/cYH7tJe.png",Thừa Thiên Huế
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HUE-SD/chunks.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Logo_THP_chuan_2017.jpg" ,Hải Phòng
+http://118.107.68.10:1935/live/smil:Haiphong1.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="https://i.imgur.com/ui0sjEz.png" ,Hải Phòng +
+http://118.107.68.10:1935/live/smil:Haiphongplus.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://tvmedia.vn/upload/medialibrary/5af/5af210e9c39b3d520063b21bc87cb927.png" ,Hoà Bình
+http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://2.bp.blogspot.com/-_g29doa8Kqk/UY0Swpv9dEI/AAAAAAAAASg/-pg6a89V4Ws/s280/Hau-Giang.jpg" ,Hậu Giang
+http://haugiangtv.e96bbe18.sabai.vn/hgtv/chunklist.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://congdoanhungyen.vn/web_images/photo.jpg" ,Hưng Yên HD
+http://live.hungyentv.vn:1935/live/HYTV/playlist.m3u8
+
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://tv.vietnamobile.com.vn/images/channel/NinhThuanTV.jpg",Ninh Thuận
+rtmp://203.113.166.233/live/NTV_VIDEO
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://ktv.org.vn/wp-content/themes/ktv/assets/img/logo.png" ,Khánh Hòa HD
+http://210.245.20.94/hls/ktv1.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://tv.vinaphone.com.vn/images/channel/KienGiang.jpg" ,Kiên Giang
+http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://img.hplus.com.vn/728x409/banner/2018/06/04/953861-Kieng-Giang-1.png" ,Kiên Giang 1
+http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://kontumtv.vn/wp-content/themes/comfy-plus/styles/default/img/tv.png" ,Kon Tum
+http://117.2.88.22/hls-live/livepkgr/_definst_/liveevent/kontumtv.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://hhvn.com.vn/wp-content/uploads/2016/07/ltv.png" ,Lâm Đồng
+http://118.107.68.10:1935/live/smil:Lamdongtv.smil/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://la34.com.vn/wp-content/themes/carrington-mobile/img/logo.png" ,Long An HD
+http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
+
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="https://vignette.wikia.nocookie.net/logos/images/1/18/PTV_logo_%28Ph%C3%BA_Th%E1%BB%8D%29.svg/revision/latest/scale-to-width-down/340?cb=20180830142436&path-prefix=vi" ,Phú Thọ
+http://118.107.68.10:1935/live/smil:PhuthoBU.smil/chunklist_b1264000_slVIE.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="https://vignette.wikia.nocookie.net/logos/images/3/31/Logo_%C4%90%C3%A0i_Ph%C3%A1t_thanh_v%C3%A0_Truy%E1%BB%81n_h%C3%ACnh_Ph%C3%BA_Y%C3%AAn.png/revision/latest?cb=20180912032545&path-prefix=vi" ,Phú Yên
+http://113.161.4.48:8080/phuyen/tv.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://img.hplus.com.vn/460x260/poster/2018/06/05/764456-QRT.png" ,Quảng Nam
+http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://quangngaitv.vn/images/no_pic.png" ,Quảng Ngãi
+http://118.107.68.10:1935/live/smil:QuangNgaitv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBkShFqRrSjUSXg8UkmiwuJW7sOM1f9eKCe4w=s288-mo-c-c0xffffffff-rj-k-no" ,Quảng Trị
+http://118.107.68.10:1935/live/smil:Quangtri.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://thst.vn/Content/images/stv1.png" ,Sóc Trăng 1 HD
+http://115.78.3.164:8134/liveevent.m3u8 
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://thst.vn/Content/images/stv2.png" ,Sóc Trăng 2
+http://115.78.3.164:8134/liveeventstv2.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="https://3ssoft.vn/sites/default/files/sonlatv_0.jpg" ,Sơn La
+http://118.107.68.10:1935/live/smil:Sonlatv.smil/chunklist_b1264000_slVIE.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="https://vignette.wikia.nocookie.net/logos/images/e/e3/TBTV_logo.svg/revision/latest/scale-to-width-down/639?cb=20180727200541&path-prefix=vi" ,Thái Bình HD
+http://vncdn.mediatech.vn/tbtvlive/tv1live.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://truyenhinhthanhhoa.vn/dataimages/201809/original/images5440344_750ecf0078699837c178.jpg" ,Thanh Hóa HD
+http://video.vietnamcdn.net/687642383/_definst_/mystream.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://tvmedia.vn/upload/medialibrary/c1d/c1d97c9cf13d8b021995bdac0abc8d0e.png" , Tây Ninh HD
+http://202.43.109.142:1935/ttv11/tntv/playlist.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="https://i.ytimg.com/vi/ug3S4quT0yI/maxresdefault_live.jpg" , Thái Nguyên 1 HD
+http://thainguyentv.vn/hls/livestream.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://thainguyentv.vn/modules/frontend/themes/ptthtn/images/logo-tet.png?v=2.620190220163622" , Thái Nguyên 2
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="https://upload.wikimedia.org/wikipedia/vi/6/65/Logo_THTG.png" , Tiền Giang
+http://thtg.vn:8001/stream_hi.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="https://i.imgur.com/vXriu0n.png", Trà Vinh
+http://travinhlive.07b99c25.cdnviet.com/travinhtv/playlist.m3u8
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="https://i.imgur.com/PWbjWQg.jpg", Tuyên Quang
+http://113.160.166.1:8080/hls/ttv.m3u8?c=vstv221&q=high
+
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG"  tvg-logo="http://mvlagency.net/wp-content/uploads/2017/08/QUANG-CAO-TRUYEN-HINHBANG-GIA-QUANG-CAO-TRUYEN-HINH-LAO-CAI.jpg" ,Lào Cai
+http://tructuyen.laocaitv.vn:1935//live_/LCTV/chunklist_w1819494473.m3u8
+
+
+
+#EXTINF:-1 group-title="VTV" tvg-logo="http://image.phimmoi.net/film/8328/poster.medium.jpg", Avenger : EndGame
+http://n3.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/072019/29/Avengers_Endgame_2019_720p_WEBRIP_H/playlist_h.m3u8
+#EXTINF:-1 group-title="KÊNH NIMO-TV",Phim Chiếu Rạp Mới Nhất 2019
+https://ws.flv.nimo.tv/live/su1599512427609rec4c3a4d7d72c1946e09a8d6ca157304.flv
+#EXTINF:-1,Ỷ Thiên Đồ Long Ký 2019
+https://tx.flv.nimo.tv/live/su1599512427617rae4f86972500969d24b8d4bc88ee9b7a.flv
+#EXTINF:-1,Tân Ỷ Thiên Đồ Long Ký 2008
+https://tx.flv.nimo.tv/live/su1599512427551r650a1b5abfd7679be6e85c9e976c4e92.flv
+#EXTINF:-1,GAME OF THRONES
+http://ws.flv.nimo.tv:80/live/su1599512427620r670c57364b4f552f7266695a41fa8534.flv
+#EXTINF:-1,SIÊU ANH HÙNG MARVEL
+http://ws.flv.nimo.tv:80/live/su1599512427626re02097385902583d031254e5d6f0c321.flv
+#EXTINF:-1,PHIM LÝ LIÊN KIỆT
+http://tx.flv.nimo.tv:80/live/su1599512427613rc65a6f5bf850525e6b23ec9be1786a8f.flv
+#EXTINF:-1,PHIM THÀNH LONG
+http://ws.flv.nimo.tv:80/live/su1599512427581r351d39e6132e1ade9cee4e1779e30b7b.flv
+#EXTINF:-1,PHIM CHÂU TINH CHÌ
+http://tx.flv.nimo.tv:80/live/su1599512427555r836c741032fe0c717363f3d8165710c2.flv
+#EXTINF:-1,PHIM CHÂU NHUẬN PHÁT
+http://ws.flv.nimo.tv:80/live/su1599512427566rca27179ff65fc54240079997d10cde93.flv
+#EXTINF:-1,PHIM LƯU ĐỨC HOA
+http://al.flv.nimo.tv:80/live/su1599512427612r744829c1d0b695d6ec8bedeba71468a0.flv
+#EXTINF:-1,PHIM MR BEAN
+http://ws.flv.nimo.tv:80/live/su1599512427629r6867b820ecdb882cd1df6a2971cf8dea.flv
+#EXTINF:-1,PHIM TOM CRUISE
+http://al.flv.nimo.tv:80/live/su1599512427588r6f51cee87c7a082b0df74e113ebeae52.flv
+#EXTINF:-1,PHIM WILL SMITH
+http://ws.flv.nimo.tv:80/live/su1599512427592rd3cda4b1f71d6ff9c85feaa7b1232463.flv
+#EXTINF:-1,PHIM JAME BOND
+http://tx.flv.nimo.tv:80/live/su1599512427635r42b9eee8a790b0e2fc8e1a6ba0562e37.flv
+#EXTINF:-1,PHIM JOHNNY DEEP
+http://ws.flv.nimo.tv:80/live/su1599512427599r09d42cd4a2b79345f9434829590db6c3.flv
+#EXTINF:-1,THE FLASH
+http://ws.flv.nimo.tv:80/live/su1599512427625r1b2b320b004694b1ca38eb84c95aed8a.flv
+#EXTINF:-1,THÁM TỬ SHERLOCK HOME
+http://tx.flv.nimo.tv:80/live/su1599512427580r629d80fdaf8413c8e7083d1d0cd5fbf5.flv
+#EXTINF:-1,PHIM TVB
+http://ws.flv.nimo.tv:80/live/su1599512427611r73a0c72c16428aab689fc60191e9588a.flv
+#EXTINF:-1,THIÊN SỨ BẮT MA
+http://al.flv.nimo.tv:80/live/su1599512427582ra35f81b322dd6da7977d87650b1863e0.flv
+#EXTINF:-1,PHIM HỌC VIỆN UMBRELLA
+http://ws.flv.nimo.tv:80/live/su1599512427605rff6ca41e07b79b0994a9815c0ab31f5d.flv
+#EXTINF:-1,Diên Hy Công Lược
+https://ws.flv.nimo.tv/live/su1599512427548r9773230416815566776f512b673586f7.flv
+#EXTINF:-1,Phim Châu Tinh Trì
+https://ws.flv.nimo.tv/live/su1599512427555r836c741032fe0c717363f3d8165710c2.flv
+#EXTINF:-1,TVB Bằng Chứng Thép
+https://tx.flv.nimo.tv/live/su1599512427610r8f4bae585a61a8b25d6229cd32f9a6c4.flv
+#EXTINF:-1,TVB Đại Soái Ca
+https://ws.flv.nimo.tv/live/su1599512427611r73a0c72c16428aab689fc60191e9588a.flv
+#EXTINF:-1,Hài Hoài Linh
+https://tx.flv.nimo.tv/live/su1599512427606rf2ef4b5c1579eb96360153fb0d1fcfc1.flv
+#EXTINF:-1,Hài Vân Sơn Bảo Liêm
+https://al.flv.nimo.tv/live/su1599512427607r6166990443e2840d425f385a8df6c4c7.flv
+#EXTINF:-1,Đảo Hải Tặc One Piece
+https://al.flv.nimo.tv/live/su1599512427600r01fea2f56268e5a32e8e1d5c6dad7ede.flv
+#EXTINF:-1,Conan Tiếng Việt 1
+https://al.flv.nimo.tv/live/su1599512427561r32f86ec41ff353df5fd649beb68e6388.flv
+#EXTINF:-1,Conan Tiếng Việt 2
+https://al.flv.nimo.tv/live/su1599512427577r176a7daa9302ccecdda91e18ea9be73e.flv
+#EXTINF:-1,Conan Tập 390-9xx
+https://ws.flv.nimo.tv/live/su1599512427572re6b4d2bfbd968a965107eafabdad5184.flv
+#EXTINF:-1,Doremon Tiếng Việt
+https://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530.flv
+#EXTINF:-1,Doremon Tiếng Việt Tập Dài
+https://al.flv.nimo.tv/live/su1599512427578r00bac8d56488f6ca2d6915fb95ab88e8.flv
+#EXTINF:-1,Hoạt Hình Âu Mỹ Mới Nhất
+https://ws.flv.nimo.tv/live/su1599512427556r803c8e196969c0688aecbfcf32d604b3.flv
+#EXTINF:-1,Hoạt Hình Nhật Bản
+https://tx.flv.nimo.tv/live/su1599512427549r5d901db60b2b18139bcd74a8fc670c36.flv
+#EXTINF:-1,Truyện Ma Nguyễn Ngọc Ngạn
+https://ws.flv.nimo.tv/live/su1599512427596rff1cf51a332632f6e97db346b153156e.flv
+#EXTINF:-1,Tom & Jerry Tiếng Việt
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16.flv
+#EXTINF:-1,Ben 10 Tiếng Việt
+https://al.flv.nimo.tv/live/su1599512427586rdd11b1329d2f0e25fc16c80a467f573c.flv
+#EXTINF:-1,Anime Hội Pháp Sư
+https://tx.flv.nimo.tv/live/su1599512427567r44397e42e5c218338dc999412d69a4bc.flv
+#EXTINF:-1,Hunter X Hunter
+https://ws.flv.nimo.tv/live/su1599512427562r89436fcde4d4278fc2e87c8600d465e1.flv
+#EXTINF:-1,Dragon Ball Z Tiếng Việt
+https://ws.flv.nimo.tv/live/su1599512427558r464ce7577525c715f04419095ae6abeb.flv
+#EXTINF:-1,Gameshow Nhật Bản
+https://al.flv.nimo.tv/live/su1599512427579r077464ff4416f164a4316f3ec87be5d8.flv
+#EXTINF:-1,Giọng Ải Giọng Ai KOREA
+https://ws.flv.nimo.tv/live/su1599512427552r6613f3cb4ffb5a74123c2b4c30a05049.flv
+#EXTINF:-1,Live-Liên Quân (Match Only)
+https://vtbd.vn.data.garena.tv/hls/213154/954367.m3u8
+#EXTINF:-1 group-title="KÊNH THIẾU NHI" tvg-logo="http://gg.gg/kid-linh",TOM AND JERRY
+https://aldirect.hls.huya.com/huyalive/94525224-2679664054-11509069476196777984-2847687532-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="http://gg.gg/kid-linh",JP-DORAEMON
+http://aldirect.hls.huya.com/huyalive/29169025-2686220742-11537230236726853632-3048959612-10057-A-1524131613-1.m3u8
+#EXTINF:-1 tvg-logo="http://gg.gg/kid-linh",Live-Hoạt hình Disney
+http://aldirect.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274560-10057-A-1525417691-1.m3u8
+#EXTINF:-1 tvg-logo="http://gg.gg/kid-linh",MIAO-MI
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+#EXTINF:0 tvg-logo="http://gg.gg/kid-linh",ANIPLUS HD
+http://210.210.155.35/dr9445/h/h02/index2.m3u8
+#EXTINF:-1 group-title ="KÊNH PHIM " tvg-logo="http://gg.gg/fim-linh",StarMovies HD-ENG sub
+http://89.187.177.179:80/StarMoviesHD-Hin/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://gg.gg/fim-linh",TVB-Jade
+http://m.567it.com/jade.m3u8 
+#EXTINF:-1 tvg-logo="http://gg.gg/fim-linh",Live-Thành Long China
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="http://gg.gg/fim-linh",Live-Lý Liên Kiệt
+http://tx.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="http://gg.gg/fim-linh",Live-Châu Tinh Trì
+http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="http://gg.gg/fim-linh",Live-Lưu Đức Hòa
+http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="http://gg.gg/fim-linh",Live-Bao Thanh Thiên
+http://aldirect.hls.huya.com/huyalive/30765679-2534694464-10886429828232249344-2789253856-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="http://gg.gg/fim-linh",Live-Anh hùng xạ điêu
+http://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1.m3u8
+#EXTINF:-1 tvg-logo="http://gg.gg/fim-linh",Live-Cờ Bạc Bịp
+http://aldirect.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1.m3u8 
+#EXTINF:-1 tvg-logo="http://gg.gg/fim-linh",Movies-1_Phụ đề Anh
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1.m3u8
+#EXTINF:-1 tvg-logo="http://gg.gg/fim-linh",Movies-2_Phụ đề Anh
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://i.ytimg.com/vi/a2K5jxRXl6Q/maxresdefault.jpg",Kênh Live Liên Quân Mobile(Chỉ phát khi có giải đấu)
+https://vtbd.vn.data.garena.tv/hls/213154/954367_mid.m3u8
+
+#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png",Phong Thần Dương Tiễn
+https://ws.flv.nimo.tv/live/su1599512427621r54f92d0bb9657a84d3211bbe20bedf26_high.flv?needwm=0
+
+#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png",Live Concert Kpop
+https://ws.flv.nimo.tv/live/su1599512427593r490f93a8a500f7d39cbb5ae9d8ea735b_high.flv
+
+#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png" ,Kênh Hài Hoài Linh
+https://tx.flv.nimo.tv/live/su1599512427606rf2ef4b5c1579eb96360153fb0d1fcfc1_high.flv
+
+#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png",Anime Captain Tsubasa 2019
+https://ws.flv.nimo.tv/live/su1599512427630rb9a94d5f0fa60cec1044ec85fbd76da7_veryhigh.flv?needwm=0
+
+#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png",Anime Pokemon
+https://ws.flv.nimo.tv/live/su1599512427622r073f84b376d62cfd26fbcf13e7ef5fd0_low.flv?needwm=0
+
+#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png",Pokemon Phim Lẻ
+https://ws.flv.nimo.tv/live/su1599512427623r60a0f49359ab5ea619b0e2a4e448d9af.flv?needwm=0
+
+#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png" ,Cậu bé bút chì
+https://ws.flv.nimo.tv/live/su1599512427627rdc1b400f8200f7923309b6186cc142f8_high.flv?needwm=0
+
+
+#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png" ,Tuyển Tập Phim Thành Long
+https://tx.flv.nimo.tv/live/su1599512427581r351d39e6132e1ade9cee4e1779e30b7b_high.flv
+
+#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png" ,Doremon Tiếng Việt Tập Ngắn
+https://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.flv
+
+#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png" ,Doremon Tiếng Việt Tập Dài
+https://al.flv.nimo.tv/live/su1599512427578r00bac8d56488f6ca2d6915fb95ab88e8_high.flv
+
+#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png" ,Hoạt Hình Hunter X Hunter
+https://ws.flv.nimo.tv/live/su1599512427562r89436fcde4d4278fc2e87c8600d465e1_high.flv
+
+#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png" ,Dragon Ball Z Tiếng Việt
+https://ws.flv.nimo.tv/live/su1599512427558r464ce7577525c715f04419095ae6abeb_high.flv
+
+#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png" ,Dragon Ball Kai Tiếng Việt
+https://ws.flv.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high.flv?needwm=0
+
+#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png" ,Conan Tiếng Việt
+https://al.flv.nimo.tv/live/su1599512427561r32f86ec41ff353df5fd649beb68e6388_mid.flv
+
+#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png" ,Conan Tiếng Việt 2
+https://al.flv.nimo.tv/live/su1599512427577r176a7daa9302ccecdda91e18ea9be73e_high.flv
+
+#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png" ,Tom & Jerry Tiếng Việt
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
+
+#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png" ,Ben 10 Tiếng Việt
+https://al.flv.nimo.tv/live/su1599512427586rdd11b1329d2f0e25fc16c80a467f573c_high.flv
+
+#EXTINF:-1 group-title="Kênh 24/7"  tvg-logo="https://tv.eslgaming.com/images/logo_nimotv.png" ,Tân Ỷ Thiên Đồ Long Ký 2008
+https://tx.flv.nimo.tv/live/su1599512427551r650a1b5abfd7679be6e85c9e976c4e92_high.flv
+
+
+
+
+#EXTINF:-1 group-title="Thể Thao"  tvg-logo="https://banner2.kisspng.com/20180713/ctp/kisspng-2018-world-cup-2018-uefa-champions-league-final-20-mls-logo-5b490323ea8089.2305780115315115879605.jpg",Live Football 1
+http://live.bongdaf.net/hls/7f192d20496c6f374058bd49cef5018e/5c852e7ca9000kbcJWS474/24170c558237255a1c87bb9553c73fb2/j7tfrf3/index.m3u8
+
+#EXTINF:-1 group-title="Thể Thao"  tvg-logo="https://banner2.kisspng.com/20180713/ctp/kisspng-2018-world-cup-2018-uefa-champions-league-final-20-mls-logo-5b490323ea8089.2305780115315115879605.jpg",Live Football 2
+http://live.ibongda.tv/hls/368779bd5c6726d9d255f9d649c316b7/5ccd7697a4a04bwnVDB227/329932aa8eaefb01d6845874a49f0a9c/xdjhqhw/index.m3u8
+
+#EXTINF:-1 group-title="Thể Thao"  tvg-logo="https://banner2.kisspng.com/20180713/ctp/kisspng-2018-world-cup-2018-uefa-champions-league-final-20-mls-logo-5b490323ea8089.2305780115315115879605.jpg",Live Football 3
+http://live.ibongda.tv/hls/67c7ce9a3c93e80ff7abddaab389223a/5c85395d09dfdfzyOJQ072/ec947ff10bfa6a646b14c56eeb650847/xdjhqhw/index.m3u8
+
+#EXTINF:-1 group-title="Thể Thao"  tvg-logo="https://banner2.kisspng.com/20180713/ctp/kisspng-2018-world-cup-2018-uefa-champions-league-final-20-mls-logo-5b490323ea8089.2305780115315115879605.jpg",Live Football 4
+http://live.bongdaf.net/hls/ca8a20e32bb1bbfec4672b39d3ae2e94/5c852e18c8f1akxcCBU006/da3365f03ff732ba38f11601384f6e43/b13vrkl/index.m3u8
+
+#EXTINF:-1 group-title="Thể Thao"  tvg-logo="https://banner2.kisspng.com/20180713/ctp/kisspng-2018-world-cup-2018-uefa-champions-league-final-20-mls-logo-5b490323ea8089.2305780115315115879605.jpg",Live Football 5
+http://live.bongdaf.net/hls/ad631be1bc8c4f5e17018f2f60f3061b/5c852e3919663uhlQOZ236/7913b85d61308864c186b7a6d3dee346/83budxc/index.m3u8
+
+#EXTINF:-1 group-title="Thể Thao"  tvg-logo="https://banner2.kisspng.com/20180713/ctp/kisspng-2018-world-cup-2018-uefa-champions-league-final-20-mls-logo-5b490323ea8089.2305780115315115879605.jpg",Live Football 6
+http://live.bongdaf.net/hls/766b0885a123bd221cea5b05a147fc96/5c852e5742dc4pseNZS697/7b85f466c206ba0e719026dc8e808cc9/zknbe7n/index.m3u8
+
+#EXTINF:-1 group-title="Thể Thao"  tvg-logo="https://banner2.kisspng.com/20180713/ctp/kisspng-2018-world-cup-2018-uefa-champions-league-final-20-mls-logo-5b490323ea8089.2305780115315115879605.jpg",Live Football 7
+http://live.bongdaf.net/hls/76b0387bc50254dd5f398df3285f18dc/5c852ebf3d55fkblCOJ712/38ed0e87d047dfa8cd47220350fb02f6/n2o4qbe/index.m3u8
+
+#EXTINF:-1 group-title="Thể Thao"  tvg-logo="https://banner2.kisspng.com/20180713/ctp/kisspng-2018-world-cup-2018-uefa-champions-league-final-20-mls-logo-5b490323ea8089.2305780115315115879605.jpg",Live Football 8
+http://live.bongdaf.net/hls/2dcfed6fcfb6cd36fd8697000b1e8552/5c852ef7c50aecboRIN440/3ca4f96cbb3ff33703a02b10f89c6e03/mgp6eqy/index.m3u8
+
+
+
+
+
+#EXTINF:-1 ,NBC GOLF SD
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1 ,NBC GOLF 720p
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1 ,NBC GOLF 1080p
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1 ,GOLF KOREA
+http://122.38.74.172:9981/stream/channelid/1912818513?ticket=34A20926439F4BD0B49F33DF2257D921CDD63B7B&profile=pass
+#EXTINF:-1 ,SBS Golf
+http://122.38.74.172:9981/stream/channelid/850332798?ticket=F41CF5C37204CC6D1D1028E7FD79D657C7D15BE5&profile=pass
+
+#EXTINF:-1 ,Viasat Golf
+http://playlist.onlybest.tv/en/channel/3dfec4b56a6fbb4052ceb76274060617/59/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Sports",AD Sport 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1 group-title="Sports",AD Sport 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+
+#EXTINF:-1 group-title="Phim 24/7",24/7 Blockbuster Movies FHD
+http://live-tx-hdl.huomaotv.cn/live/buxKMY24084.m3u8
+#EXTINF:-1 group-title="Phim 24/7",24/7 Superhero Movies FHD
+http://live-tx-hdl.huomaotv.cn/live/9gFWYZ24081.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268%3Bg%3D0/sign=f4782d1d26381f309e198aaf913a2b35/ca1349540923dd543c19b84ddf09b3de9c8248a8.jpg",Trùng Khánh TV
+http://223.82.250.72/live/chongqingstv/1.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="http://www.seeyon.com/Public/kindeditor/attached/image/20170920/20170920141013_37103.jpg" ,HỒ NAM TV
+http://111.40.205.73/PLTV/88888888/224/3221225610/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="http://img.sj33.cn/uploads/allimg/201402/7-1402251H15D40.png" ,AN HUY
+http://111.40.205.73/PLTV/88888888/224/3221225727/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="http://pic44.photophoto.cn/20170701/0017030063660888_b.jpg" ,THÂM QUYẾN
+http://111.40.205.73/PLTV/88888888/224/3221225739/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="http://bpic.588ku.com/element_origin_min_pic/17/12/31/67e260277055d1c99ce942cd11a16411.jpg!/fwfh/804x1002/quality/90/unsharp/true/compress/true" ,GIANG TÂY
+http://111.40.205.73/PLTV/88888888/224/3221225615/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="http://www.haoqu.net/uploadfile/2015/0417/20150417123421472.jpg" ,ĐÔNG NAM
+http://111.40.205.73/PLTV/88888888/224/3221225620/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="https://img.meituan.net/csc/7e5d42baaf4ed1d945bab3035a9edbee14673.jpg",Tây An
+http://stream2.xiancity.cn/xatv5/sd/live.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="http://ku.90sjimg.com/element_origin_min_pic/18/01/05/0d6c11e7a26a8547a9e97e6958a10e6b.jpg" ,TỨ XUYÊN
+http://111.40.205.73/PLTV/88888888/224/3221225621/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="https://alchetron.com/cdn/celestial-movies-bb30cf54-c796-47e1-aa8f-f2b8bdbbf5a-resize-750.png" ,Celestial Movies
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="http://miaomi-tv.com/Public/images/miao-mi-logo-color.png" ,Miaomi
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/2000px-KIX_logo.svg.png" ,Kix
+http://45.126.83.51/uq2663/h/h07/01.m3u8
+
+#EXTINF:-1 group-title="KÊNH HỒNG KÔNG"  tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c6/TDM_Desporto.png" ,澳视高清
+http://live3.tdm.com.mo:1935/ch6/hd_ch6.live/playlist.m3u8
+
+#EXTINF:-1 group-title="KÊNH HỒNG KÔNG"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Fantastic_Television.svg/2000px-Fantastic_Television.svg.png" ,奇妙77台
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="https://www.goodtvmedia.com/wp-content/uploads/2018/08/good-tv-web-small-logo.png" ,Good TV
+http://live.streamingfast.net/osmflivech30.m3u8
+
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/CCTV-1%E7%BB%BC%E5%90%88.png" ,CCTV1 HD
+http://223.110.245.170/PLTV/3/224/3221225530/index.m3u8
+
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/CCTV-2_%E8%B4%A2%E7%BB%8F.svg/1280px-CCTV-2_%E8%B4%A2%E7%BB%8F.svg.png" ,CCTV2 HD
+http://223.110.245.170/PLTV/3/224/3221227207/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/CCTV-3%E7%BB%BC%E8%89%BA.svg/1280px-CCTV-3%E7%BB%BC%E8%89%BA.svg.png" ,CCTV3 HD
+http://111.40.205.73/PLTV/88888888/224/3221225754/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/CCTV-4_%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85.svg/1200px-CCTV-4_%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85.svg.png" ,CCTV4 HD
+http://183.207.249.11/PLTV/3/224/3221225534/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/CCTV-6%E7%94%B5%E5%BD%B1.png" ,CCTV6 HD
+http://111.40.205.73/PLTV/88888888/224/3221225751/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/CCTV-7%E5%86%9B%E4%BA%8B%E5%86%9C%E4%B8%9A.png" ,CCTV7 HD
+http://111.40.205.73/PLTV/88888888/224/3221225733/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/CCTV-8%E7%94%B5%E8%A7%86%E5%89%A7.png" ,CCTV8 HD
+http://111.40.205.73/PLTV/88888888/224/3221225750/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/CCTV-9%E7%BA%AA%E5%BD%95.png" ,CCTV9 HD
+http://111.40.205.73/PLTV/88888888/224/3221225734/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/CCTV-10%E7%A7%91%E6%95%99.png" ,CCTV10 HD
+http://111.40.205.73/PLTV/88888888/224/3221225730/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/CCTV-11%E6%88%8F%E6%9B%B2.png/266px-CCTV-11%E6%88%8F%E6%9B%B2.png" ,CCTV11 HD
+http://111.40.205.87/PLTV/88888888/224/3221225597/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/CCTV-12%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95.png" ,CCTV12 HD
+http://111.40.205.73/PLTV/88888888/224/3221225731/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/CCTV-13%E6%96%B0%E9%97%BB.png" ,CCTV13 HD
+http://111.40.205.87/PLTV/88888888/224/3221225599/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/CCTV-14%E5%B0%91%E5%84%BF.png" ,CCTV14 HD
+http://111.40.205.73/PLTV/88888888/224/3221225732/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/CCTV-15%E9%9F%B3%E4%B9%90.png" ,CCTV15-KÊNH NHẠC
+http://111.40.205.73/PLTV/88888888/224/3221225601/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/CCTV-4K_Ultra_HD.png",CCTV4K
+http://cdn-out.iqy.sc96655.com/tslive/c204_scc_20190107_yvwl5h02_original_t10/c204_scc_20190107_yvwl5h02_original_t10.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20181016/4924206bad614f799017878363b5708e.jpeg",Quảng Đông 4k
+http://stream1.grtn.cn/4K/sd/live.m3u8?_upt=37a5bcd31563794029
+
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUs17D225YSu_Lse0LwA_87GClZpwldp7HoDyOa--zWji03VZM",CETV
+http://39.135.16.142:6060/PLTV/88888888/224/3221225679/1/1000.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRLwK7R9jxSVjfsTYzHsbnbjfykdaQnzzebt7wBveQrhUO6gDI-",CETV1
+http://cctvtxyh5c.liveplay.myqcloud.com/cstv/cetv1_2_hd.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="https://www.tvchinese.net/uploads/tv/cetv2.jpg",CETV2
+http://cctvtxyh5c.liveplay.myqcloud.com/cstv/cetv2_2_hd.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="http://sucimg.itc.cn/avatarimg/5904dd87022b4c5dad0c2ec16064ea64_1488265262750",CETV3
+http://cctvtxyh5c.liveplay.myqcloud.com/cstv/cetv3_2_hd.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="https://www.tvchinese.net/uploads/tv/cetv4.jpg",CETV4
+http://cctvtxyh5c.liveplay.myqcloud.com/cstv/cetv4_2_hd.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="https://seeklogo.com/images/S/seven-logo-9538CA3439-seeklogo.com.png",Se7ven
+http://cn-gdgz4-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_61157635_5292797.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="http://www5.53kf.com/upload/imglist/company/6/15557393412334.png" ,Thiểm Tây
+http://stream.snrtv.com/sxtvs-star.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="http://www5.53kf.com/upload/imglist/company/6/15557393412334.png" ,Sơn Đông
+http://183.207.249.7/PLTV/3/224/3221225586/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="http://www.949422.com/d/file/sucai/kejiaowenhua/guanggaochuangmei/2017-05-19/9f3c82024bc1eb326383a62420fea037.jpg",Ninh Hạ
+http://cctvtxyh5c.liveplay.myqcloud.com/wstv/ningxia_2_hd.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="http://i02.cztv.com/2013/12/1387789357_85343700.png",Chiết Giang
+http://ali.m.l.cztv.com/channels/lantian/channel01/360p.m3u8
+
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="http://img.tastywarrants.hk/posts/432c9422-5534-403a-adf1-10458f53cb2e.png",Phượng Hoàng
+http://ydn11.b-cdn.net/fhzw.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png",Kênh Hồng Kông Phoenix
+http://cdn8.easylifewell.com/fhzx.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRPUF4AZKOR7jVmJ46sl3zYAMAjXDJAt-C_-Lo6kNEzvuHwHVcI",Xiamen Star
+http://cstv.live.wscdns.com/live/xiamen4/playlist.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="http://www.daai.tv/images/logo.png",Akamai HD
+https://wowzaprodhd44-lh.akamaihd.net/i/953b6364_1@580145/index_2728_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR3ZZiRaV7wSd4ZRuDCyB31n_XnFXHn7_PEQOetevWiBweA-TAf",Phim Trực Tuyến China
+http://aldirect.hls.huya.com/backsrc/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="https://s11.mogucdn.com/mlcdn/fe720b/190311_67aje5dfe4g0g83kj16i6e07g9ef0_319x200.jpg",Bắc Kinh
+http://111.40.205.73/PLTV/88888888/224/3221225728/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="https://s11.mogucdn.com/mlcdn/fe720b/190311_67aje5dfe4g0g83kj16i6e07g9ef0_319x200.jpg",Bắc Kinh 2-Thể Thao
+http://111.40.205.73/PLTV/88888888/224/3221225729/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="https://banner2.kisspng.com/20180129/gxq/kisspng-shanghai-media-group-dragon-television-china-centr-dragon-tv-5a6f9c323186d6.5487482815172639222029.jpg",Thượng Hải
+http://111.40.205.73/PLTV/88888888/224/3221225735/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="https://www.tvchinese.net/uploads/tv/guangdongtv.jpg",Quảng Đông
+http://111.40.205.73/PLTV/88888888/224/3221225736/index.m3u8
+
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="http://image1.bjhexuantengyi.com/20190212/af723c5e8a9e24a9c7cfe192907c8578.jpg",山东少儿频道
+http://111.40.205.73/PLTV/88888888/224/3221225737/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="https://banner2.kisspng.com/20180129/gxq/kisspng-shanghai-media-group-dragon-television-china-centr-dragon-tv-5a6f9c323186d6.5487482815172639222029.jpg",Noname 3
+http://111.40.205.73/PLTV/88888888/224/3221225738/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="https://banner2.kisspng.com/20180129/gxq/kisspng-shanghai-media-group-dragon-television-china-centr-dragon-tv-5a6f9c323186d6.5487482815172639222029.jpg",Noname 4
+http://111.40.205.73/PLTV/88888888/224/3221225739/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="https://banner2.kisspng.com/20180129/gxq/kisspng-shanghai-media-group-dragon-television-china-centr-dragon-tv-5a6f9c323186d6.5487482815172639222029.jpg",Noname 5
+http://111.40.205.73/PLTV/88888888/224/3221225740/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/02/TVB-Jade-Hong-Kong-300x200.jpg",TVB JADE
+http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="https://vignette.wikia.nocookie.net/kidvskat/images/6/63/J2.png/revision/latest?cb=20140508002332",TVB J2
+http://59.37.87.116/atv/01kjzcom__redirect__1392.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="http://plib.aastocks.com/aafnnews/image/medialib/20181026093830853_m.jpg",Hồng Nông OpenTV
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="https://www.directv.com/images/logos/channels/dark/large/217.png",Boomerang China
+http://3ea2ac02.ulkakak.pw/iptv/UAVTALUW886L8G/723/index.m3u8
+
+#EXTINF:-1 group-title="KÊNH CHINA"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTAqP_ru1o-OYsVFeMGzlm6XTBuTTJdm3ZDFzHLurROUppVsRBt",UTV
+http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
+
+
+
+
+#EXTINF:-1 group-title="KÊNH HÀN"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/2000px-Logo_tvN.svg.png" ,TVN
+http://199.21.149.42:9083/live/lmgr218-live1/F8/6x/F86xTagKpWyjsAWhpFhRYQ==/live.M3U8
+
+#EXTINF:-1 group-title="KÊNH HÀN"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Music_Makes_One_Mnet_Logo.png",Mnet
+http://199.21.149.42:9083/live/lmgr218-live1/DD/kh/DDkhewBlWWfGWPVkTkDWNA==/live.M3U8
+
+#EXTINF:-1 group-title="KÊNH HÀN"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TV_Chosun_logo_%28hangul%29.svg/1280px-TV_Chosun_logo_%28hangul%29.svg.png",Chosun
+http://live.chosun.gscdn.com/live/_definst_/tvchosun3.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="KÊNH HÀN"  tvg-logo="https://img.meituan.net/csc/df949a136e7323841ed4837a30baed0228071.jpg",EBS Kids TV
+http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1065959876.m3u8
+
+#EXTINF:-1 group-title="KÊNH HÀN"  tvg-logo="https://pbs.twimg.com/profile_images/390667132/Korea_TV_Logo3_400x400.jpg",Korea TV
+http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8?wowzasessionid=888209222
+
+
+#EXTINF:-1 group-title="QUỐC TẾ"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Rai_Movie_HD_-_Logo_2017.svg/1024px-Rai_Movie_HD_-_Logo_2017.svg.png" ,Rai Movie HD
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="QUỐC TẾ"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" ,CH7
+http://live.pjmcdn.info/live/Ch7-HD.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="QUỐC TẾ"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Thairath_TV_Logo.svg/1200px-Thairath_TV_Logo.svg.png" ,Thairath
+https://live.thairath.co.th/trtv2/playlist.m3u8
+
+#EXTINF:-1 group-title="QUỐC TẾ"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png" ,RT News
+https://rt-news.secure.footprint.net/1103-inadv-qidx-1k_v3.m3u8?stream_start_offset=14000000&stream_dvr_window=0
+
+
+#EXTINF:-1 group-title="QUỐC TẾ"  tvg-logo="http://tduc.tk/logo/nhk.png",NHK WORLD JAPAN
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
+
+
+#EXTINF:-1 group-title="QUỐC TẾ"  tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/45/Star_movies_me_hd.png" ,Star Movies HD
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="Paris By Night",PBN-124 Anh Cho Em Mùa Xuân
+http://www.mediafire.com/download/u4m3oeggwq1o2bt/PBN124.mkv
+#EXTINF:-1 group-title="Paris By Night",PBN-123 Ảo Ảnh
+http://www.mediafire.com/download/re218raga1h7pzw/PBN123.mkv
+#EXTINF:-1 group-title="Paris By Night",PBN-121 Song Ca Nhạc Vàng
+http://www.mediafire.com/download/dhdqjmfpbo8wa7w/PBN21_720p.mkv
+#EXTINF:-1 group-title="Paris By Night",PBN-120 Còn Chút Gì Để Nhớ
+http://www.mediafire.com/download/78iypc7ozuupyju/Paris.By.Night.120.2016.HD.BluRay.Rip.720P.mkv
+#EXTINF:-1 group-title="Paris By Night",PBN-118 50 Năm Âm Nhạc Đức Huy
+#http://www.youtube.com/watch?v=EI8oVmdK6r8
+#EXTINF:-1 group-title="Paris By Night",PBN-117 Vườn Hoa Âm Nhạc HD 1080p
+http://www.mediafire.com/download/fj56quupoqr5d4b/Paris_By_Night_117_Vuon_Hoa_Am_Nhac_2016_mHD_BluRay_DD2.0_x264-TRiM.mp4
+#EXTINF:-1 group-title="Paris By Night",PBN-116 Nụ Cười Đầu Năm HD 1080p
+http://www.mediafire.com/download/o1uuyuir30w6qcg/Paris.By.Night.116.Nu.Cuoi.Dau.Xuan.Bluray.1080i.x264.AC3.mp4
+#EXTINF:-1 group-title="Paris By Night",PBN-115 Nét Đẹp Á Đông HD 720p
+http://www.mediafire.com/download/f922xg2xuh7y13w/blackbox-TN115.mp4
+#EXTINF:-1 group-title="Paris By Night",PBN-114 Tôi Là Người Việt Nam DVD-1 
+http://www.mediafire.com/download/24bca4rhxf197q3/TN114-DVD1.mp4
+#EXTINF:-1 group-title="Paris By Night",PBN-114 Tôi Là Người Việt Nam DVD-2 
+http://www.mediafire.com/download/tfooui5jcu33mi7/TN114-DVD2.mp4
+#EXTINF:-1 group-title="Paris By Night",PBN-114 Tôi Là Người Việt Nam DVD-3 
+http://www.mediafire.com/download/mhbs2g1vsc3r22g/TN114-DVD3.mp4
+#EXTINF:-1 group-title="Paris By Night",PBN-113 Mừng Tuổi Mẹ HD 720p (P1)
+http://www.mediafire.com/download/m1435e1p3d338jd/TN113-Part1.mp4
+#EXTINF:-1 group-title="Paris By Night",PBN-113 Mừng Tuổi Mẹ HD 720p (P2)
+http://www.mediafire.com/download/4ukpavn9e37vvc5/TN113-Part2.mp4
+#EXTINF:-1 group-title="Paris By Night",PBN-113 Mừng Tuổi Mẹ HD 720p (P3)
+http://www.mediafire.com/download/68ddqmdl2qy7mce/TN113-Part3.mp4
+#EXTINF:-1 group-title="Paris By Night",PBN-113 Mừng Tuổi Mẹ HD 720p (P4)
+http://www.mediafire.com/download/78ggue2uoeggpjf/TN113-Part4.mp4
+
+
+#EXTINF:-1 group-title="ASIA",Asia-80 Làn Gió Mới
+http://www.mediafire.com/download/3vaq73mkigl32dz/A80_1080p.mkv
+#EXTINF:-1 group-title="ASIA",Asia-77 Dòng Nhạc Anh Bằng Lam Phương 1080p
+http://www.mediafire.com/download/8fvc8pv43jwe46x/Asia77.Dong.Nhac.Anh.Bang.Va.Lam.Phuong.Bluray.1080p.mp4
+#EXTINF:-1 group-title="ASIA",Asia-77 Dòng Nhạc Anh Bằng Lam Phương DVD1
+http://www.mediafire.com/download/lidvdkdtke46vd2/Asia-77.D1.mp4
+#EXTINF:-1 group-title="ASIA",Asia-77 Dòng Nhạc Anh Bằng Lam Phương DVD2
+http://www.mediafire.com/download/2qhhxy4cj9b8gar/Asia-77.D2.mp4
+#EXTINF:-1 group-title="ASIA",Asia Golden-4 Khúc Nhạc Đồng Quê
+http://www.mediafire.com/download/a0329bgacesl5pg/blackbox247-asia-golden4.mp4
+
+
+
+
+
+----Tây Du Ký 2010----
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 1
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-1.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 2
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-2.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 3
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-3.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 4
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-4.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 5
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-5.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 6
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-6.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 7
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-7.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 8
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-8.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 9
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-9.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 10
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-10.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 11
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-11.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 12
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-12.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 13
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-13.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 14
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-14.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 15
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-15.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 16
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-16.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 17
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-17.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 18
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-18.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 19
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-19.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 20
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-20.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 21
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-21.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 22
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-22.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 23
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-23.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 24
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-24.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 25
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-25.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 26
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-26.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 27
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-27.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 28
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-28.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 29
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-29.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 30
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-30.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 31
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-31.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 32
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-32.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 33
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-33.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 34
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-34.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 35
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-35.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 36
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-36.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 37
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-37.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 38
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-38.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 39
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-39.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 40
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-40.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 41
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-41.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 42
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-42.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 43
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-43.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 44
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-44.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 45
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-45.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 46
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-46.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 47
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-47.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 48
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-48.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 49
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-49.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 50
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-50.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 51
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-51.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 52
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-52.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 53
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-53.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 54
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-54.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 55
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-55.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 56
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-56.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 57
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-57.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 58
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-58.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 59
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-59.mp4
+#EXTINF:-1 group-title="Tây Du Ký 2010 Thuyết Minh" tvg-logo="https://i.imgur.com/yRiyER1.jpg",Tây Du Ký 2010 - Tập 60 (End)
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TayDuKy/Phim-Phat-Giao-Nuoc-Ngoai-Tay-Du-Ky-2010-Tap-60.mp4
+
+
+
+
+
+
+----Tế Công----
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 1
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-1.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 2
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-2.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 3
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-3.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 4
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-4.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 5
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-5.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 6
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-6.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 7
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-7.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 8
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-8.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 9
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-9.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 10
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-10.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 11
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-11.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 12
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-12.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 13
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-13.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 14
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-14.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 15
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-15.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 16
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-16.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 17
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-17.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 18
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-18.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 19
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-19.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 20
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-20.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 21
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-21.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 22
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-22.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 23
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-23.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 24
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-24.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 25
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-25.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 26
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-26.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 27
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-27.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 28
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-28.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 29
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-29.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 30
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-30.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 31
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-31.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 32
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-32.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 33
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-33.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 34
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-34.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 35
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-35.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 36
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-36.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 37
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-37.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 38
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-38.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 39
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-39.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 40
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-40.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 41
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-41.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 42
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-42.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 43
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-43.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 44
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-44.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 45
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-45.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 46
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-46.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 47
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-47.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 48
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-48.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 49
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-49.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 50
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-50.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 51
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-51.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 52
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-52.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 53
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-53.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 54
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-54.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 55
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-55.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 56
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-56.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 57
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-57.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 58
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-58.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 59
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-59.mp4
+#EXTINF:-1 group-title="Tế Công" tvg-logo="https://i.imgur.com/yAJjqct.jpg",Tân Tế Công 2011 - Tập 60 (End)
+http://s1.weblinhtinh.xyz/media/film/NuocNgoai/TanTeCong2011/Phim-Phat-Giao-Nuoc-Ngoai-Tan-Te-Cong-2011-Tap-60.mp4
+
+
+----Tân Ỷ Thiên Đồ Long Ký----
+#EXTINF:-1 group-title="Tân Ỷ Thiên Đồ Long Ký" tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2018_11_08/tan_y_thien_do_long_ky1.jpg", Tân Ỷ Thiên Đồ Long Ký - Tập 1
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/042019/05/Heavenly_Sword_Dragon_Slaying_Saber_2019_720p_WEBDL_H/E001//playlist_h.m3u8
+#EXTINF:-1 group-title="Tân Ỷ Thiên Đồ Long Ký" tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2018_11_08/tan_y_thien_do_long_ky1.jpg", Tân Ỷ Thiên Đồ Long Ký - Tập 2
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/042019/05/Heavenly_Sword_Dragon_Slaying_Saber_2019_720p_WEBDL_H/E002//playlist_h.m3u8
+#EXTINF:-1 group-title="Tân Ỷ Thiên Đồ Long Ký" tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2018_11_08/tan_y_thien_do_long_ky1.jpg", Tân Ỷ Thiên Đồ Long Ký - Tập 3
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/042019/05/Heavenly_Sword_Dragon_Slaying_Saber_2019_720p_WEBDL_H/E003//playlist_h.m3u8
+#EXTINF:-1 group-title="Tân Ỷ Thiên Đồ Long Ký" tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2018_11_08/tan_y_thien_do_long_ky1.jpg", Tân Ỷ Thiên Đồ Long Ký - Tập 4
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/042019/05/Heavenly_Sword_Dragon_Slaying_Saber_2019_720p_WEBDL_H/E004//playlist_h.m3u8
+#EXTINF:-1 group-title="Tân Ỷ Thiên Đồ Long Ký" tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2018_11_08/tan_y_thien_do_long_ky1.jpg", Tân Ỷ Thiên Đồ Long Ký - Tập 5
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/042019/05/Heavenly_Sword_Dragon_Slaying_Saber_2019_720p_WEBDL_H/E005//playlist_h.m3u8
+#EXTINF:-1 group-title="Tân Ỷ Thiên Đồ Long Ký" tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2018_11_08/tan_y_thien_do_long_ky1.jpg", Tân Ỷ Thiên Đồ Long Ký - Tập 6
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/042019/05/Heavenly_Sword_Dragon_Slaying_Saber_2019_720p_WEBDL_H/E006//playlist_h.m3u8
+#EXTINF:-1 group-title="Tân Ỷ Thiên Đồ Long Ký" tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2018_11_08/tan_y_thien_do_long_ky1.jpg", Tân Ỷ Thiên Đồ Long Ký - Tập 7
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/042019/05/Heavenly_Sword_Dragon_Slaying_Saber_2019_720p_WEBDL_H/E007//playlist_h.m3u8
+#EXTINF:-1 group-title="Tân Ỷ Thiên Đồ Long Ký" tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2018_11_08/tan_y_thien_do_long_ky1.jpg", Tân Ỷ Thiên Đồ Long Ký - Tập 8
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/042019/05/Heavenly_Sword_Dragon_Slaying_Saber_2019_720p_WEBDL_H/E008//playlist_h.m3u8
+#EXTINF:-1 group-title="Tân Ỷ Thiên Đồ Long Ký" tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2018_11_08/tan_y_thien_do_long_ky1.jpg", Tân Ỷ Thiên Đồ Long Ký - Tập 9
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/042019/05/Heavenly_Sword_Dragon_Slaying_Saber_2019_720p_WEBDL_H/E009//playlist_h.m3u8
+#EXTINF:-1 group-title="Tân Ỷ Thiên Đồ Long Ký" tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2018_11_08/tan_y_thien_do_long_ky1.jpg", Tân Ỷ Thiên Đồ Long Ký - Tập 10
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/042019/05/Heavenly_Sword_Dragon_Slaying_Saber_2019_720p_WEBDL_H/E010//playlist_h.m3u8
+#EXTINF:-1 group-title="Tân Ỷ Thiên Đồ Long Ký" tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2018_11_08/tan_y_thien_do_long_ky1.jpg", Tân Ỷ Thiên Đồ Long Ký - Tập 11
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/042019/05/Heavenly_Sword_Dragon_Slaying_Saber_2019_720p_WEBDL_H/E011//playlist_h.m3u8
+#EXTINF:-1 group-title="Tân Ỷ Thiên Đồ Long Ký" tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2018_11_08/tan_y_thien_do_long_ky1.jpg", Tân Ỷ Thiên Đồ Long Ký - Tập 12
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/042019/05/Heavenly_Sword_Dragon_Slaying_Saber_2019_720p_WEBDL_H/E012//playlist_h.m3u8
+#EXTINF:-1 group-title="Tân Ỷ Thiên Đồ Long Ký" tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2018_11_08/tan_y_thien_do_long_ky1.jpg", Tân Ỷ Thiên Đồ Long Ký - Tập 13
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/042019/05/Heavenly_Sword_Dragon_Slaying_Saber_2019_720p_WEBDL_H/E013//playlist_h.m3u8
+#EXTINF:-1 group-title="Tân Ỷ Thiên Đồ Long Ký" tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2018_11_08/tan_y_thien_do_long_ky1.jpg", Tân Ỷ Thiên Đồ Long Ký - Tập 14
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/042019/05/Heavenly_Sword_Dragon_Slaying_Saber_2019_720p_WEBDL_H/E014//playlist_h.m3u8
+#EXTINF:-1 group-title="Tân Ỷ Thiên Đồ Long Ký" tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2018_11_08/tan_y_thien_do_long_ky1.jpg", Tân Ỷ Thiên Đồ Long Ký - Tập 15
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/042019/05/Heavenly_Sword_Dragon_Slaying_Saber_2019_720p_WEBDL_H/E015//playlist_h.m3u8
+#EXTINF:-1 group-title="Tân Ỷ Thiên Đồ Long Ký" tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2018_11_08/tan_y_thien_do_long_ky1.jpg", Tân Ỷ Thiên Đồ Long Ký - Tập 16
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/042019/05/Heavenly_Sword_Dragon_Slaying_Saber_2019_720p_WEBDL_H/E016//playlist_h.m3u8
+#EXTINF:-1 group-title="Tân Ỷ Thiên Đồ Long Ký" tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2018_11_08/tan_y_thien_do_long_ky1.jpg", Tân Ỷ Thiên Đồ Long Ký - Tập 17
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/042019/05/Heavenly_Sword_Dragon_Slaying_Saber_2019_720p_WEBDL_H/E017//playlist_h.m3u8
+#EXTINF:-1 group-title="Tân Ỷ Thiên Đồ Long Ký" tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2018_11_08/tan_y_thien_do_long_ky1.jpg", Tân Ỷ Thiên Đồ Long Ký - Tập 18
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/042019/05/Heavenly_Sword_Dragon_Slaying_Saber_2019_720p_WEBDL_H/E018//playlist_h.m3u8
+#EXTINF:-1 group-title="Tân Ỷ Thiên Đồ Long Ký" tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2018_11_08/tan_y_thien_do_long_ky1.jpg", Tân Ỷ Thiên Đồ Long Ký - Tập 19
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/042019/05/Heavenly_Sword_Dragon_Slaying_Saber_2019_720p_WEBDL_H/E019//playlist_h.m3u8
+#EXTINF:-1 group-title="Tân Ỷ Thiên Đồ Long Ký" tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2018_11_08/tan_y_thien_do_long_ky1.jpg", Tân Ỷ Thiên Đồ Long Ký - Tập 20
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/042019/05/Heavenly_Sword_Dragon_Slaying_Saber_2019_720p_WEBDL_H/E020//playlist_h.m3u8
+#EXTINF:-1 group-title="Tân Ỷ Thiên Đồ Long Ký" tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2018_11_08/tan_y_thien_do_long_ky1.jpg", Tân Ỷ Thiên Đồ Long Ký - Tập 21
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/042019/05/Heavenly_Sword_Dragon_Slaying_Saber_2019_720p_WEBDL_H/E021//playlist_h.m3u8
+#EXTINF:-1 group-title="Tân Ỷ Thiên Đồ Long Ký" tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2018_11_08/tan_y_thien_do_long_ky1.jpg", Tân Ỷ Thiên Đồ Long Ký - Tập 22
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/042019/05/Heavenly_Sword_Dragon_Slaying_Saber_2019_720p_WEBDL_H/E022//playlist_h.m3u8
+#EXTINF:-1 group-title="Tân Ỷ Thiên Đồ Long Ký" tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2018_11_08/tan_y_thien_do_long_ky1.jpg", Tân Ỷ Thiên Đồ Long Ký - Tập 23
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/042019/05/Heavenly_Sword_Dragon_Slaying_Saber_2019_720p_WEBDL_H/E023//playlist_h.m3u8
+#EXTINF:-1 group-title="Tân Ỷ Thiên Đồ Long Ký" tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2018_11_08/tan_y_thien_do_long_ky1.jpg", Tân Ỷ Thiên Đồ Long Ký - Tập 24
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/042019/05/Heavenly_Sword_Dragon_Slaying_Saber_2019_720p_WEBDL_H/E024//playlist_h.m3u8
+#EXTINF:-1 group-title="Tân Ỷ Thiên Đồ Long Ký" tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2018_11_08/tan_y_thien_do_long_ky1.jpg", Tân Ỷ Thiên Đồ Long Ký - Tập 25
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/042019/05/Heavenly_Sword_Dragon_Slaying_Saber_2019_720p_WEBDL_H/E025//playlist_h.m3u8
+#EXTINF:-1 group-title="Tân Ỷ Thiên Đồ Long Ký" tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2018_11_08/tan_y_thien_do_long_ky1.jpg", Tân Ỷ Thiên Đồ Long Ký - Tập 26
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/042019/05/Heavenly_Sword_Dragon_Slaying_Saber_2019_720p_WEBDL_H/E026//playlist_h.m3u8
+#EXTINF:-1 group-title="Tân Ỷ Thiên Đồ Long Ký" tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2018_11_08/tan_y_thien_do_long_ky1.jpg", Tân Ỷ Thiên Đồ Long Ký - Tập 27
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/042019/05/Heavenly_Sword_Dragon_Slaying_Saber_2019_720p_WEBDL_H/E027//playlist_h.m3u8
+#EXTINF:-1 group-title="Tân Ỷ Thiên Đồ Long Ký" tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2018_11_08/tan_y_thien_do_long_ky1.jpg", Tân Ỷ Thiên Đồ Long Ký - Tập 28
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/042019/05/Heavenly_Sword_Dragon_Slaying_Saber_2019_720p_WEBDL_H/E028//playlist_h.m3u8
+#EXTINF:-1 group-title="Tân Ỷ Thiên Đồ Long Ký" tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2018_11_08/tan_y_thien_do_long_ky1.jpg", Tân Ỷ Thiên Đồ Long Ký - Tập 29
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/042019/05/Heavenly_Sword_Dragon_Slaying_Saber_2019_720p_WEBDL_H/E029//playlist_h.m3u8
+#EXTINF:-1 group-title="Tân Ỷ Thiên Đồ Long Ký" tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2018_11_08/tan_y_thien_do_long_ky1.jpg", Tân Ỷ Thiên Đồ Long Ký - Tập 30
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/042019/05/Heavenly_Sword_Dragon_Slaying_Saber_2019_720p_WEBDL_H/E030//playlist_h.m3u8
+#EXTINF:-1 group-title="Tân Ỷ Thiên Đồ Long Ký" tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2018_11_08/tan_y_thien_do_long_ky1.jpg", Tân Ỷ Thiên Đồ Long Ký - Tập 31
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/042019/05/Heavenly_Sword_Dragon_Slaying_Saber_2019_720p_WEBDL_H/E031//playlist_h.m3u8
+#EXTINF:-1 group-title="Tân Ỷ Thiên Đồ Long Ký" tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2018_11_08/tan_y_thien_do_long_ky1.jpg", Tân Ỷ Thiên Đồ Long Ký - Tập 32
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/042019/05/Heavenly_Sword_Dragon_Slaying_Saber_2019_720p_WEBDL_H/E032//playlist_h.m3u8
+#EXTINF:-1 group-title="Tân Ỷ Thiên Đồ Long Ký" tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2018_11_08/tan_y_thien_do_long_ky1.jpg", Tân Ỷ Thiên Đồ Long Ký - Tập 33
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/042019/05/Heavenly_Sword_Dragon_Slaying_Saber_2019_720p_WEBDL_H/E033//playlist_h.m3u8
+#EXTINF:-1 group-title="Tân Ỷ Thiên Đồ Long Ký" tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2018_11_08/tan_y_thien_do_long_ky1.jpg", Tân Ỷ Thiên Đồ Long Ký - Tập 34
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/042019/05/Heavenly_Sword_Dragon_Slaying_Saber_2019_720p_WEBDL_H/E034//playlist_h.m3u8
+
+
+
+
+----Cá Mực Hầm Mật----
+#EXTINF:-1 group-title="Cá mực hầm mật" tvg-logo="https://kenh14cdn.com/2019/7/5/cfbb-hzmafvm2904164-1562314937670296092373.jpg", Cá Mực Hầm Mật - Tập 1
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/072019/26/Go_Go_Squid_2019_720p_WEBDL_ViE/E001//playlist_h.m3u8
+#EXTINF:-1 group-title="Cá mực hầm mật" tvg-logo="https://kenh14cdn.com/2019/7/5/cfbb-hzmafvm2904164-1562314937670296092373.jpg", Cá Mực Hầm Mật - Tập 2
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/072019/26/Go_Go_Squid_2019_720p_WEBDL_ViE/E002//playlist_h.m3u8
+#EXTINF:-1 group-title="Cá mực hầm mật" tvg-logo="https://kenh14cdn.com/2019/7/5/cfbb-hzmafvm2904164-1562314937670296092373.jpg", Cá Mực Hầm Mật - Tập 3
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/072019/26/Go_Go_Squid_2019_720p_WEBDL_ViE/E003//playlist_h.m3u8
+#EXTINF:-1 group-title="Cá mực hầm mật" tvg-logo="https://kenh14cdn.com/2019/7/5/cfbb-hzmafvm2904164-1562314937670296092373.jpg", Cá Mực Hầm Mật - Tập 4
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/072019/26/Go_Go_Squid_2019_720p_WEBDL_ViE/E004//playlist_h.m3u8
+#EXTINF:-1 group-title="Cá mực hầm mật" tvg-logo="https://kenh14cdn.com/2019/7/5/cfbb-hzmafvm2904164-1562314937670296092373.jpg", Cá Mực Hầm Mật - Tập 5
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/072019/26/Go_Go_Squid_2019_720p_WEBDL_ViE/E005//playlist_h.m3u8
+#EXTINF:-1 group-title="Cá mực hầm mật" tvg-logo="https://kenh14cdn.com/2019/7/5/cfbb-hzmafvm2904164-1562314937670296092373.jpg", Cá Mực Hầm Mật - Tập 6
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/072019/26/Go_Go_Squid_2019_720p_WEBDL_ViE/E006//playlist_h.m3u8
+#EXTINF:-1 group-title="Cá mực hầm mật" tvg-logo="https://kenh14cdn.com/2019/7/5/cfbb-hzmafvm2904164-1562314937670296092373.jpg", Cá Mực Hầm Mật - Tập 7
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/072019/26/Go_Go_Squid_2019_720p_WEBDL_ViE/E007//playlist_h.m3u8
+#EXTINF:-1 group-title="Cá mực hầm mật" tvg-logo="https://kenh14cdn.com/2019/7/5/cfbb-hzmafvm2904164-1562314937670296092373.jpg", Cá Mực Hầm Mật - Tập 8
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/072019/26/Go_Go_Squid_2019_720p_WEBDL_ViE/E008//playlist_h.m3u8
+#EXTINF:-1 group-title="Cá mực hầm mật" tvg-logo="https://kenh14cdn.com/2019/7/5/cfbb-hzmafvm2904164-1562314937670296092373.jpg", Cá Mực Hầm Mật - Tập 9
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/072019/26/Go_Go_Squid_2019_720p_WEBDL_ViE/E009//playlist_h.m3u8
+#EXTINF:-1 group-title="Cá mực hầm mật" tvg-logo="https://kenh14cdn.com/2019/7/5/cfbb-hzmafvm2904164-1562314937670296092373.jpg", Cá Mực Hầm Mật - Tập 10
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/072019/26/Go_Go_Squid_2019_720p_WEBDL_ViE/E010//playlist_h.m3u8
+#EXTINF:-1 group-title="Cá mực hầm mật" tvg-logo="https://kenh14cdn.com/2019/7/5/cfbb-hzmafvm2904164-1562314937670296092373.jpg", Cá Mực Hầm Mật - Tập 11
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/072019/26/Go_Go_Squid_2019_720p_WEBDL_ViE/E011//playlist_h.m3u8
+#EXTINF:-1 group-title="Cá mực hầm mật" tvg-logo="https://kenh14cdn.com/2019/7/5/cfbb-hzmafvm2904164-1562314937670296092373.jpg", Cá Mực Hầm Mật - Tập 12
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/072019/26/Go_Go_Squid_2019_720p_WEBDL_ViE/E012//playlist_h.m3u8
+#EXTINF:-1 group-title="Cá mực hầm mật" tvg-logo="https://kenh14cdn.com/2019/7/5/cfbb-hzmafvm2904164-1562314937670296092373.jpg", Cá Mực Hầm Mật - Tập 13
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/072019/26/Go_Go_Squid_2019_720p_WEBDL_ViE/E013//playlist_h.m3u8
+#EXTINF:-1 group-title="Cá mực hầm mật" tvg-logo="https://kenh14cdn.com/2019/7/5/cfbb-hzmafvm2904164-1562314937670296092373.jpg", Cá Mực Hầm Mật - Tập 14
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/072019/26/Go_Go_Squid_2019_720p_WEBDL_ViE/E014//playlist_h.m3u8
+#EXTINF:-1 group-title="Cá mực hầm mật" tvg-logo="https://kenh14cdn.com/2019/7/5/cfbb-hzmafvm2904164-1562314937670296092373.jpg", Cá Mực Hầm Mật - Tập 15
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/072019/26/Go_Go_Squid_2019_720p_WEBDL_ViE/E015//playlist_h.m3u8
+#EXTINF:-1 group-title="Cá mực hầm mật" tvg-logo="https://kenh14cdn.com/2019/7/5/cfbb-hzmafvm2904164-1562314937670296092373.jpg", Cá Mực Hầm Mật - Tập 16
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/072019/26/Go_Go_Squid_2019_720p_WEBDL_ViE/E016//playlist_h.m3u8
+#EXTINF:-1 group-title="Cá mực hầm mật" tvg-logo="https://kenh14cdn.com/2019/7/5/cfbb-hzmafvm2904164-1562314937670296092373.jpg", Cá Mực Hầm Mật - Tập 17
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/072019/26/Go_Go_Squid_2019_720p_WEBDL_ViE/E017//playlist_h.m3u8
+#EXTINF:-1 group-title="Cá mực hầm mật" tvg-logo="https://kenh14cdn.com/2019/7/5/cfbb-hzmafvm2904164-1562314937670296092373.jpg", Cá Mực Hầm Mật - Tập 18
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/072019/26/Go_Go_Squid_2019_720p_WEBDL_ViE/E018//playlist_h.m3u8
+#EXTINF:-1 group-title="Cá mực hầm mật" tvg-logo="https://kenh14cdn.com/2019/7/5/cfbb-hzmafvm2904164-1562314937670296092373.jpg", Cá Mực Hầm Mật - Tập 19
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/072019/26/Go_Go_Squid_2019_720p_WEBDL_ViE/E019//playlist_h.m3u8
+#EXTINF:-1 group-title="Cá mực hầm mật" tvg-logo="https://kenh14cdn.com/2019/7/5/cfbb-hzmafvm2904164-1562314937670296092373.jpg", Cá Mực Hầm Mật - Tập 20
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/072019/26/Go_Go_Squid_2019_720p_WEBDL_ViE/E020//playlist_h.m3u8
+#EXTINF:-1 group-title="Cá mực hầm mật" tvg-logo="https://kenh14cdn.com/2019/7/5/cfbb-hzmafvm2904164-1562314937670296092373.jpg", Cá Mực Hầm Mật - Tập 21
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/072019/26/Go_Go_Squid_2019_720p_WEBDL_ViE/E021//playlist_h.m3u8
+#EXTINF:-1 group-title="Cá mực hầm mật" tvg-logo="https://kenh14cdn.com/2019/7/5/cfbb-hzmafvm2904164-1562314937670296092373.jpg", Cá Mực Hầm Mật - Tập 22
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/072019/26/Go_Go_Squid_2019_720p_WEBDL_ViE/E022//playlist_h.m3u8
+#EXTINF:-1 group-title="Cá mực hầm mật" tvg-logo="https://kenh14cdn.com/2019/7/5/cfbb-hzmafvm2904164-1562314937670296092373.jpg", Cá Mực Hầm Mật - Tập 23
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/072019/26/Go_Go_Squid_2019_720p_WEBDL_ViE/E023//playlist_h.m3u8
+#EXTINF:-1 group-title="Cá mực hầm mật" tvg-logo="https://kenh14cdn.com/2019/7/5/cfbb-hzmafvm2904164-1562314937670296092373.jpg", Cá Mực Hầm Mật - Tập 24
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/072019/26/Go_Go_Squid_2019_720p_WEBDL_ViE/E024//playlist_h.m3u8
+#EXTINF:-1 group-title="Cá mực hầm mật" tvg-logo="https://kenh14cdn.com/2019/7/5/cfbb-hzmafvm2904164-1562314937670296092373.jpg", Cá Mực Hầm Mật - Tập 25
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/072019/26/Go_Go_Squid_2019_720p_WEBDL_ViE/E025//playlist_h.m3u8
+#EXTINF:-1 group-title="Cá mực hầm mật" tvg-logo="https://kenh14cdn.com/2019/7/5/cfbb-hzmafvm2904164-1562314937670296092373.jpg", Cá Mực Hầm Mật - Tập 26
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/072019/26/Go_Go_Squid_2019_720p_WEBDL_ViE/E026//playlist_h.m3u8
+#EXTINF:-1 group-title="Cá mực hầm mật" tvg-logo="https://kenh14cdn.com/2019/7/5/cfbb-hzmafvm2904164-1562314937670296092373.jpg", Cá Mực Hầm Mật - Tập 27
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/072019/26/Go_Go_Squid_2019_720p_WEBDL_ViE/E027//playlist_h.m3u8
+#EXTINF:-1 group-title="Cá mực hầm mật" tvg-logo="https://kenh14cdn.com/2019/7/5/cfbb-hzmafvm2904164-1562314937670296092373.jpg", Cá Mực Hầm Mật - Tập 28
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/072019/26/Go_Go_Squid_2019_720p_WEBDL_ViE/E028//playlist_h.m3u8
+#EXTINF:-1 group-title="Cá mực hầm mật" tvg-logo="https://kenh14cdn.com/2019/7/5/cfbb-hzmafvm2904164-1562314937670296092373.jpg", Cá Mực Hầm Mật - Tập 29
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/072019/26/Go_Go_Squid_2019_720p_WEBDL_ViE/E029//playlist_h.m3u8
+#EXTINF:-1 group-title="Cá mực hầm mật" tvg-logo="https://kenh14cdn.com/2019/7/5/cfbb-hzmafvm2904164-1562314937670296092373.jpg", Cá Mực Hầm Mật - Tập 30
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/072019/26/Go_Go_Squid_2019_720p_WEBDL_ViE/E030//playlist_h.m3u8
+#EXTINF:-1 group-title="Cá mực hầm mật" tvg-logo="https://kenh14cdn.com/2019/7/5/cfbb-hzmafvm2904164-1562314937670296092373.jpg", Cá Mực Hầm Mật - Tập 31
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/072019/26/Go_Go_Squid_2019_720p_WEBDL_ViE/E031//playlist_h.m3u8
+#EXTINF:-1 group-title="Cá mực hầm mật" tvg-logo="https://kenh14cdn.com/2019/7/5/cfbb-hzmafvm2904164-1562314937670296092373.jpg", Cá Mực Hầm Mật - Tập 32
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/072019/26/Go_Go_Squid_2019_720p_WEBDL_ViE/E032//playlist_h.m3u8
+#EXTINF:-1 group-title="Cá mực hầm mật" tvg-logo="https://kenh14cdn.com/2019/7/5/cfbb-hzmafvm2904164-1562314937670296092373.jpg", Cá Mực Hầm Mật - Tập 33
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/072019/26/Go_Go_Squid_2019_720p_WEBDL_ViE/E033//playlist_h.m3u8
+#EXTINF:-1 group-title="Cá mực hầm mật" tvg-logo="https://kenh14cdn.com/2019/7/5/cfbb-hzmafvm2904164-1562314937670296092373.jpg", Cá Mực Hầm Mật - Tập 34
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/072019/26/Go_Go_Squid_2019_720p_WEBDL_ViE/E034//playlist_h.m3u8
+#EXTINF:-1 group-title="Cá mực hầm mật" tvg-logo="https://kenh14cdn.com/2019/7/5/cfbb-hzmafvm2904164-1562314937670296092373.jpg", Cá Mực Hầm Mật - Tập 35
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/072019/26/Go_Go_Squid_2019_720p_WEBDL_ViE/E035//playlist_h.m3u8
+#EXTINF:-1 group-title="Cá mực hầm mật" tvg-logo="https://kenh14cdn.com/2019/7/5/cfbb-hzmafvm2904164-1562314937670296092373.jpg", Cá Mực Hầm Mật - Tập 36
+http://n4.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/072019/26/Go_Go_Squid_2019_720p_WEBDL_ViE/E029//playlist_h.m3u8
+
+
+
+----Cô Giáo Ô Sun Nam----
+#EXTINF:-1 group-title="Cô giáo O Sun Nam Thuyết Minh" tvg-logo="https://vuviphim.com/wp-content/uploads/2019/05/Cô-Giáo-Ô-Sun-Nam-2019-VTV3-poster.jpg", Cô giáo Ô Sun Nam (Thuyết Minh) - Tập 1
+http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_Soon_Nam_2019_720p_H/E001//playlist_h.m3u8
+#EXTINF:-1 group-title="Cô giáo O Sun Nam Thuyết Minh" tvg-logo="https://vuviphim.com/wp-content/uploads/2019/05/Cô-Giáo-Ô-Sun-Nam-2019-VTV3-poster.jpg", Cô giáo Ô Sun Nam (Thuyết Minh) - Tập 2
+http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_Soon_Nam_2019_720p_H/E002//playlist_h.m3u8
+#EXTINF:-1 group-title="Cô giáo O Sun Nam Thuyết Minh" tvg-logo="https://vuviphim.com/wp-content/uploads/2019/05/Cô-Giáo-Ô-Sun-Nam-2019-VTV3-poster.jpg", Cô giáo Ô Sun Nam (Thuyết Minh) - Tập 3
+http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_Soon_Nam_2019_720p_H/E003//playlist_h.m3u8
+#EXTINF:-1 group-title="Cô giáo O Sun Nam Thuyết Minh" tvg-logo="https://vuviphim.com/wp-content/uploads/2019/05/Cô-Giáo-Ô-Sun-Nam-2019-VTV3-poster.jpg", Cô giáo Ô Sun Nam (Thuyết Minh) - Tập 4
+http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_Soon_Nam_2019_720p_H/E004//playlist_h.m3u8
+#EXTINF:-1 group-title="Cô giáo O Sun Nam Thuyết Minh" tvg-logo="https://vuviphim.com/wp-content/uploads/2019/05/Cô-Giáo-Ô-Sun-Nam-2019-VTV3-poster.jpg", Cô giáo Ô Sun Nam (Thuyết Minh) - Tập 5
+http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_Soon_Nam_2019_720p_H/E005//playlist_h.m3u8
+#EXTINF:-1 group-title="Cô giáo O Sun Nam Thuyết Minh" tvg-logo="https://vuviphim.com/wp-content/uploads/2019/05/Cô-Giáo-Ô-Sun-Nam-2019-VTV3-poster.jpg", Cô giáo Ô Sun Nam (Thuyết Minh) - Tập 6
+http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_Soon_Nam_2019_720p_H/E006//playlist_h.m3u8
+#EXTINF:-1 group-title="Cô giáo O Sun Nam Thuyết Minh" tvg-logo="https://vuviphim.com/wp-content/uploads/2019/05/Cô-Giáo-Ô-Sun-Nam-2019-VTV3-poster.jpg", Cô giáo Ô Sun Nam (Thuyết Minh) - Tập 7
+http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_Soon_Nam_2019_720p_H/E007//playlist_h.m3u8
+#EXTINF:-1 group-title="Cô giáo O Sun Nam Thuyết Minh" tvg-logo="https://vuviphim.com/wp-content/uploads/2019/05/Cô-Giáo-Ô-Sun-Nam-2019-VTV3-poster.jpg", Cô giáo Ô Sun Nam (Thuyết Minh) - Tập 8
+http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_Soon_Nam_2019_720p_H/E008//playlist_h.m3u8
+#EXTINF:-1 group-title="Cô giáo O Sun Nam Thuyết Minh" tvg-logo="https://vuviphim.com/wp-content/uploads/2019/05/Cô-Giáo-Ô-Sun-Nam-2019-VTV3-poster.jpg", Cô giáo Ô Sun Nam (Thuyết Minh) - Tập 9
+http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_Soon_Nam_2019_720p_H/E009//playlist_h.m3u8
+#EXTINF:-1 group-title="Cô giáo O Sun Nam Thuyết Minh" tvg-logo="https://vuviphim.com/wp-content/uploads/2019/05/Cô-Giáo-Ô-Sun-Nam-2019-VTV3-poster.jpg", Cô giáo Ô Sun Nam (Thuyết Minh) - Tập 10
+http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_Soon_Nam_2019_720p_H/E010//playlist_h.m3u8
+#EXTINF:-1 group-title="Cô giáo O Sun Nam Thuyết Minh" tvg-logo="https://vuviphim.com/wp-content/uploads/2019/05/Cô-Giáo-Ô-Sun-Nam-2019-VTV3-poster.jpg", Cô giáo Ô Sun Nam (Thuyết Minh) - Tập 11
+http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_Soon_Nam_2019_720p_H/E011//playlist_h.m3u8
+#EXTINF:-1 group-title="Cô giáo O Sun Nam Thuyết Minh" tvg-logo="https://vuviphim.com/wp-content/uploads/2019/05/Cô-Giáo-Ô-Sun-Nam-2019-VTV3-poster.jpg", Cô giáo Ô Sun Nam (Thuyết Minh) - Tập 12
+http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_Soon_Nam_2019_720p_H/E012//playlist_h.m3u8
+#EXTINF:-1 group-title="Cô giáo O Sun Nam Thuyết Minh" tvg-logo="https://vuviphim.com/wp-content/uploads/2019/05/Cô-Giáo-Ô-Sun-Nam-2019-VTV3-poster.jpg", Cô giáo Ô Sun Nam (Thuyết Minh) - Tập 13
+http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_Soon_Nam_2019_720p_H/E013//playlist_h.m3u8
+#EXTINF:-1 group-title="Cô giáo O Sun Nam Thuyết Minh" tvg-logo="https://vuviphim.com/wp-content/uploads/2019/05/Cô-Giáo-Ô-Sun-Nam-2019-VTV3-poster.jpg", Cô giáo Ô Sun Nam (Thuyết Minh) - Tập 14
+http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_Soon_Nam_2019_720p_H/E014//playlist_h.m3u8
+#EXTINF:-1 group-title="Cô giáo O Sun Nam Thuyết Minh" tvg-logo="https://vuviphim.com/wp-content/uploads/2019/05/Cô-Giáo-Ô-Sun-Nam-2019-VTV3-poster.jpg", Cô giáo Ô Sun Nam (Thuyết Minh) - Tập 15
+http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_Soon_Nam_2019_720p_H/E015//playlist_h.m3u8
+#EXTINF:-1 group-title="Cô giáo O Sun Nam Thuyết Minh" tvg-logo="https://vuviphim.com/wp-content/uploads/2019/05/Cô-Giáo-Ô-Sun-Nam-2019-VTV3-poster.jpg", Cô giáo Ô Sun Nam (Thuyết Minh) - Tập 16
+http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_Soon_Nam_2019_720p_H/E016//playlist_h.m3u8
+#EXTINF:-1 group-title="Cô giáo O Sun Nam Thuyết Minh" tvg-logo="https://vuviphim.com/wp-content/uploads/2019/05/Cô-Giáo-Ô-Sun-Nam-2019-VTV3-poster.jpg", Cô giáo Ô Sun Nam (Thuyết Minh) - Tập 17
+http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_Soon_Nam_2019_720p_H/E010//playlist_h.m3u8
+#EXTINF:-1 group-title="Cô giáo O Sun Nam Thuyết Minh" tvg-logo="https://vuviphim.com/wp-content/uploads/2019/05/Cô-Giáo-Ô-Sun-Nam-2019-VTV3-poster.jpg", Cô giáo Ô Sun Nam (Thuyết Minh) - Tập 18
+http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_Soon_Nam_2019_720p_H/E018//playlist_h.m3u8
+#EXTINF:-1 group-title="Cô giáo O Sun Nam Thuyết Minh" tvg-logo="https://vuviphim.com/wp-content/uploads/2019/05/Cô-Giáo-Ô-Sun-Nam-2019-VTV3-poster.jpg", Cô giáo Ô Sun Nam (Thuyết Minh) - Tập 19
+http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_Soon_Nam_2019_720p_H/E010//playlist_h.m3u8
+#EXTINF:-1 group-title="Cô giáo O Sun Nam Thuyết Minh" tvg-logo="https://vuviphim.com/wp-content/uploads/2019/05/Cô-Giáo-Ô-Sun-Nam-2019-VTV3-poster.jpg", Cô giáo Ô Sun Nam (Thuyết Minh) - Tập 20
+http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_Soon_Nam_2019_720p_H/E020//playlist_h.m3u8
+#EXTINF:-1 group-title="Cô giáo O Sun Nam Thuyết Minh" tvg-logo="https://vuviphim.com/wp-content/uploads/2019/05/Cô-Giáo-Ô-Sun-Nam-2019-VTV3-poster.jpg", Cô giáo Ô Sun Nam (Thuyết Minh) - Tập 21
+http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_Soon_Nam_2019_720p_H/E021//playlist_h.m3u8
+#EXTINF:-1 group-title="Cô giáo O Sun Nam Thuyết Minh" tvg-logo="https://vuviphim.com/wp-content/uploads/2019/05/Cô-Giáo-Ô-Sun-Nam-2019-VTV3-poster.jpg", Cô giáo Ô Sun Nam (Thuyết Minh) - Tập 22
+http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_Soon_Nam_2019_720p_H/E022//playlist_h.m3u8
+#EXTINF:-1 group-title="Cô giáo O Sun Nam Thuyết Minh" tvg-logo="https://vuviphim.com/wp-content/uploads/2019/05/Cô-Giáo-Ô-Sun-Nam-2019-VTV3-poster.jpg", Cô giáo Ô Sun Nam (Thuyết Minh) - Tập 23
+http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_Soon_Nam_2019_720p_H/E023/playlist_h.m3u8
+#EXTINF:-1 group-title="Cô giáo O Sun Nam Thuyết Minh" tvg-logo="https://vuviphim.com/wp-content/uploads/2019/05/Cô-Giáo-Ô-Sun-Nam-2019-VTV3-poster.jpg", Cô giáo Ô Sun Nam (Thuyết Minh) - Tập 24
+http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_Soon_Nam_2019_720p_H/E010//playlist_h.m3u8
+#EXTINF:-1 group-title="Cô giáo O Sun Nam Thuyết Minh" tvg-logo="https://vuviphim.com/wp-content/uploads/2019/05/Cô-Giáo-Ô-Sun-Nam-2019-VTV3-poster.jpg", Cô giáo Ô Sun Nam (Thuyết Minh) - Tập 25
+http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_Soon_Nam_2019_720p_H/E025//playlist_h.m3u8
+#EXTINF:-1 group-title="Cô giáo O Sun Nam Thuyết Minh" tvg-logo="https://vuviphim.com/wp-content/uploads/2019/05/Cô-Giáo-Ô-Sun-Nam-2019-VTV3-poster.jpg", Cô giáo Ô Sun Nam (Thuyết Minh) - Tập 26
+http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_Soon_Nam_2019_720p_H/E026//playlist_h.m3u8
+#EXTINF:-1 group-title="Cô giáo O Sun Nam Thuyết Minh" tvg-logo="https://vuviphim.com/wp-content/uploads/2019/05/Cô-Giáo-Ô-Sun-Nam-2019-VTV3-poster.jpg", Cô giáo Ô Sun Nam (Thuyết Minh) - Tập 27
+http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_Soon_Nam_2019_720p_H/E027//playlist_h.m3u8
+#EXTINF:-1 group-title="Cô giáo O Sun Nam Thuyết Minh" tvg-logo="https://vuviphim.com/wp-content/uploads/2019/05/Cô-Giáo-Ô-Sun-Nam-2019-VTV3-poster.jpg", Cô giáo Ô Sun Nam (Thuyết Minh) - Tập 28
+http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_Soon_Nam_2019_720p_H/E028//playlist_h.m3u8
+#EXTINF:-1 group-title="Cô giáo O Sun Nam Thuyết Minh" tvg-logo="https://vuviphim.com/wp-content/uploads/2019/05/Cô-Giáo-Ô-Sun-Nam-2019-VTV3-poster.jpg", Cô giáo Ô Sun Nam (Thuyết Minh) - Tập 29
+http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_Soon_Nam_2019_720p_H/E029//playlist_h.m3u8
+#EXTINF:-1 group-title="Cô giáo O Sun Nam Thuyết Minh" tvg-logo="https://vuviphim.com/wp-content/uploads/2019/05/Cô-Giáo-Ô-Sun-Nam-2019-VTV3-poster.jpg", Cô giáo Ô Sun Nam (Thuyết Minh) - Tập 30
+http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_Soon_Nam_2019_720p_H/E030//playlist_h.m3u8
+#EXTINF:-1 group-title="Cô giáo O Sun Nam Thuyết Minh" tvg-logo="https://vuviphim.com/wp-content/uploads/2019/05/Cô-Giáo-Ô-Sun-Nam-2019-VTV3-poster.jpg", Cô giáo Ô Sun Nam (Thuyết Minh) - Tập 31
+http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_Soon_Nam_2019_720p_H/E031//playlist_h.m3u8
+#EXTINF:-1 group-title="Cô giáo O Sun Nam Thuyết Minh" tvg-logo="https://vuviphim.com/wp-content/uploads/2019/05/Cô-Giáo-Ô-Sun-Nam-2019-VTV3-poster.jpg", Cô giáo Ô Sun Nam (Thuyết Minh) - Tập 32
+http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_Soon_Nam_2019_720p_H/E032//playlist_h.m3u8
+#EXTINF:-1 group-title="Cô giáo O Sun Nam Thuyết Minh" tvg-logo="https://vuviphim.com/wp-content/uploads/2019/05/Cô-Giáo-Ô-Sun-Nam-2019-VTV3-poster.jpg", Cô giáo Ô Sun Nam (Thuyết Minh) - Tập 33
+http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_Soon_Nam_2019_720p_H/E033//playlist_h.m3u8
+#EXTINF:-1 group-title="Cô giáo O Sun Nam Thuyết Minh" tvg-logo="https://vuviphim.com/wp-content/uploads/2019/05/Cô-Giáo-Ô-Sun-Nam-2019-VTV3-poster.jpg", Cô giáo Ô Sun Nam (Thuyết Minh) - Tập 34
+http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_Soon_Nam_2019_720p_H/E034//playlist_h.m3u8
+#EXTINF:-1 group-title="Cô giáo O Sun Nam Thuyết Minh" tvg-logo="https://vuviphim.com/wp-content/uploads/2019/05/Cô-Giáo-Ô-Sun-Nam-2019-VTV3-poster.jpg", Cô giáo Ô Sun Nam (Thuyết Minh) - Tập 35
+http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_Soon_Nam_2019_720p_H/E035//playlist_h.m3u8
+#EXTINF:-1 group-title="Cô giáo O Sun Nam Thuyết Minh" tvg-logo="https://vuviphim.com/wp-content/uploads/2019/05/Cô-Giáo-Ô-Sun-Nam-2019-VTV3-poster.jpg", Cô giáo Ô Sun Nam (Thuyết Minh) - Tập 36
+http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_Soon_Nam_2019_720p_H/E036//playlist_h.m3u8
+#EXTINF:-1 group-title="Cô giáo O Sun Nam Thuyết Minh" tvg-logo="https://vuviphim.com/wp-content/uploads/2019/05/Cô-Giáo-Ô-Sun-Nam-2019-VTV3-poster.jpg", Cô giáo Ô Sun Nam (Thuyết Minh) - Tập 37
+http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_Soon_Nam_2019_720p_H/E037//playlist_h.m3u8
+#EXTINF:-1 group-title="Cô giáo O Sun Nam Thuyết Minh" tvg-logo="https://vuviphim.com/wp-content/uploads/2019/05/Cô-Giáo-Ô-Sun-Nam-2019-VTV3-poster.jpg", Cô giáo Ô Sun Nam (Thuyết Minh) - Tập 38
+http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_Soon_Nam_2019_720p_H/E038//playlist_h.m3u8
+#EXTINF:-1 group-title="Cô giáo O Sun Nam Thuyết Minh" tvg-logo="https://vuviphim.com/wp-content/uploads/2019/05/Cô-Giáo-Ô-Sun-Nam-2019-VTV3-poster.jpg", Cô giáo Ô Sun Nam (Thuyết Minh) - Tập 39
+http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_Soon_Nam_2019_720p_H/E039//playlist_h.m3u8
+#EXTINF:-1 group-title="Cô giáo O Sun Nam Thuyết Minh" tvg-logo="https://vuviphim.com/wp-content/uploads/2019/05/Cô-Giáo-Ô-Sun-Nam-2019-VTV3-poster.jpg", Cô giáo Ô Sun Nam (Thuyết Minh) - Tập 40
+http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_Soon_Nam_2019_720p_H/E040//playlist_h.m3u8
+#EXTINF:-1 group-title="Cô giáo O Sun Nam Thuyết Minh" tvg-logo="https://vuviphim.com/wp-content/uploads/2019/05/Cô-Giáo-Ô-Sun-Nam-2019-VTV3-poster.jpg", Cô giáo Ô Sun Nam (Thuyết Minh) - Tập 41
+http://n7.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/20/Teacher_Oh_Soon_Nam_2019_720p_H/E035//playlist_h.m3u8
+
+
+
+----Em đứng trên cầu ngắm phong cảnh----
+#EXTINF:-1 group-title="Em đứng trên cầu ngắm phong cảnh Thuyết minh" tvg-logo="https://zingtv-photo.zadn.vn/channel/5/d/5ddecb9fb7a48d55465fdc9130e95d0e_1516010145.jpg", EDTCNPC (Thuyết Minh) - Tập 1
+http://n9.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/25/To_Love_To_Heal_2019_720p_H/E001//playlist_h.m3u8
+#EXTINF:-1 group-title="Em đứng trên cầu ngắm phong cảnh Thuyết minh" tvg-logo="https://zingtv-photo.zadn.vn/channel/5/d/5ddecb9fb7a48d55465fdc9130e95d0e_1516010145.jpg", EDTCNPC (Thuyết Minh) - Tập 2
+http://n9.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/25/To_Love_To_Heal_2019_720p_H/E002//playlist_h.m3u8
+#EXTINF:-1 group-title="Em đứng trên cầu ngắm phong cảnh Thuyết minh" tvg-logo="https://zingtv-photo.zadn.vn/channel/5/d/5ddecb9fb7a48d55465fdc9130e95d0e_1516010145.jpg", EDTCNPC (Thuyết Minh) - Tập 3
+http://n9.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/25/To_Love_To_Heal_2019_720p_H/E003//playlist_h.m3u8
+#EXTINF:-1 group-title="Em đứng trên cầu ngắm phong cảnh Thuyết minh" tvg-logo="https://zingtv-photo.zadn.vn/channel/5/d/5ddecb9fb7a48d55465fdc9130e95d0e_1516010145.jpg", EDTCNPC (Thuyết Minh) - Tập 4
+http://n9.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/25/To_Love_To_Heal_2019_720p_H/E004//playlist_h.m3u8
+#EXTINF:-1 group-title="Em đứng trên cầu ngắm phong cảnh Thuyết minh" tvg-logo="https://zingtv-photo.zadn.vn/channel/5/d/5ddecb9fb7a48d55465fdc9130e95d0e_1516010145.jpg", EDTCNPC (Thuyết Minh) - Tập 5
+http://n9.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/25/To_Love_To_Heal_2019_720p_H/E005//playlist_h.m3u8
+#EXTINF:-1 group-title="Em đứng trên cầu ngắm phong cảnh Thuyết minh" tvg-logo="https://zingtv-photo.zadn.vn/channel/5/d/5ddecb9fb7a48d55465fdc9130e95d0e_1516010145.jpg", EDTCNPC (Thuyết Minh) - Tập 6
+http://n9.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/25/To_Love_To_Heal_2019_720p_H/E006//playlist_h.m3u8
+#EXTINF:-1 group-title="Em đứng trên cầu ngắm phong cảnh Thuyết minh" tvg-logo="https://zingtv-photo.zadn.vn/channel/5/d/5ddecb9fb7a48d55465fdc9130e95d0e_1516010145.jpg", EDTCNPC (Thuyết Minh) - Tập 7
+http://n9.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/25/To_Love_To_Heal_2019_720p_H/E007//playlist_h.m3u8
+#EXTINF:-1 group-title="Em đứng trên cầu ngắm phong cảnh Thuyết minh" tvg-logo="https://zingtv-photo.zadn.vn/channel/5/d/5ddecb9fb7a48d55465fdc9130e95d0e_1516010145.jpg", EDTCNPC (Thuyết Minh) - Tập 8
+http://n9.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/25/To_Love_To_Heal_2019_720p_H/E008//playlist_h.m3u8
+#EXTINF:-1 group-title="Em đứng trên cầu ngắm phong cảnh Thuyết minh" tvg-logo="https://zingtv-photo.zadn.vn/channel/5/d/5ddecb9fb7a48d55465fdc9130e95d0e_1516010145.jpg", EDTCNPC (Thuyết Minh) - Tập 9
+http://n9.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/25/To_Love_To_Heal_2019_720p_H/E009//playlist_h.m3u8
+#EXTINF:-1 group-title="Em đứng trên cầu ngắm phong cảnh Thuyết minh" tvg-logo="https://zingtv-photo.zadn.vn/channel/5/d/5ddecb9fb7a48d55465fdc9130e95d0e_1516010145.jpg", EDTCNPC (Thuyết Minh) - Tập 10
+http://n9.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/25/To_Love_To_Heal_2019_720p_H/E010//playlist_h.m3u8
+#EXTINF:-1 group-title="Em đứng trên cầu ngắm phong cảnh Thuyết minh" tvg-logo="https://zingtv-photo.zadn.vn/channel/5/d/5ddecb9fb7a48d55465fdc9130e95d0e_1516010145.jpg", EDTCNPC (Thuyết Minh) - Tập 11
+http://n9.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/25/To_Love_To_Heal_2019_720p_H/E011//playlist_h.m3u8
+#EXTINF:-1 group-title="Em đứng trên cầu ngắm phong cảnh Thuyết minh" tvg-logo="https://zingtv-photo.zadn.vn/channel/5/d/5ddecb9fb7a48d55465fdc9130e95d0e_1516010145.jpg", EDTCNPC (Thuyết Minh) - Tập 12
+http://n9.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/25/To_Love_To_Heal_2019_720p_H/E012//playlist_h.m3u8
+#EXTINF:-1 group-title="Em đứng trên cầu ngắm phong cảnh Thuyết minh" tvg-logo="https://zingtv-photo.zadn.vn/channel/5/d/5ddecb9fb7a48d55465fdc9130e95d0e_1516010145.jpg", EDTCNPC (Thuyết Minh) - Tập 13
+http://n9.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/25/To_Love_To_Heal_2019_720p_H/E013//playlist_h.m3u8
+#EXTINF:-1 group-title="Em đứng trên cầu ngắm phong cảnh Thuyết minh" tvg-logo="https://zingtv-photo.zadn.vn/channel/5/d/5ddecb9fb7a48d55465fdc9130e95d0e_1516010145.jpg", EDTCNPC (Thuyết Minh) - Tập 14
+http://n9.hdviet.com/e5b5aeb2bf951941fca47b546571b1bd/s8/062019/25/To_Love_To_Heal_2019_720p_H/E014//playlist_h.m3u8
+
+
+
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="https://i.pinimg.com/originals/8c/4f/08/8c4f08a67329d16c9301c3bcecbe2276.jpg",Gia Đình Mèo Quý Tộc
+http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-GiaDinhMeoQuiToc.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="http://a9.vietbao.vn/images/vi955/2011/11/55416686-1320636757-pib10.jpg",Chú Mèo Đi Hia
+http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-MeoDiHia.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="https://2.bp.blogspot.com/-63Sgvn55Lww/Wp-rfvEtXzI/AAAAAAAE4ac/F27f079OTOs0Tn_PlRUfXc6sufkPSpjngCHMYCw/s320/XemPhimOn_thumb_chim-canh-cut-luot-van.jpg",Chim Cánh Cụt Lướt Ván
+http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-ChimCanhCutLuotVan.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="http://image.phimmoi.net/film/1240/poster.medium.jpg",Đào Tẩu
+http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-DaoTau.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="http://img.phimvtv.com/film/13757/meo-rung.poster.jpg?2019",Mèo Rừng
+http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-MeoRung.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="http://image.phimmoi.net/film/3879/poster.medium.jpg",Người Đẹp Và Quái Vật
+http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-NguoiDepVaQuaiVat.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9xONlbXEFD8w7bLNEnMSViOqTiCFwc18LP7Eb2cJaOAxPh-4Qcw",Vẹt Đuôi Dài Rio
+http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-VetDuoiDaiRio.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnSWW6v-d95a_njS-kMQHUalUq79tm2sehop9Gp9vvNv1zhF1LwQ",Ong Vàng Phiêu Lưu Ký
+http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-OngVangPhieuLuuKy.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/7/78/Tintin_3D_Poster.jpg/280px-Tintin_3D_Poster.jpg",Những Cuộc Phiêu Lưu Của TinTin
+http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-NhungCuocPhieuLuuCuaTintin.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="https://cdn.vietsubtv.com/images/film/leafie-co-ga-mai-thich-phieu-luu-5051.jpg",Cô Gà Mái Thích Phiêu Lưu (Việt Sub)
+http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-CoGaMaiThichPhieuLuu.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="https://2.bp.blogspot.com/-os6qB1tJq5Y/UUGo7kbGjxI/AAAAAAAAXNM/QY9PrMxZkaI/s742/xemphimso_tieu-thu-va-ga-lang-thang.jpg",Tiểu Thư Và Gã Lang Thang (phần 1)
+http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-TieuThuVaGaLangThang-Phan1.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="https://2.bp.blogspot.com/-os6qB1tJq5Y/UUGo7kbGjxI/AAAAAAAAXNM/QY9PrMxZkaI/s742/xemphimso_tieu-thu-va-ga-lang-thang.jpg",Tiểu Thư Và Gã Lang Thang (phần 2)
+http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-TieuThuVaGaLangThang-Phan2.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/7/70/The_Fox_and_the_Hound.jpg/280px-The_Fox_and_the_Hound.jpg",Cáo Và Chó Săn – Trọn Bộ (phần 1)
+http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-CaoVaChoSan1.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/7/70/The_Fox_and_the_Hound.jpg/280px-The_Fox_and_the_Hound.jpg",Cáo Và Chó Săn – Trọn Bộ (phần 2)
+http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-CaoVaChoSan2.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="http://imedia.kenhhd.tv/xce8xh5dlwy9/chu-gau-yogi-yogi-bear-2010-4aed7f7381.jpg",Chú Gấu Yogi
+http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-ChuGauYoGi.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="https://truyencotich.vn/wp-content/uploads/2012/10/tfv-660x440.jpg",Bạch Tuyết Và Bảy Chú Lùn
+http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-BachTuyetVaBayChuLun.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/9/95/Poster_phim_Công_chúa_và_chàng_ếch.jpg/280px-Poster_phim_Công_chúa_và_chàng_ếch.jpg",Công Chúa Và Chàng Ếch
+http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-CongChuaVaChangEch.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGiDZhkTUkgnXq-A8H6yLgm7wOsbqDzPnJSchV0Qymj1QzNv6ejg",Chú Gà Siêu Quậy
+http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-ChuGaSieuQuay.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Chú Chuột Đầu Bếp
+http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-ChuChuotDauBep.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Cuộc Hành Trình Của Chú Báo Đốm
+http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-CuocHanhTrinhCuaChuBaoDom.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",ock – Chú Chó Dũng Cảm
+http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-JockChuChoDungCam.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",101 Con Chó Đốm
+http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-101ConChoDom.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Madagascar – Trọn Bộ (phần 1)
+http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-Madagascar-Phan1-ChuyenPhieuLuuDenMadagascar.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Madagascar – Trọn Bộ (phần 2)
+http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-Madagascar-Phan2-TauThoatDenChauPhi.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Madagascar – Trọn Bộ (phần 3)
+http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-Madagascar-Phan3-ThanTuongChauAu.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Ralph Đập Phá
+http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-RalphDapPha.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Sinbab – Huyền Thoại Biển Cả
+http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-SinbadHuyenThoaiBienCa.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Voi Và Những Người Bạn
+http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-VoiVaNhungNguoiBan.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Siêu Nhí Astro
+http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-SieuNhiAstro.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Cô Bé Lọ Lem – Trọn Bộ (phần 1)
+http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-CoBeLoLem-Phan1.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Cô Bé Lọ Lem – Trọn Bộ (phần 2)
+http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-CoBeLoLem-Phan2.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Cô Bé Lọ Lem – Trọn Bộ (phần 3)
+http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-CoBeLoLem-Phan2.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Người Đẹp Ngủ Trong Rừng
+http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-NguoiDepNguTrongRung.mp4
+#EXTINF:-1 group-title="Phim Thiếu Nhi" tvg-logo="",Vút Bay
+http://s1.weblinhtinh.xyz/media/film/HoatHinh/PhimHoatHinh-VutBay.mp4
+
+
+
+
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-1.jpg", Doraemon Tập 01 (Vietsub)
+http://gg.gg/cji2e
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-2.jpg", Doraemon Tập 02 (Vietsub)
+http://gg.gg/chxbx
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-3.jpg", Doraemon Tập 03 (Vietsub)
+http://gg.gg/chxca
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-4.jpg", Doraemon Tập 04 (Vietsub)
+http://gg.gg/chxcu
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-5.jpg", Doraemon Tập 05 (Vietsub)
+http://gg.gg/ci7z7
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-6.jpg", Doraemon Tập 06 (Vietsub)
+http://gg.gg/ci84h
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-7.jpg", Doraemon Tập 07 (Vietsub) 
+http://gg.gg/cij3v
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-8.jpg", Doraemon Tập 08 (Vietsub)
+http://gg.gg/ci88h
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-9.jpg", Doraemon Tập 09 (Vietsub)
+http://gg.gg/ci89n
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-10.jpg", Doraemon Tập 10 (Vietsub)
+http://gg.gg/ci8a5
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-11.jpg", Doraemon Tập 11 (Vietsub)
+http://gg.gg/ci8js
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-12.jpg", Doraemon Tập 12 (Vietsub)
+http://gg.gg/ci8l3
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-13.jpg", Doraemon Tập 13 (Vietsub)
+http://gg.gg/cifir
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-14.jpg", Doraemon Tập 14 (Vietsub)
+http://gg.gg/cifj9
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-15.jpg", Doraemon Tập 15 (Vietsub)
+http://gg.gg/cifl0
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-16.jpg", Doraemon Tập 16 (Vietsub)
+http://gg.gg/cij6l
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-17.jpg", Doraemon Tập 17 (Vietsub)
+http://gg.gg/cij6v
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-18.jpg", Doraemon Tập 18 (Vietsub)
+http://gg.gg/cij75
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-19.jpg", Doraemon Tập 19 (Vietsub)
+http://gg.gg/cij7d
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-20.jpg", Doraemon Tập 20 (Vietsub)
+http://gg.gg/cijbg
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-21.jpg", Doraemon Tập 21 (Vietsub)
+http://gg.gg/cj8ol
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-22.jpg", Doraemon Tập 22 (Vietsub)
+http://gg.gg/cj8qm
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-23.jpg", Doraemon Tập 23 (Vietsub)
+http://gg.gg/cj8pk
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-24.jpg", Doraemon Tập 24 (Vietsub)
+http://gg.gg/cj8r0
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-25.jpg", Doraemon Tập 25 (Vietsub)
+http://gg.gg/cji33
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-26.jpg", Doraemon Tập 26 (Vietsub)
+http://gg.gg/cji3d
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-27.jpg", Doraemon Tập 27 (Vietsub)
+http://gg.gg/cji3p
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-28.jpg", Doraemon Tập 28 (Vietsub)
+http://gg.gg/cji41
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-29.jpg", Doraemon Tập 29 (Vietsub)
+http://gg.gg/cji57
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-30.jpg", Doraemon Tập 30 (Vietsub)
+http://gg.gg/cpsgi
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-31.jpg", Doraemon Tập 31 (Vietsub)
+http://gg.gg/cpsgm
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-32.jpg", Doraemon Tập 32 (Vietsub)
+http://gg.gg/cpsgv
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-33.jpg", Doraemon Tập 33 (Vietsub)
+http://gg.gg/cpshn
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-34.jpg", Doraemon Tập 34 (Vietsub)
+http://gg.gg/cpshu
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-35.jpg", Doraemon Tập 35 (Vietsub)
+http://gg.gg/cpsi0
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-36.jpg", Doraemon Tập 36 (Vietsub)
+http://gg.gg/cpsii
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-37.jpg", Doraemon Tập 37 (Vietsub)
+http://gg.gg/csck8
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-38.jpg", Doraemon Tập 38 (Vietsub)
+http://gg.gg/csckd
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-39.jpg", Doraemon Tập 39 (Vietsub)
+http://gg.gg/csclf
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-40.jpg", Doraemon Tập 40 (Vietsub)
+http://gg.gg/csclm
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-41.jpg", Doraemon Tập 41 (Vietsub)
+http://gg.gg/csclt
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-42.jpg", Doraemon Tập 42 (Vietsub)
+http://gg.gg/cscmx
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-43.jpg", Doraemon Tập 43 (Vietsub)
+http://gg.gg/cscng
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-44.jpg", Doraemon Tập 44 (Vietsub)
+http://gg.gg/cscnr
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-45.jpg", Doraemon Tập 45 (Vietsub)
+http://gg.gg/cscnx
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-46.jpg", Doraemon Tập 46 (Vietsub)
+http://gg.gg/csco6
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-47.jpg", Doraemon Tập 47 (Vietsub)
+http://gg.gg/cscok
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-48.jpg", Doraemon Tập 48 (Vietsub)
+http://gg.gg/cscoo
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-49.jpg", Doraemon Tập 49 (Vietsub)
+http://gg.gg/cscp1
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-50.jpg", Doraemon Tập 50 (Vietsub)
+http://gg.gg/cscpa
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-51.jpg", Doraemon Tập 51 (Vietsub)
+http://gg.gg/dydfu
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-52.jpg", Doraemon Tập 52 (Vietsub)
+http://gg.gg/dydu4
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-53.jpg", Doraemon Tập 53 (Vietsub)
+http://gg.gg/dydv3
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-54.jpg", Doraemon Tập 54 (Vietsub)
+http://gg.gg/dydvt
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-55.jpg", Doraemon Tập 55 (Vietsub)
+
+#EXTINF:-1 tvg-logo="http://phimdora.com/phimdora2112/index_videolb/thumbnails/TVdora-56.jpg", Doraemon Tập 56 (Vietsub)
+#EXTINF:-1 group-title="Doraemon" tvg-logo="https://m05.dgo.clhcdn.net/media/image/id/5ad33d3e0df938e14065e6b9", Doraemon Vietsub Tập 490
+https://nh.ntl.clhcdn.net/clhgfs/video/DriveCopyOf_H3MKqATh-720.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Doraemon" tvg-logo="https://m09.dgo.clhcdn.net/media/image/id/5ad33d290df938e84065e69d", Doraemon Vietsub Tập 491
+https://nh.ntl.clhcdn.net/clhgfs/video/DriveCopyOf_1HYhUQ6W-720.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Doraemon" tvg-logo="https://m05.dgo.clhcdn.net/media/image/id/5ad33c210df938ed4065e6b2", Doraemon Vietsub Tập 493
+https://nh.ntl.clhcdn.net/clhgfs/video/uWwKsAeL.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Doraemon" tvg-logo="https://m05.dgo.clhcdn.net/media/image/id/5ae978e00df938a86ff1d99c", Doraemon Vietsub Tập 494 P1
+https://nh.ntl.clhcdn.net/clhgfs/video/mQEvuQCj.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Doraemon" tvg-logo="https://m10.dgo.clhcdn.net/media/image/id/5afc0a5f0df9384737b73b1e", Doraemon Vietsub Tập 494 P2
+https://nh.ntl.clhcdn.net/clhgfs/video/OeQwEgmW.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Doraemon" tvg-logo="https://m08.dgo.clhcdn.net/media/image/id/5ad33bf10df938de4065e6b4", Doraemon Vietsub Tập 496
+https://nh.ntl.clhcdn.net/clhgfs/video/DriveCopyOf_GQea6g0X.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Doraemon" tvg-logo="https://m10.dgo.clhcdn.net/media/image/id/5ad33b740df938ea4065e69f", Doraemon Vietsub Tập 498
+https://nh.ntl.clhcdn.net/clhgfs/video/lugzcQXq.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Doraemon" tvg-logo="https://m08.dgo.clhcdn.net/media/image/id/5ad33bf10df938de4065e6b4", Doraemon Vietsub Tập 499
+https://nh.ntl.clhcdn.net/clhgfs/video/pov3hQcp.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 500
+https://nh.ntl.clhcdn.net/clhgfs/video/DriveCopyOf_3pTcrgs0.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 501
+https://nh.ntl.clhcdn.net/clhgfs/video/DriveCopyOf_nNJmfgEk.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 502
+https://nh.ntl.clhcdn.net/clhgfs/video/DriveCopyOf_6lxC5AW3.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 503
+https://nh.ntl.clhcdn.net/clhgfs/video/9MuWqgjh.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 504
+https://nh.ntl.clhcdn.net/clhgfs/video/cq6XyAdS.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 506
+https://nh.ntl.clhcdn.net/clhgfs/video/DriveCopyOf_wvNRMws5.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 511
+https://nh.ntl.clhcdn.net/clhgfs/video/TAh2ggfm.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 512
+https://nh.ntl.clhcdn.net/clhgfs/video/xacCGAS5.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 513
+https://nh.ntl.clhcdn.net/clhgfs/video/ku1heQcs.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 515
+https://nh.ntl.clhcdn.net/clhgfs/video/4OLgsw92.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 516
+https://nh.ntl.clhcdn.net/clhgfs/video/1VkucA4K.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 517
+https://nh.ntl.clhcdn.net/clhgfs/video/iuTvYQ39.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 518
+https://nh.ntl.clhcdn.net/clhgfs/video/IM8BOgPO.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 519
+https://nh.ntl.clhcdn.net/clhgfs/video/kxg9Qwhm.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 520
+https://nh.ntl.clhcdn.net/clhgfs/video/xOUOcgLR.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 521
+https://nh.ntl.clhcdn.net/clhgfs/video/RubRSwuj.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 522
+https://nh.ntl.clhcdn.net/clhgfs/video/tRCMHQf2.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 525
+https://nh.ntl.clhcdn.net/clhgfs/video/rsGcJQLv.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 538
+https://nh.ntl.clhcdn.net/clhgfs/video/Mofg8AEL.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 543
+https://nh.ntl.clhcdn.net/clhgfs/video/cLPofgmG-720.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 545
+https://nh.ntl.clhcdn.net/clhgfs/video/hLJvag51-720.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Doraemon" tvg-logo="https://louvreesports.com//images/nimotv.png", Doraemon Vietsub Tập 546
+https://nh.ntl.clhcdn.net/clhgfs/video/4aSwsgDV1544849311-720.mp4/index-v1-a1.m3u8
+
+
+
+
+
+
+
+
+#EXTM3U List IPTV dùng riêng Mạng FPT
+
+#EXTINF:-1 tvg-name="VTV1-VTV" group-title="VTV",VTV1 HD (HD 8Mbps) <Mạng FPT>
+udp://@225.1.2.249:30120
+#EXTINF:-1 tvg-name="VTV2-VTV" group-title="VTV",VTV2 HD (HD 8Mbps) <Mạng FPT>
+udp://@225.1.2.13:30120
+#EXTINF:-1 tvg-name="VTV3-VTV" group-title="VTV",VTV3 HD (HD 8Mbps) <Mạng FPT>
+udp://@225.1.2.247:30120
+#EXTINF:-1 tvg-name="VTV4-VTV" group-title="VTV",VTV4 HD (HD 8Mbps) <Mạng FPT>
+udp://@225.1.2.20:30120
+#EXTINF:-1 tvg-name="VTV5-VTV" group-title="VTV",VTV5 HD (HD 8Mbps) <Mạng FPT>
+udp://@225.1.1.131:30120
+#EXTINF:-1 tvg-name="VTV6-VTV" group-title="VTV",VTV6 HD (HD 8Mbps) <Mạng FPT>
+udp://@225.1.2.245:30120
+#EXTINF:-1 tvg-name="VTV7-VTV" group-title="VTV",VTV7 HD (HD 8Mbps) <Mạng FPT>
+udp://@225.1.2.96:30120
+#EXTINF:-1 tvg-name="VTV8-VTV" group-title="VTV",VTV8 HD (HD 8Mbps) <Mạng FPT>
+udp://@225.1.2.166:30120
+#EXTINF:-1 tvg-name="VTV9-VTV" group-title="VTV",VTV9 HD (HD 8Mbps) <Mạng FPT>
+udp://@225.1.1.128:30120
+
+#EXTINF:-1 tvg-name="VTC1-ClipTV" group-title="VTC/VOV",VTC1 HD (HD 4Mbps) <Mạng FPT>
+udp://@225.1.2.254:30120
+#EXTINF:-1 tvg-name="VTC3HD-ClipTV" group-title="VTC/VOV",VTC3 HD (HD 4Mbps) <Mạng FPT>
+udp://@225.1.2.251:30120
+#EXTINF:-1 tvg-name="YEAH1 FAMILY VTC4" group-title="VTC/VOV",VTC4 HD (HD 4Mbps) <Mạng FPT>
+udp://@225.1.2.200:30120
+#EXTINF:-1 tvg-name="VTC13" group-title="VTC/VOV",VTC13 HD (HD 4Mbps) <Mạng FPT>
+udp://@225.1.2.250:30120
+#EXTINF:-1 tvg-name="VTC14-ClipTV" group-title="VTC/VOV",VTC14 HD (HD 4Mbps) <Mạng FPT>
+udp://@225.1.2.88:30120
+#EXTINF:-1 tvg-name="VTC16-ClipTV" group-title="VTC/VOV",VTC16 HD (HD 4Mbps) <Mạng FPT>
+udp://@225.1.2.190:30120
+#EXTINF:-1 tvg-name="VTC2-ClipTV" group-title="VTC/VOV",VTC2 <Mạng FPT>
+udp://@225.1.2.202:30120
+#EXTINF:-1 tvg-name="VTC5-ClipTV" group-title="VTC/VOV",VTC5 <Mạng FPT>
+udp://@225.1.2.199:30120
+#EXTINF:-1 tvg-name="VTC6-ClipTV" group-title="VTC/VOV",VTC6 <Mạng FPT>
+udp://@225.1.2.198:30120
+#EXTINF:-1 tvg-name="TODAYTV" group-title="VTC/VOV",VTC7 <Mạng FPT>
+udp://@225.1.2.197:30120
+#EXTINF:-1 tvg-name="VTC8 HD" group-title="VTC/VOV",VTC8 <Mạng FPT>
+udp://@225.1.2.196:30120
+#EXTINF:-1 tvg-name="VTC9 Let's Viet" group-title="VTC/VOV",VTC9 <Mạng FPT>
+udp://@225.1.2.195:30120
+#EXTINF:-1 tvg-name="VTC10-ClipTV" group-title="VTC/VOV",VTC10 <Mạng FPT>
+udp://@225.1.2.194:30120
+#EXTINF:-1 tvg-name="VTC11 THIEU NHI" group-title="VTC/VOV",VTC11 <Mạng FPT>
+udp://@225.1.2.193:30120
+#EXTINF:-1 group-title="VTC/VOV",VTC12 <Mạng FPT>
+udp://@225.1.2.51:30120
+#EXTINF:-1 tvg-name="VOVTV" group-title="VTC/VOV",VOV Vietnam Journey <Mạng FPT>
+udp://@225.1.2.171:30120
+
+#EXTINF:-1 tvg-name="HTV2-ClipTV" group-title="HTV/HTVC",Vie Channel _ HTV2 (HD 4Mbps) <Mạng FPT>
+udp://@225.1.1.193:30120
+#EXTINF:-1 tvg-name="FBNC" group-title="HTV/HTVC",FBNC (HD 4Mbps) <Mạng FPT>
+udp://@225.1.1.181:30120
+#EXTINF:-1 tvg-name="HTV7 HD" group-title="HTV/HTVC",HTV7 HD (HD 6Mbps) <Mạng FPT>
+udp://@225.1.1.192:30120
+#EXTINF:-1 tvg-name="HTV9 HD" group-title="HTV/HTVC",HTV9 HD (HD 8Mbps) <Mạng FPT>
+udp://@225.1.1.190:30120
+#EXTINF:-1 tvg-name="FBNC" group-title="HTV/HTVC",FBNC (HD 6Mbps) <Mạng FPT>
+udp://@225.1.1.182:30120
+#EXTINF:-1 tvg-name="HTVC Phim HD" group-title="HTV/HTVC",HTVC Phim (HD 6Mbps) <Mạng FPT>
+udp://@225.1.1.184:30120
+#EXTINF:-1 tvg-name="HTVC THUAN VIET HD" group-title="HTV/HTVC",Thuần Việt HD (HD 6Mbps) <Mạng FPT>
+udp://@225.1.1.186:30120
+#EXTINF:-1 tvg-name="HTV1" group-title="HTV/HTVC",HTV1 <Mạng FPT>
+udp://@225.1.1.180:30120
+#EXTINF:-1 tvg-name="HTV3-ClipTV" group-title="HTV/HTVC",dreamsTV _ HTV3 <Mạng FPT>
+udp://@225.1.1.178:30120
+#EXTINF:-1 tvg-name="HTV4" group-title="HTV/HTVC",HTV Keys <Mạng FPT>
+udp://@225.1.1.177:30120
+#EXTINF:-1 tvg-name="HTV THE THAO" group-title="HTV/HTVC",HTV THỂ THAO <Mạng FPT>
+udp://@225.1.1.165:30120
+#EXTINF:-1 tvg-name="HTVC DU LICH CUOC SONG" group-title="HTV/HTVC",DU LỊCH VÀ CUỘC SỐNG <Mạng FPT>
+udp://@225.1.1.166:30120
+#EXTINF:-1 tvg-name="HTVC GIA DINH" group-title="HTV/HTVC",GIA ĐÌNH <Mạng FPT>
+udp://@225.1.1.170:30120
+#EXTINF:-1 tvg-name="HTVC PHU NU HD" group-title="HTV/HTVC",PHỤ NỮ <Mạng FPT>
+udp://@225.1.1.171:30120
+#EXTINF:-1 tvg-name="HTVC Thuần Việt" group-title="HTV/HTVC",Thuần Việt <Mạng FPT>
+udp://@225.1.1.174:30120
+
+#EXTINF:-1 tvg-name="amc" group-title="SCTV",SCTV2 _ amc <Mạng FPT>
+udp://@225.1.1.234:30120
+
+#EXTINF:-1 tvg-name="ANTV" group-title="Kênh TH Thiết yếu",ANTV HD (HD 4Mbps) <Mạng FPT>
+udp://@225.1.2.169:30120
+#EXTINF:-1 tvg-name="TH NHAN DAN" group-title="Kênh TH Thiết yếu",Nhân Dân TV (HD 4Mbps) <Mạng FPT>
+udp://@225.1.1.91:30120
+#EXTINF:-1 tvg-name="QUOC HOI" group-title="Kênh TH Thiết yếu",QUỐC HỘI (HD 4Mbps) <Mạng FPT>
+udp://@225.1.2.149:30120
+#EXTINF:-1 tvg-name="QUOC PHONG VIET NAM HD" group-title="Kênh TH Thiết yếu",QPVN (HD 4Mbps) <Mạng FPT>
+udp://@225.1.2.216:30120
+#EXTINF:-1 tvg-name="THONG TAN XA VIET NAM" group-title="Kênh TH Thiết yếu",TTXVN (HD 4Mbps) <Mạng FPT>
+udp://@225.1.1.43:30120
+#EXTINF:-1 tvg-name="QUOC HOI" group-title="Kênh TH Thiết yếu",QUỐC HỘI (HD 6Mbps) <Mạng FPT>
+udp://@225.1.2.148:30120
+#EXTINF:-1 tvg-name="QUOC PHONG VIET NAM HD" group-title="Kênh TH Thiết yếu",QPVN (HD 6Mbps) <Mạng FPT>
+udp://@225.1.2.217:30120
+
+#EXTINF:-1 tvg-name="AN VIEN HD" group-title="vivaTV",An Viên HD _ BTV9 (HD 50p) <Mạng FPT>
+udp://@225.1.2.189:30120
+#EXTINF:-1 group-title="vivaTV",THĐT2 _ Miền Tây (50p) <Mạng FPT>
+udp://@225.1.1.221:30120
+#EXTINF:-1 group-title="vivaTV",AN NINH THẾ GIỚI <Mạng FPT>
+udp://@225.1.1.208:30120
+#EXTINF:-1 group-title="vivaTV",NCM _ BTV10 (50p) <Mạng FPT>
+udp://@225.1.1.225:30120
+#EXTINF:-1 group-title="vivaTV",PHIM HAY (50p) <Mạng FPT>
+udp://@225.1.1.222:30120
+#EXTINF:-1 group-title="vivaTV",SAM _ BTV11 (50p) <Mạng FPT>
+udp://@225.1.1.224:30120
+#EXTINF:-1 group-title="vivaTV",BTV6 2!IDOL _ VietTeen (50p) <Mạng FPT>
+udp://@225.1.1.223:30120
+
+#EXTINF:-1 group-title="Other",youTV _ Hanoicab2 <Mạng FPT>
+udp://@225.1.1.207:30120
+#EXTINF:-1 group-title="Other",MOV _ Hanoicab4 <Mạng FPT>
+udp://@225.1.1.206:30120
+#EXTINF:-1 tvg-name="MTV" group-title="Other",MTV <Mạng FPT>
+udp://@225.1.1.245:30120
+#EXTINF:-1 group-title="Other",Vietnamnet <Mạng FPT>
+udp://@225.1.1.194:30120
+
+#EXTINF:-1 tvg-name="TH THAI NGUYEN" group-title="Địa phương (HD)",TN1 HD _ TH Thái Nguyên (HD 4Mbps) <Mạng FPT>
+udp://@225.1.2.179:30120
+#EXTINF:-1 tvg-name="TH PHU THO" group-title="Địa phương (HD)",PTV HD _ TH Phú Thọ (HD 4Mbps) <Mạng FPT>
+udp://@225.1.2.165:30120
+#EXTINF:-1 tvg-name="TH QUANG NINH 1" group-title="Địa phương (HD)",QTV1 HD _ TH Quảng Ninh (HD 4Mbps) <Mạng FPT>
+udp://@225.1.2.181:30120
+#EXTINF:-1 tvg-name="TH BAC NINH" group-title="Địa phương (HD)",BTV _ TH Bắc Ninh (HD 4Mbps) <Mạng FPT>
+udp://@225.1.1.40:30120
+#EXTINF:-1 tvg-name="HANOITV 1" group-title="Địa phương (HD)",H1 HD _ TH Hà Nội (HD 4Mbps) <Mạng FPT>
+udp://@225.1.2.186:30120
+#EXTINF:-1 tvg-name="HANOITV 2" group-title="Địa phương (HD)",H2 HD _ TH Hà Nội (HD 4Mbps) <Mạng FPT>
+udp://@225.1.1.125:30120
+#EXTINF:-1 tvg-name="TH HAI PHONG" group-title="Địa phương (HD)",THP HD _ TH Thành phố Hải Phòng (HD  <Mạng FPT>4Mbps)
+udp://@225.1.1.44:30120
+#EXTINF:-1 tvg-name="TH NINH BINH" group-title="Địa phương (HD)",NTV HD _ TH Ninh Bình (HD 4Mbps) <Mạng FPT>
+udp://@225.1.2.185:30120
+#EXTINF:-1 tvg-name="TH NGHE AN" group-title="Địa phương (HD)",NTV HD _ TH Nghệ An (HD 4Mbps) <Mạng FPT>
+udp://@225.1.2.183:30120
+#EXTINF:-1 tvg-name="TH QUANG TRI" group-title="Địa phương (HD)",QRTV _ TH Quảng Trị (HD 4Mbps) <Mạng FPT>
+udp://@225.1.1.117:30120
+#EXTINF:-1 tvg-name="TH DA NANG 1" group-title="Địa phương (HD)",DaNangTV1 HD _ TH Thành phố Đà Nẵng (HD 4Mbps) <Mạng FPT>
+udp://@225.1.1.147:30120
+#EXTINF:-1 group-title="Địa phương (HD)",DaNangTV2 HD _ TH Thành phố Đà Nẵng (HD 4Mbps) <Mạng FPT>
+udp://@225.1.1.146:30120
+#EXTINF:-1 tvg-name="TH QUANG NGAI" group-title="Địa phương (HD)",PTQ _ TH Quảng Ngãi (HD 4Mbps) <Mạng FPT>
+udp://@225.1.2.174:30120
+#EXTINF:-1 tvg-name="TH PHU YEN" group-title="Địa phương (HD)",PTP _ TH Phú Yên (HD 4Mbps) <Mạng FPT>
+udp://@225.1.2.58:30120
+#EXTINF:-1 tvg-name="TH KHANH HOA" group-title="Địa phương (HD)",KTV HD _ TH Khánh Hòa (HD 4Mbps) <Mạng FPT>
+udp://@225.1.1.133:30120
+#EXTINF:-1 tvg-name="TH GIA LAI" group-title="Địa phương (HD)",THGL _ TH Gia Lai (HD 4Mbps) <Mạng FPT>
+udp://@225.1.2.176:30120
+#EXTINF:-1 tvg-name="TH BINH DUONG 1" group-title="Địa phương (HD)",BTV1 HD _ TH Bình Dương (HD 4Mbps) <Mạng FPT>
+udp://@225.1.1.150:30120
+#EXTINF:-1 tvg-name="TH BINH DUONG 2" group-title="Địa phương (HD)",BTV2 HD _ TH Bình Dương (HD 4Mbps) <Mạng FPT>
+udp://@225.1.1.149:30120
+#EXTINF:-1 tvg-name="IMOVIE HD" group-title="Địa phương (HD)",iMOVIE TV HD PHIM CHỌN LỌC _ BTV4 (HD 4Mbps) <Mạng FPT>
+udp://@225.1.1.30:30120
+#EXTINF:-1 tvg-name="TH DONG NAI 1" group-title="Địa phương (HD)",ĐNRTV1 HD _ TH Đồng Nai (HD 8Mbps) <Mạng FPT>
+udp://@225.1.1.152:30120
+#EXTINF:-1 tvg-name="TH DONG NAI 2" group-title="Địa phương (HD)",ĐNRTV2 HD _ TH Đồng Nai (HD 8Mbps) <Mạng FPT>
+udp://@225.1.1.151:30120
+#EXTINF:-1 tvg-name="TH TAY NINH" group-title="Địa phương (HD)",TTV11 _ TH Tây Ninh (HD 4Mbps) <Mạng FPT>
+udp://@225.1.1.130:30120
+#EXTINF:-1 tvg-name="TH BA RIA VUNG TAU" group-title="Địa phương (HD)",BRT HD _ TH Bà Rịa Vũng Tàu (HD 4Mbps) <Mạng FPT>
+udp://@225.1.2.175:30120
+#EXTINF:-1 tvg-name="TH TIEN GIANG" group-title="Địa phương (HD)",THTG _ TH Tiền Giang (HD 4Mbps) <Mạng FPT>
+udp://@225.1.2.170:30120
+#EXTINF:-1 tvg-name="THVL1 HD" group-title="Địa phương (HD)",THVL1 HD _ TH Vĩnh Long (HD 4Mbps) <Mạng FPT>
+udp://@225.1.1.155:30120
+#EXTINF:-1 tvg-name="THVL2 HD" group-title="Địa phương (HD)",THVL2 HD _ TH Vĩnh Long (HD 4Mbps) <Mạng FPT>
+udp://@225.1.1.154:30120
+#EXTINF:-1 tvg-name="THVL3 HD" group-title="Địa phương (HD)",THVL3 HD _ TH Vĩnh Long (HD 4Mbps) <Mạng FPT>
+udp://@225.1.1.235:30120
+#EXTINF:-1 tvg-name="TH TRA VINH" group-title="Địa phương (HD)",THTV HD _ TH Trà Vinh (HD 4Mbps) <Mạng FPT>
+udp://@225.1.2.172:30120
+#EXTINF:-1 tvg-name="TH HAU GIANG" group-title="Địa phương (HD)",HGTV _ TH Hậu Giang (HD 4Mbps) <Mạng FPT>
+udp://@225.1.1.157:30120
+#EXTINF:-1 tvg-name="TH KIEN GIANG 1" group-title="Địa phương (HD)",KG1 _ TH Kiên Giang (HD 4Mbps) <Mạng FPT>
+udp://@225.1.2.182:30120
+#EXTINF:-1 tvg-name="TH BAC LIEU" group-title="Địa phương (HD)",BLTV HD _ TH Bạc Liêu (HD 4Mbps) <Mạng FPT>
+udp://@225.1.1.61:30120
+#EXTINF:-1 tvg-name="TH CA MAU" group-title="Địa phương (HD)",CTV _ TH Cà Mau (HD 4Mbps) <Mạng FPT>
+udp://@225.1.1.104:30120
+
+#EXTINF:-1 tvg-name="TH LAO CAI" group-title="Địa phương (SD)",THLC _ TH Lào Cai <Mạng FPT>
+udp://@225.1.1.119:30120
+#EXTINF:-1 tvg-name="TH YEN BAI" group-title="Địa phương (SD)",YTV _ TH Yên Bái <Mạng FPT>
+udp://@225.1.1.39:30120
+#EXTINF:-1 group-title="Địa phương (SD)",ĐTV _ TH Điện Biên <Mạng FPT>
+udp://@225.1.1.74:30120
+#EXTINF:-1 tvg-name="TH HOA BINH" group-title="Địa phương (SD)",HBTV _ TH Hòa Bình <Mạng FPT>
+udp://@225.1.2.168:30120
+#EXTINF:-1 tvg-name="TH SON LA" group-title="Địa phương (SD)",STV _ TH Sơn La <Mạng FPT>
+udp://@225.1.1.98:30120
+#EXTINF:-1 tvg-name="TH HA GIANG" group-title="Địa phương (SD)",HGTV _ TH Hà Giang <Mạng FPT>
+udp://@225.1.1.62:30120
+#EXTINF:-1 tvg-name="TH CAO BANG" group-title="Địa phương (SD)",CRTV _ TH Cao Bằng <Mạng FPT>
+udp://@225.1.1.102:30120
+#EXTINF:-1 tvg-name="TH LANG SON" group-title="Địa phương (SD)",LSTV _ TH Lạng Sơn <Mạng FPT>
+udp://@225.1.1.160:30120
+#EXTINF:-1 tvg-name="TH TUYEN QUANG" group-title="Địa phương (SD)",TTV _ TH Tuyên Quang <Mạng FPT>
+udp://@225.1.2.188:30120
+#EXTINF:-1 tvg-name="TH BAC GIANG" group-title="Địa phương (SD)",BGTV _ TH Bắc Giang <Mạng FPT>
+udp://@225.1.1.164:30120
+#EXTINF:-1 tvg-name="TH QUANG NINH 3" group-title="Địa phương (SD)",QTV3 _ TH Quảng Ninh <Mạng FPT>
+udp://@225.1.2.180:30120
+#EXTINF:-1 tvg-name="TH HA NAM" group-title="Địa phương (SD)",THHN _ TH Hà Nam <Mạng FPT>
+udp://@225.1.1.63:30120
+#EXTINF:-1 tvg-name="TH HAI DUONG" group-title="Địa phương (SD)",THD _ TH Hải Dương <Mạng FPT>
+udp://@225.1.1.158:30120
+#EXTINF:-1 tvg-name="TH HUNG YEN" group-title="Địa phương (SD)",HY _ TH Hưng Yên <Mạng FPT>
+udp://@225.1.1.118:30120
+#EXTINF:-1 group-title="Địa phương (SD)",NTV _ TH Nam Định <Mạng FPT>
+udp://@225.1.1.120:30120
+#EXTINF:-1 group-title="Địa phương (SD)",TBTV _ TH Thái Bình <Mạng FPT>
+udp://@225.1.1.99:30120
+#EXTINF:-1 group-title="Địa phương (SD)",VP _ TH Vĩnh Phúc <Mạng FPT>
+udp://@225.1.2.99:30120
+#EXTINF:-1 tvg-name="TH THANH HOA" group-title="Địa phương (SD)",TTV _ TH Thanh Hóa <Mạng FPT>
+udp://@225.1.2.184:30120
+#EXTINF:-1 tvg-name="TH HA TINH" group-title="Địa phương (SD)",HTTV _ TH Hà Tĩnh <Mạng FPT>
+udp://@225.1.1.75:30120
+#EXTINF:-1 tvg-name="TH QUANG BINH" group-title="Địa phương (SD)",QBTV _ TH Quảng Bình <Mạng FPT>
+udp://@225.1.2.164:30120
+#EXTINF:-1 tvg-name="TH THUA THIEN HUE" group-title="Địa phương (SD)",TRT _ TH Thừa Thiên Huế <Mạng FPT>
+udp://@225.1.1.161:30120
+#EXTINF:-1 tvg-name="TH QUANG NAM" group-title="Địa phương (SD)",QRT _ TH Quảng Nam <Mạng FPT>
+udp://@225.1.2.50:30120
+#EXTINF:-1 tvg-name="TH BINH DINH" group-title="Địa phương (SD)",BTV _ TH Bình Định <Mạng FPT>
+udp://@225.1.1.145:30120
+#EXTINF:-1 tvg-name="TH NINH THUAN" group-title="Địa phương (SD)",NTV _ TH Ninh Thuận <Mạng FPT>
+udp://@225.1.2.178:30120
+#EXTINF:-1 tvg-name="TH BINH THUAN" group-title="Địa phương (SD)",BTV _ TH Bình Thuận <Mạng FPT>
+udp://@225.1.1.124:30120
+#EXTINF:-1 tvg-name="KRT KON TUM" group-title="Địa phương (SD)",KRT _ TH Kon Tum <Mạng FPT>
+udp://@225.1.1.36:30120
+#EXTINF:-1 tvg-name="TH DAK LAK" group-title="Địa phương (SD)",DRT _ TH Đắk Lắk <Mạng FPT>
+udp://@225.1.1.64:30120
+#EXTINF:-1 tvg-name="TH LAM DONG" group-title="Địa phương (SD)",LTV _ TH Lâm Đồng <Mạng FPT>
+udp://@225.1.2.177:30120
+#EXTINF:-1 tvg-name="TH BINH PHUOC 1" group-title="Địa phương (SD)",BPTV1 _ TH Bình Phước <Mạng FPT>
+udp://@225.1.2.23:30120
+#EXTINF:-1 group-title="Địa phương (SD)",BPTV2 _ HOME tv <Mạng FPT>
+udp://@225.1.2.38:30120
+#EXTINF:-1 tvg-name="TH LONG AN" group-title="Địa phương (SD)",LA34 _ TH Long An <Mạng FPT>
+udp://@225.1.1.162:30120
+#EXTINF:-1 tvg-name="TH DONG THAP 1" group-title="Địa phương (SD)",THĐT1 _ TH Đồng Tháp <Mạng FPT>
+udp://@225.1.1.163:30120
+#EXTINF:-1 tvg-name="TH AN GIANG" group-title="Địa phương (SD)",ATV _ TH An Giang <Mạng FPT>
+udp://@225.1.2.173:30120
+#EXTINF:-1 tvg-name="TH BEN TRE" group-title="Địa phương (SD)",THBT _ TH Bến Tre <Mạng FPT>
+udp://@225.1.1.156:30120
+#EXTINF:-1 tvg-name="TH SOC TRANG" group-title="Địa phương (SD)",STV1 _ TH Sóc Trăng <Mạng FPT>
+udp://@225.1.1.159:30120
+#EXTINF:-1 tvg-name="TH CAN THO" group-title="Địa phương (SD)",THTPCT _ TH Thành phố Cần Thơ <Mạng FPT>
+udp://@225.1.1.132:30120
+
+#EXTINF:-1 tvg-name="BBC EARTH" group-title="Quốc Tế (HD)",BBC earth (HD 4Mbps) <Mạng FPT>
+udp://@225.1.2.25:30120
+#EXTINF:-1 tvg-name="CINEMA WORLD" group-title="Quốc Tế (HD)",Cinema World (HD 4Mbps) <Mạng FPT>
+udp://@225.1.1.143:30120
+#EXTINF:-1 tvg-name="Discovery Channel-ClipTV" group-title="Quốc Tế (HD)",Discovery Channel (HD 4Mbps) <Mạng FPT>
+udp://@225.1.1.238:30120
+#EXTINF:-1 tvg-name="DW-ClipTV" group-title="Quốc Tế (HD)",DW (HD 4Mbps) <Mạng FPT>
+udp://@225.1.1.46:30120
+#EXTINF:-1 tvg-name="Fox Life HD-ClipTV" group-title="Quốc Tế (HD)",FOX life (HD 4Mbps) <Mạng FPT>
+udp://@225.1.2.236:30120
+#EXTINF:-1 tvg-name="NHK World-Japan(HD)" group-title="Quốc Tế (HD)",NHK WORLD JAPAN (HD 4Mbps) <Mạng FPT>
+udp://@225.1.1.47:30120
+#EXTINF:-1 tvg-name="WARNER TV" group-title="Quốc Tế (HD)",WBTV (HD 4Mbps) <Mạng FPT>
+udp://@225.1.1.140:30120
+
+#EXTINF:-1 tvg-name="Animal Planet-ClipTV" group-title="Quốc Tế (HD)",Animal Planet (HD 8Mbps) <Mạng FPT>
+udp://@225.1.1.231:30120
+#EXTINF:-1 tvg-name="Asian Food Channel" group-title="Quốc Tế (HD)",Asian Food Channel (HD 8Mbps) <Mạng FPT>
+udp://@225.1.1.198:30120
+#EXTINF:-1 tvg-name="AXN-ClipTV" group-title="Quốc Tế (HD)",AXN (HD 8Mbps) <Mạng FPT>
+udp://@225.1.2.225:30120
+#EXTINF:-1 tvg-name="Baby TV HD-ClipTV" group-title="Quốc Tế (HD)",Baby TV (HD 8Mbps) <Mạng FPT>
+udp://@225.1.2.146:30120
+#EXTINF:-1 tvg-name="BBC EARTH" group-title="Quốc Tế (HD)",BBC earth (HD 8Mbps) <Mạng FPT>
+udp://@225.1.2.24:30120
+#EXTINF:-1 tvg-name="Blue Ant Entertainment" group-title="Quốc Tế (HD)",BLUE ANT ENTERTAINMENT (HD 8Mbps) <Mạng FPT>
+udp://@225.1.1.203:30120
+#EXTINF:-1 tvg-name="Blue Ant Extreme" group-title="Quốc Tế (HD)",BLUE ANT EXTREME (HD 8Mbps) <Mạng FPT>
+udp://@225.1.1.204:30120
+#EXTINF:-1 tvg-name="Cartoon Network" group-title="Quốc Tế (HD)",CARTOON NETWORK (HD 6Mbps) <Mạng FPT>
+udp://@225.1.2.231:30120
+#EXTINF:-1 tvg-name="Channel V HD-ClipTV" group-title="Quốc Tế (HD)",[V] HD (HD 6Mbps) <Mạng FPT>
+udp://@225.1.1.188:30120
+#EXTINF:-1 tvg-name="CINEMA WORLD" group-title="Quốc Tế (HD)",Cinema World (HD 8Mbps) <Mạng FPT>
+udp://@225.1.1.142:30120
+#EXTINF:-1 tvg-name="Da Vinci" group-title="Quốc Tế (HD)",Da Vinci (HD 8Mbps) <Mạng FPT>
+udp://@225.1.1.197:30120
+#EXTINF:-1 tvg-name="Discovery Asia-ClipTV" group-title="Quốc Tế (HD)",Discovery Asia (HD 8Mbps) <Mạng FPT>
+udp://@225.1.2.223:30120
+#EXTINF:-1 tvg-name="Disney" group-title="Quốc Tế (HD)",Disney Channel (HD 8Mbps) <Mạng FPT>
+udp://@225.1.2.158:30120
+#EXTINF:-1 tvg-name="Fashion TV HD" group-title="Quốc Tế (HD)",Fashion TV (HD 8Mbps) <Mạng FPT>
+udp://@225.1.2.227:30120
+#EXTINF:-1 tvg-name="Fashion 4K" group-title="Quốc Tế (HD)",Fashion 4K <Mạng FPT>
+rtp://@225.1.1.20:30120
+#EXTINF:-1 tvg-name="Fox HD-ClipTV" group-title="Quốc Tế (HD)",FOX HD (HD 8Mbps) <Mạng FPT>
+udp://@225.1.1.51:30120
+#EXTINF:-1 tvg-name="Fox Life HD-ClipTV" group-title="Quốc Tế (HD)",FOX life (HD 8Mbps) <Mạng FPT>
+udp://@225.1.2.237:30120
+#EXTINF:-1 tvg-name="Fox Movies HD-ClipTV" group-title="Quốc Tế (HD)",FOX MOVIES (HD 8Mbps) <Mạng FPT>
+udp://@225.1.2.239:30120
+#EXTINF:-1 tvg-name="FOX SPORTS-ClipTV" group-title="Quốc Tế (HD)",FOX SPORTS (HD 8Mbps) <Mạng FPT>
+udp://@225.1.2.229:30120
+#EXTINF:-1 tvg-name="FOX SPORTS 2-ClipTV" group-title="Quốc Tế (HD)",FOX SPORTS 2 (HD 6Mbps) <Mạng FPT>
+udp://@225.1.1.141:30120
+#EXTINF:-1 tvg-name="FOX SPORTS 3-ClipTV" group-title="Quốc Tế (HD)",FOX SPORTS 3 (HD 8Mbps) <Mạng FPT>
+udp://@225.1.2.242:30120
+#EXTINF:-1 tvg-name="HBO" group-title="Quốc Tế (HD)",HBO (HD 8Mbps) <Mạng FPT>
+udp://@225.1.2.233:30120
+#EXTINF:-1 tvg-name="KIX" group-title="Quốc Tế (HD)",KIX (HD 8Mbps) <Mạng FPT>
+udp://@225.1.2.144:30120
+#EXTINF:-1 tvg-name="Max by HBO" group-title="Quốc Tế (HD)",MAX BY HBO (HD 8Mbps) <Mạng FPT>
+udp://@225.1.2.86:30120
+#EXTINF:-1 tvg-name="National Geographic HD-ClipTV" group-title="Quốc Tế (HD)",NATIONAL GEOGRAPHIC HD (HD 8Mbps) <Mạng FPT>
+udp://@225.1.2.235:30120
+#EXTINF:-1 tvg-name="Outdoor Channel (HD)" group-title="Quốc Tế (HD)",Outdoor Channel (HD 8Mbps) <Mạng FPT>
+udp://@225.1.2.215:30120
+#EXTINF:-1 tvg-name="RED BY HBO" group-title="Quốc Tế (HD)",RED BY HBO (HD 6Mbps) <Mạng FPT>
+udp://@225.1.1.93:30120
+#EXTINF:-1 tvg-name="Travel & Living (TLC)" group-title="Quốc Tế (HD)",TLC (HD 8Mbps) <Mạng FPT>
+udp://@225.1.1.236:30120
+#EXTINF:-1 tvg-name="WARNER TV" group-title="Quốc Tế (HD)",WBTV (HD 8Mbps) <Mạng FPT>
+udp://@225.1.1.139:30120
+
+#EXTINF:-1 tvg-name="Arirang" group-title="Quốc Tế (SD)",Arirang KOREA <Mạng FPT>
+udp://@225.1.1.201:30120
+#EXTINF:-1 tvg-name="ABC AUSTRALIA" group-title="Quốc Tế (SD)",ABC AUSTRALIA <Mạng FPT>
+udp://@225.1.2.21:30120
+#EXTINF:-1 tvg-name="BBC LIFESTYLE" group-title="Quốc Tế (SD)",BBC Lifestyle <Mạng FPT>
+udp://@225.1.2.52:30120
+#EXTINF:-1 tvg-name="BBC WORLD NEWS" group-title="Quốc Tế (SD)",BBC WORLD NEWS <Mạng FPT>
+udp://@225.1.2.74:30120
+#EXTINF:-1 tvg-name="Channel News Asia" group-title="Quốc Tế (SD)",cna <Mạng FPT>
+udp://@225.1.1.202:30120
+#EXTINF:-1 group-title="Quốc Tế (SD)",CNBC <Mạng FPT>
+udp://@225.1.1.227:30120
+#EXTINF:-1 tvg-name="CNN-ClipTV" group-title="Quốc Tế (SD)",CNN <Mạng FPT>
+udp://@225.1.1.242:30120
+#EXTINF:-1 tvg-name="Disney Junior" group-title="Quốc Tế (SD)",Disney Junior <Mạng FPT>
+udp://@225.1.1.233:30120
+#EXTINF:-1 tvg-name="Diva Universal" group-title="Quốc Tế (SD)",DIVA <Mạng FPT>
+udp://@225.1.1.199:30120
+#EXTINF:-1 tvg-name="France 24 English-ClipTV" group-title="Quốc Tế (SD)",FRANCE 24 (English) <Mạng FPT>
+udp://@225.1.2.211:30120
+#EXTINF:-1 tvg-name="KBS World" group-title="Quốc Tế (SD)",KBS WORLD <Mạng FPT>
+udp://@225.1.1.196:30120
+#EXTINF:-1 tvg-name="TV5 Asie" group-title="Quốc Tế (SD)",TV5 MONDE ASIE <Mạng FPT>
+udp://@225.1.1.200:30120
+
+#EXTINF:-1 tvg-name="VTV1-VTV" group-title="Mạng FPT",VTV1 HD (Mạng FPT)
+udp://@225.1.4.1:30120
+#EXTINF:-1 tvg-name="VTV2-VTV" group-title="Mạng FPT",VTV2 HD (Mạng FPT)
+udp://@225.1.4.2:30120
+#EXTINF:-1 tvg-name="VTV3-VTV" group-title="Mạng FPT",VTV3 HD (Mạng FPT)
+udp://@225.1.4.3:30120
+#EXTINF:-1 tvg-name="VTV4-VTV" group-title="Mạng FPT",VTV4 HD (Mạng FPT)
+udp://@225.1.4.4:30120
+#EXTINF:-1 tvg-name="VTV5-VTV" group-title="Mạng FPT",VTV5 HD (Mạng FPT)
+udp://@225.1.4.5:30120
+#EXTINF:-1 tvg-name="VTV6-VTV" group-title="Mạng FPT",VTV6 HD (Mạng FPT)
+udp://@225.1.4.6:30120
+#EXTINF:-1 tvg-name="VTV8-VTV" group-title="Mạng FPT",VTV8 HD (Mạng FPT)
+udp://@225.1.4.7:30120
+#EXTINF:-1 tvg-name="VTV9-VTV" group-title="Mạng FPT",VTV9 HD (Mạng FPT)
+udp://@225.1.4.8:30120
+#EXTINF:-1 tvg-name="VTC2-ClipTV" group-title="Mạng FPT",VTC2 (Mạng FPT)
+udp://@225.1.4.41:30120
+#EXTINF:-1 tvg-name="VTC3" group-title="Mạng FPT",VTC3 HD (Mạng FPT)
+udp://@225.1.4.42:30120
+#EXTINF:-1 tvg-name="YEAH1 FAMILY VTC4" group-title="Mạng FPT",VTC4 (Mạng FPT)
+udp://@225.1.4.43:30120
+#EXTINF:-1 tvg-name="VTC5-ClipTV" group-title="Mạng FPT",VTC5 (Mạng FPT)
+udp://@225.1.4.44:30120
+#EXTINF:-1 tvg-name="VTC6-ClipTV" group-title="Mạng FPT",VTC6 (Mạng FPT)
+udp://@225.1.4.45:30120
+#EXTINF:-1 tvg-name="VTC8 HD" group-title="Mạng FPT",VTC8 (Mạng FPT)
+udp://@225.1.4.47:30120
+#EXTINF:-1 tvg-name="VTC9 Let's Viet" group-title="Mạng FPT",VTC9 (Mạng FPT)
+udp://@225.1.4.48:30120
+#EXTINF:-1 tvg-name="VTC10-ClipTV" group-title="Mạng FPT",VTC10 (Mạng FPT)
+udp://@225.1.4.49:30120
+#EXTINF:-1 tvg-name="VTC11 THIEU NHI" group-title="Mạng FPT",VTC11 (Mạng FPT)
+udp://@225.1.4.50:30120
+#EXTINF:-1 tvg-name="VTC13" group-title="Mạng FPT",VTC13 HD (Mạng FPT)
+udp://@225.1.4.52:30120
+#EXTINF:-1 tvg-name="VTC14-ClipTV" group-title="Mạng FPT",VTC14 HD (Mạng FPT)
+udp://@225.1.4.53:30120
+#EXTINF:-1 tvg-name="VTC16-ClipTV" group-title="Mạng FPT",VTC16 (Mạng FPT)
+udp://@225.1.4.54:30120
+#EXTINF:-1 tvg-name="HTV1" group-title="Mạng FPT",HTV1 (Mạng FPT)
+udp://@225.1.4.55:30120
+#EXTINF:-1 tvg-name="HTV2-ClipTV" group-title="Mạng FPT",Vie Channel _ HTV2 (HD) (Mạng FPT)
+udp://@225.1.4.56:30120
+#EXTINF:-1 tvg-name="HTV3-ClipTV" group-title="Mạng FPT",dreamsTV _ HTV3 (Mạng FPT)
+udp://@225.1.4.57:30120
+#EXTINF:-1 tvg-name="HTV4" group-title="Mạng FPT",HTV Keys (Mạng FPT)
+udp://@225.1.4.58:30120
+#EXTINF:-1 tvg-name="HTV COOP" group-title="Mạng FPT",HTV co.op (Mạng FPT)
+udp://@225.1.4.68:30120
+#EXTINF:-1 tvg-name="HTVC DU LICH CUOC SONG" group-title="Mạng FPT",DU LỊCH VÀ CUỘC SỐNG (Mạng FPT)
+udp://@225.1.4.67:30120
+#EXTINF:-1 tvg-name="FBNC" group-title="Mạng FPT",FBNC (HD) (Mạng FPT)
+udp://@225.1.4.70:30120
+#EXTINF:-1 tvg-name="HTVC GIA DINH" group-title="Mạng FPT",GIA ĐÌNH (Mạng FPT)
+udp://@225.1.4.64:30120
+#EXTINF:-1 tvg-name="HTVC Phim" group-title="Mạng FPT",HTVC PHIM (HD) (Mạng FPT)
+udp://@225.1.4.63:30120
+#EXTINF:-1 tvg-name="HTVC PHU NU HD" group-title="Mạng FPT",PHỤ NỮ (Mạng FPT)
+udp://@225.1.4.66:30120
+#EXTINF:-1 tvg-name="HTVC Thuần Việt" group-title="Mạng FPT",Thuần Việt (Mạng FPT)
+udp://@225.1.4.61:30120
+#EXTINF:-1 tvg-name="HTVC THUAN VIET HD" group-title="Mạng FPT",Thuần Việt HD (Mạng FPT)
+udp://@225.1.4.62:30120
+#EXTINF:-1 group-title="Mạng FPT",PHIM HAY (Mạng FPT)
+udp://@225.1.4.77:30120
+#EXTINF:-1 group-title="Mạng FPT",NCM _ BTV10 (Mạng FPT)
+udp://@225.1.4.83:30120
+#EXTINF:-1 group-title="Mạng FPT",SAM _ BTV11 (Mạng FPT)
+udp://@225.1.4.84:30120
+#EXTINF:-1 group-title="Mạng FPT",BTV6 2!IDOL _ Vietteen (Mạng FPT)
+udp://@225.1.4.78:30120
+#EXTINF:-1 tvg-name="TH QUANG NINH 3" group-title="Mạng FPT",QTV3 _ TH Quảng Ninh (Mạng FPT)
+udp://@225.1.4.86:30120
+#EXTINF:-1 group-title="Mạng FPT",BPTV2 _ HOME tv (Mạng FPT)
+udp://@225.1.4.80:30120
+#EXTINF:-1 tvg-name="TH BINH DUONG 2" group-title="Mạng FPT",BTV2 HD _ TH Bình Dương (Mạng FPT)
+udp://@225.1.4.81:30120
+#EXTINF:-1 tvg-name="IMOVIE HD" group-title="Mạng FPT",iMOVIE TV HD PHIM CHỌN LỌC _ BTV4 (HD) (Mạng FPT)
+udp://@225.1.4.82:30120
+#EXTINF:-1 tvg-name="VinhLongTV2" group-title="Mạng FPT",THVL2 HD _ TH Vĩnh Long (Mạng FPT)
+udp://@225.1.4.87:30120
+#EXTINF:-1 tvg-name="ABC AUSTRALIA" group-title="Mạng FPT",ABC AUSTRALIA (Mạng FPT)
+udp://@225.1.4.19:30120
+#EXTINF:-1 tvg-name="Asian Food Channel" group-title="Mạng FPT",Asian Food Channel (Mạng FPT)
+udp://@225.1.4.36:30120
+#EXTINF:-1 tvg-name="Animal Planet" group-title="Mạng FPT",Animal Planet (HD) (Mạng FPT)
+udp://@225.1.4.27:30120
+#EXTINF:-1 tvg-name="Arirang" group-title="Mạng FPT",arirang KOREA (Mạng FPT)
+udp://@225.1.4.74:30120
+#EXTINF:-1 tvg-name="AXN-ClipTV" group-title="Mạng FPT",AXN (Mạng FPT)
+udp://@225.1.4.9:30120
+#EXTINF:-1 group-title="Mạng FPT",Baby First (HD) (Mạng FPT)
+udp://@225.1.4.28:30120
+#EXTINF:-1 tvg-name="Baby TV HD-ClipTV" group-title="Mạng FPT",Baby TV (HD) (Mạng FPT)
+udp://@225.1.4.35:30120
+#EXTINF:-1 tvg-name="BBC EARTH" group-title="Mạng FPT",BBC earth (HD) (Mạng FPT)
+udp://@225.1.4.21:30120
+#EXTINF:-1 tvg-name="BBC LIFESTYLE" group-title="Mạng FPT",BBC lifestyle (Mạng FPT)
+udp://@225.1.4.23:30120
+#EXTINF:-1 tvg-name="BBC WORLD NEWS" group-title="Mạng FPT",BBC WORLD NEWS (Mạng FPT)
+udp://@225.1.4.22:30120
+#EXTINF:-1 tvg-name="BLOOMBERG" group-title="Mạng FPT",BLOOMBERG (Mạng FPT)
+udp://@225.1.4.18:30120
+#EXTINF:-1 tvg-name="Boomerang-ClipTV" group-title="Mạng FPT",BOOMERANG (Mạng FPT)
+udp://@225.1.4.16:30120
+#EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="Mạng FPT",CARTOON NETWORK (Mạng FPT)
+udp://@225.1.4.13:30120
+#EXTINF:-1 tvg-name="Channel News Asia" group-title="Mạng FPT",cna (Mạng FPT)
+udp://@225.1.4.76:30120
+#EXTINF:-1 tvg-name="CINEMA WORLD" group-title="Mạng FPT",Cinema World (HD) (Mạng FPT)
+udp://@225.1.4.15:30120
+#EXTINF:-1 tvg-name="CNN-ClipTV" group-title="Mạng FPT",CNN (Mạng FPT)
+udp://@225.1.4.17:30120
+#EXTINF:-1 tvg-name="Channel V HD-ClipTV" group-title="Mạng FPT",[V] HD (Mạng FPT)
+udp://@225.1.4.30:30120
+#EXTINF:-1 tvg-name="Da Vinci" group-title="Mạng FPT",DIVA (Mạng FPT)
+udp://@225.1.4.38:30120
+#EXTINF:-1 tvg-name="Discovery Asia-ClipTV" group-title="Mạng FPT",Discovery Asia (HD) (Mạng FPT)
+udp://@225.1.4.25:30120
+#EXTINF:-1 tvg-name="Discovery Channel-ClipTV" group-title="Mạng FPT",Discovery Channel (HD) (Mạng FPT)
+udp://@225.1.4.24:30120
+#EXTINF:-1 tvg-name="DW-ClipTV" group-title="Mạng FPT",DW (HD) (Mạng FPT)
+udp://@225.1.4.75:30120
+#EXTINF:-1 tvg-name="FASHION TV" group-title="Mạng FPT",FASHION TV (HD) (Mạng FPT)
+udp://@225.1.4.20:30120
+#EXTINF:-1 tvg-name="Fox HD-ClipTV" group-title="Mạng FPT",FOX HD (Mạng FPT)
+udp://@225.1.4.33:30120
+#EXTINF:-1 tvg-name="Fox Life HD-ClipTV" group-title="Mạng FPT",FOX life (HD) (Mạng FPT)
+udp://@225.1.4.32:30120
+#EXTINF:-1 tvg-name="FOX SPORTS-ClipTV" group-title="Mạng FPT",FOX SPORTS (HD) (Mạng FPT)
+udp://@225.1.4.10:30120
+#EXTINF:-1 tvg-name="FOX SPORTS 2-ClipTV" group-title="Mạng FPT",FOX SPORTS 2 (Mạng FPT)
+udp://@225.1.4.11:30120
+#EXTINF:-1 tvg-name="FOX SPORTS 3-ClipTV" group-title="Mạng FPT",FOX SPORTS 3 (HD) (Mạng FPT)
+udp://@225.1.4.12:30120
+#EXTINF:-1 tvg-name="France 24 English-ClipTV" group-title="Mạng FPT",FRANCE 24 (Mạng FPT)
+udp://@225.1.4.71:30120
+#EXTINF:-1 tvg-name="KBS World" group-title="Mạng FPT",KBS WORLD (Mạng FPT)
+udp://@225.1.4.69:30120
+#EXTINF:-1 tvg-name="KIX" group-title="Mạng FPT",KIX (HD) (Mạng FPT)
+udp://@225.1.4.40:30120
+#EXTINF:-1 tvg-name="National Geographic HD-ClipTV" group-title="Mạng FPT",NATIONAL GEOGRAPHIC HD (Mạng FPT)
+udp://@225.1.4.31:30120
+#EXTINF:-1 tvg-name="NHK World-Japan(HD)" group-title="Mạng FPT",NHK WORLD JAPAN (HD) (Mạng FPT)
+udp://@225.1.4.73:30120
+#EXTINF:-1 tvg-name="OutdoorChannel" group-title="Mạng FPT",Outdoor Channel (Mạng FPT)
+udp://@225.1.4.37:30120
+#EXTINF:-1 tvg-name="Travel & Living (TLC)" group-title="Mạng FPT",TLC (HD) (Mạng FPT)
+udp://@225.1.4.26:30120
+#EXTINF:-1 tvg-name="WARNER TV" group-title="Mạng FPT",WBTV (Mạng FPT)
+udp://@225.1.4.14:30120
+
+
+#EXTINF:-1 group-title="FPT Service",Dolife Hospital <Mạng FPT>
+udp://@225.1.1.127:30120
+#EXTINF:-1 group-title="FPT Service",The Mira Hotel <Mạng FPT>
+udp://@225.1.1.123:30120
+#EXTINF:-1 group-title="FPT Service",The Ocean Resort <Mạng FPT>
+udp://@225.1.1.121:30120
+#EXTINF:-1 group-title="FPT Service",FPT Giới Thiệu Chương Trình <Mạng FPT>
+udp://@225.1.1.2:30120
+#EXTINF:-1 group-title="FPT Service",FPT Giới Thiệu Dịch Vụ <Mạng FPT>
+udp://@225.1.1.137:30120
+#EXTINF:-1 group-title="FPT Service",FPT Mở Két <Mạng FPT>
+udp://@225.1.1.26:30120
+#EXTINF:-1 group-title="FPT Service",FPT Mở Két <Mạng FPT>
+udp://@225.1.1.97:30120
+#EXTINF:-1 group-title="FPT Service",FPT Thể Thao <Mạng FPT>
+udp://@225.1.2.252:30120
+#EXTINF:-1 group-title="FPT Service",FPT Feed <Mạng FPT>
+udp://@225.1.1.11:30120
+#EXTINF:-1 group-title="FPT Service",FPT Feed <Mạng FPT>
+udp://@225.1.2.100:30120
+#EXTINF:-1 group-title="FPT Service",FPT Feed <Mạng FPT>
+udp://@225.1.2.102:30120
+
+#EXTINF:-1 group-title="Mua Sắm",VTVCab11 _ VGS SHOP <Mạng FPT>
+udp://@225.1.2.167:30120
+#EXTINF:-1 group-title="Mua Sắm",VTVCab13 _ VTV Hyundai Homeshopping <Mạng FPT>
+udp://@225.1.1.122:30120
+#EXTINF:-1 tvg-name="HTV COOP" group-title="Mua Sắm",HTV Coop <Mạng FPT>
+udp://@225.1.1.210:30120
+#EXTINF:-1 group-title="Mua Sắm",HTVC VGS SHOP <Mạng FPT>
+udp://@225.1.1.172:30120
+#EXTINF:-1 group-title="Mua Sắm",SCJ Shopping _ SCTV5 <Mạng FPT>
+udp://@225.1.1.134:30120
+#EXTINF:-1 group-title="Mua Sắm",Sao Nam Shopping _ SCTV10 <Mạng FPT>
+udp://@225.1.2.205:30120
+#EXTINF:-1 group-title="Mua Sắm",BTV6 _ Quê Hương Homeshopping <Mạng FPT>
+udp://@225.1.1.90:30120
+
+#EXTINF:-1 tvg-name="K+ 1 (HD)" group-title="K+",K+1 HD (DRM) <Mạng FPT>
+udp://@225.1.1.5:30120
+#EXTINF:-1 tvg-name="K+ 1 (HD)" group-title="K+",K+1 HD (DRM) <Mạng FPT>
+udp://@225.1.1.78:30120
+#EXTINF:-1 tvg-name="K+ NS (HD)" group-title="K+",K+NS HD (DRM) <Mạng FPT>
+udp://@225.1.1.6:30120
+#EXTINF:-1 tvg-name="K+ NS (HD)" group-title="K+",K+NS HD (DRM) <Mạng FPT>
+udp://@225.1.1.80:30120
+#EXTINF:-1 tvg-name="K+ PM (HD)" group-title="K+",K+PM HD (DRM) <Mạng FPT>
+udp://@225.1.1.73:30120
+#EXTINF:-1 tvg-name="K+ PM (HD)" group-title="K+",K+PM HD (DRM) <Mạng FPT>
+udp://@225.1.1.81:30120
+#EXTINF:-1 tvg-name="K+ PC (HD)" group-title="K+",K+PC HD (DRM) <Mạng FPT>
+udp://@225.1.1.77:30120
+#EXTINF:-1 tvg-name="K+ PC (HD)" group-title="K+",K+PC HD (DRM) <Mạng FPT>
+udp://@225.1.1.82:30120
