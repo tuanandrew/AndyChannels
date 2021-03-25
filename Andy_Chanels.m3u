@@ -5,6 +5,9 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://livecdn.fptplay.net/sdc/anninhtv_2000.stream/chunklist.m3u8
 
+#EXTINF:-1 group-title="NEWS" tvg-id="FBNC" tvg-name="FBNC" tvg-logo="http://img.hplus.com.vn/226x127/poster/2018/06/05/906484-FBNC.png" group-title="HTVC",FBNC
+https://livecdn.fptplay.net/sdc/fbnchd_2000.stream/chunklist.m3u8
+
 #EXTINF:-1 group-title="NEWs" tvg-id="qpvn" tvg-name="QPVN" tvg-logo="https://cdn.printgo.vn/uploads/file-logo/1/512x512.1382173f46768260c597609c1586a720.ai.1.png",QPVN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 #https://livecdn.fptplay.net/sdc/quocphongvnhd_2000.stream/chunklist.m3u8
@@ -37,9 +40,6 @@ https://fr-1.galaxyott.com/viettv24/streamer/vgmtv/livebl/vgmtv/chunks.m3u8
 
 #EXTINF:-1 group-title="NEWs" tvg-id="VietTV24" tvg-name="VietTV24" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniM5r7jNjnWCAu4zKVFDt3XfWxQUcqcZVgy0FaN=s900-c-k-c0x00ffffff-no-rj",VietTV24
 https://fr-1.galaxyott.com/viettv24/streamer/vpoptv/liveChannel/vpoptv/chunks.m3u8
-
-#EXTINF:-1 group-title="NEWs" tvg-id="VietTV24" tvg-name="VietTV24" tvg-logo="https://www.vietlifetv.net/uploads/b/84715c074b49a6804f34a0a91db1f45eb293ecfb12ddf22d2a5422f45b3bace1/4x10_FT-VLT%20Banner_Hor-01_1595222679.jpg",VietBolero
-https://fr-1.galaxyott.com/viettv24/streamer/vbolero/vietlifetv/vltv_2/chunks.m3u8
 
 
 
@@ -115,7 +115,7 @@ https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="MOVIE" tvg-id="BlueAntEntertainment" tvg-name="BlueAntEntertainment" tvg-logo="https://i.ibb.co/Y8pQz8Q/Blue-ant-entertainment-BEARTV.png",Blue Ant Entertainment
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="MOVIE" tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png",CINEMAX| Asia
+#EXTINF:-1 group-title="MOVIE" tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png",CINEMAX
 #http://hthanhmedia:kocopyshare@ht-sporttv.duckdns.org:9981/stream/channelid/1873299662
 http://quocthai.duckdns.org:18886/rtp/232.84.2.139:10654
 
@@ -322,9 +322,6 @@ https://wfcint.mediacdn.ru/cdn/wfcrusweb/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="FASHION" tvg-id="RunwayTV" tvg-name="RunwayTV" tvg-logo="https://i.pinimg.com/736x/00/3d/c4/003dc4ead53226086c882be1a6c988fb.jpg",Runway TV
 https://runway-hls.secdn.net/runway-live/play/runway/playlist.m3u8
 
-#EXTINF:-1 group-title="FASHION" tvg-id="HDFashion" tvg-name="HDFashion" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic-MTVTGNetwork.png?raw=true",HD Fashion & Lifestyle
-https://nimble.dashstreams.net/onestudio/hdfashionlifestyle/playlist.m3u8
-
 #EXTINF:-1 group-title="FASHION" tvg-id="DarcizzleOffshore" tvg-name="DarcizzleOffshore" tvg-logo="https://pbs.twimg.com/profile_images/1295819336226136067/MwohKciL_400x400.png",Darcizzle Offshore
 http://30a-tv.com/darcizzle.m3u8
 
@@ -385,15 +382,13 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 group-title="HTV" tvg-id="htv3" tvg-name="HTV3" tvg-logo="https://i.ibb.co/TP063Mw/HTV3-BEARTV.png",HTV3
 https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
-https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
+#https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="HTV" tvg-id="htvkey" tvg-name="HTVKey" tvg-logo="https://i.ibb.co/nL6Lg9X/HTVKEY-BEARTV.png",HTV Key
 https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="HTV" tvg-id="HTVTheThao" tvg-name="HTVTheThao" tvg-logo="http://htvc.vn/uploads/channel/2015/02/13/1028005-logo-htvthethao.png",HTV THỂ THAO
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 group-title="HTV" tvg-id="HTVTheThao" tvg-name="HTVTheThao" tvg-logo="http://htvc.vn/uploads/channel/2015/02/13/1028005-logo-htvthethao.png",HTV THỂ THAO
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
 https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="HTV" tvg-id="HTV7" tvg-name="HTV7" tvg-logo="http://htvc.vn/uploads/channel/2015/02/12/8986847-logo-htv7a.png",HTV7
@@ -413,22 +408,20 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/chunks.m3u8
 https://livecdn.fptplay.net/hda/htvcgiadinh_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="HTVC" tvg-id="HTVCPhim" tvg-name="HTVCPhim" tvg-logo="https://i.ibb.co/WyXTCbC/HTVCPHIM-BEARTV.png",HTVC Phim
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
 https://livecdn.fptplay.net/hda/htvcmoviehd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="HTVC" tvg-id="HTVCPhuNu" tvg-name="HTVCPhuNu" tvg-logo="https://i.ibb.co/vJq2yHS/HTVCPHUNU-BEARTV.png",HTVC Phụ Nữ
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
 https://livecdn.fptplay.net/hda/htvcphunu_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="HTVC" tvg-id="HTVCThuanViet" tvg-name="HTVCThuanViet" tvg-logo="https://i.ibb.co/Rp5f6BC/HTVCTHUANVIET-BEARTV.png",HTVC Thuần Việt
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
 https://livecdn.fptplay.net/hda/htvcthuanviethd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="HTVC" tvg-id="HTVCPlus" tvg-name="HTVCPlus" tvg-logo="https://i.ibb.co/K2tfJM6/HTVCPLUS-BEARTV.png",HTVC Plus
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 
-#EXTINF:-1 group-title="HTVC" tvg-id="FBNC" tvg-name="FBNC" tvg-logo="http://img.hplus.com.vn/226x127/poster/2018/06/05/906484-FBNC.png" group-title="HTVC",FBNC
-https://livecdn.fptplay.net/sdc/fbnchd_2000.stream/chunklist.m3u8
 
 
 #EXTINF:-1 group-title="KOREA" tvg-id="KBSWorld" tvg-name="KBSWorld" tvg-logo="https://i.ibb.co/nzkqrSC/KBS-World-BEARTV.png",KBS World
