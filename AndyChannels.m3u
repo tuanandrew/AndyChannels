@@ -367,6 +367,14 @@ https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="WORLD" tvg-id="CNA" tvg-name="CNA" tvg-logo="https://i.imgur.com/eyzGJhD.png",Channel News Asia
 https://livecdn.fptplay.net/world/newsasia_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 group-title="WORLD" tvg-id="BBCEarth" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",BBC Earth
+#EXTVLCOPT:http-user-agent="ipad"
+http://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="WORLD" tvg-id="BBCLifestyle" tvg-logo="https://png.pngitem.com/pimgs/s/72-729733_bbc-lifestyle-logo-hd-png-download.png",BBC Lifestyle
+#EXTVLCOPT:http-user-agent="ipad"
+http://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist_b2500000.m3u8
+
 #EXTINF:-1 group-title="WORLD" tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://i.ibb.co/PYRgmQB/Discovery-BEARTV.png",Discovery Channel
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 
@@ -402,6 +410,9 @@ https://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="WORLD" tvg-id="NASA" tvg-name="NASA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/160px-NASA_logo.svg.png",NASA TV
 http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#EXTINF:0 group-title="WORLD" tvg-id="NewsMax" tvg-name="NewsMax" tvg-logo="https://thetruthaboutplas.com/wp-content/uploads/2018/07/newsmax-tv-logo.jpg",NewsMax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 
 #EXTINF:-1 group-title="WORLD" tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png",HGTV
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/564
