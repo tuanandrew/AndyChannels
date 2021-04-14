@@ -140,6 +140,7 @@ https://livecdn.fptplay.net/hda/htvcgiadinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="HTVC" tvg-id="HTVCPhim" tvg-name="HTVCPhim" tvg-logo="https://i.ibb.co/WyXTCbC/HTVCPHIM-BEARTV.png",HTVC Phim
 #http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
 https://livecdn.fptplay.net/hda/htvcmoviehd_hls.smil/chunklist_b2500000.m3u8
+#https://live-vthcm.vieon.vn/htv_drm/live/htvc_phim/TV_HD/htvc_phim_1080p/chunks.m3u8
 
 #EXTINF:-1 group-title="HTVC" tvg-id="HTVCPhuNu" tvg-name="HTVCPhuNu" tvg-logo="https://i.ibb.co/vJq2yHS/HTVCPHUNU-BEARTV.png",HTVC Phụ Nữ
 #http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
@@ -208,10 +209,9 @@ https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="boxmovie1" tvg-name="BoxMovie1" tvg-logo="https://rsstv.gviet.vn/on/channel/BM1_M.png",Box Movie 1
-http://hthanhmedia:kocopyrestream@ht-sporttv.duckdns.org:9981/stream/channelid/1534929035
+
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="MaxByHBO" tvg-name="MaxByHBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png",CINEMAX
-#http://hthanhmedia:kocopyshare@ht-sporttv.duckdns.org:9981/stream/channelid/1873299662
 http://quocthai.duckdns.org:18886/rtp/232.84.2.139:10654
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="CinemaWorld" tvg-name="Cinemaworld" tvg-logo="https://i.pinimg.com/736x/ea/58/4f/ea584fb363ec9be5cb2ce91b6dbc1b99.jpg",Cinema World
@@ -221,7 +221,7 @@ https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="Fxhd" tvg-name="FxHD" tvg-logo="https://www.pngkey.com/png/detail/302-3027419_main-fx-channel-logo.png",Fx HD
-http://hthanhmedia:kocopyrestream@ht-sporttv.duckdns.org:9981/stream/channelid/1762481643?ticket=3D0385439478B5BE3B540C25BB02C78ECA11C5CF&profile=pass
+
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="fox" tvg-name="Fox" tvg-logo="https://i.ibb.co/Q6sGxxh/FOX-BEARTV.png",FOX
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
@@ -242,7 +242,6 @@ https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="hbo" tvg-name="HBO" tvg-logo="https://tvline.com/wp-content/uploads/2020/08/hbo-logo.jpg",HBO
 http://quocthai.duckdns.org:18886/rtp/232.84.2.138:10648
-#https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="HBOFamily" tvg-name="HBOFamily" tvg-logo="https://www.seekpng.com/png/full/0-2471_hbo-family-logo-png.png",HBO Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
@@ -250,7 +249,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="HBOSignature" tvg-name="HBOSignature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",HBO Signature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-#https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
 http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="KIX" tvg-name="KIX" tvg-logo="https://i.ibb.co/Q8NX9GC/kix-BEARTV.png",KIX HD
@@ -261,7 +259,6 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="RedbyHBO" tvg-name="RedByHBO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Screen_RED_%28logo%29.jpg",Red by HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-#https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 http://quocthai.duckdns.org:18886/rtp/232.84.2.172:10840
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="warnertv" tvg-name="WarnerTV" tvg-logo="https://www.logolynx.com/images/logolynx/44/44b0274d39a5ae63b91a7143aef020e4.png",Warner TV
@@ -353,6 +350,12 @@ http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-id="1HDMusicTelevision.ru" tvg-name="1HD Music Television" tvg-country="RU" tvg-language="Russian" tvg-logo="https://online-red.com/images/tv/1hd.png" tvg-url="https://iptvx.one/epg/epg.xml.gz",1HD Music Television
 https://sc.id-tv.kz/1hd_34_35.m3u8
 
+#EXTINF:-1 group-title="MUSIC" tvg-id="KissTV" tvg-name="KissTV" tvg-logo="https://www.adstream.com.ro/uploads/partners/TV/11_kiss-tv.png",Kiss TV
+https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/chunklist_w498160436_b1600000.m3u8?publisher=83
+
+#EXTINF:-1 group-title="MUSIC" tvg-id="VivaTV" tvg-name="VivaTV" tvg-logo="https://i.ibb.co/bvTmmhm/Viva-TV-BEARTV.png",VIVA TV 
+https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
+
 
 
 #EXTINF:-1 group-title="WORLD" tvg-id="AnimalPlanet" tvg-name="AnimalPlanet" tvg-logo="https://i.ibb.co/grTy13N/Animal-Planet-BEARTV.png",Animal Planet
@@ -387,10 +390,10 @@ https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="WORLD" tvg-id="IDG" tvg-name="IDG" tvg-logo="https://idge.staticworld.net/idgtv/idgtv-logo-300x300.png",IDG
 https://a.jsrdn.com/broadcast/529a360c04/+0000/high/c.m3u8
 
-#EXTINF:119 group-title="WORLD" tvg-id="IDG" tvg-name="IDG" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/cp-uploads/MonarchLogo.png",Monarch
+#EXTINF:-1 group-title="WORLD" tvg-id="IDG" tvg-name="IDG" tvg-logo="https://d35qfqdd1hb7yd.cloudfront.net/cp-uploads/MonarchLogo.png",Monarch
 https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/high/c.m3u8
 
-#EXTINF:0 group-title="WORLD" tvg-id="IDG" tvg-name="IDG" tvg-logo="https://static.wikia.nocookie.net/legendary-series-monsterverse/images/e/e5/MUTA.png",Monarch
+#EXTINF:-1 group-title="WORLD" tvg-id="IDG" tvg-name="IDG" tvg-logo="https://static.wikia.nocookie.net/legendary-series-monsterverse/images/e/e5/MUTA.png",Monarch
 https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/c.m3u8
 
 #EXTINF:-1 group-title="WORLD" tvg-id="NATGeographic" tvg-name="NatGeographic" tvg-logo="https://i.ibb.co/RjN9fs6/National-Geographic-BEARTV.png",National Geographic
@@ -411,7 +414,7 @@ https://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="WORLD" tvg-id="NASA" tvg-name="NASA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/160px-NASA_logo.svg.png",NASA TV
 http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
-#EXTINF:0 group-title="WORLD" tvg-id="NewsMax" tvg-name="NewsMax" tvg-logo="https://thetruthaboutplas.com/wp-content/uploads/2018/07/newsmax-tv-logo.jpg",NewsMax
+#EXTINF:-1 group-title="WORLD" tvg-id="NewsMax" tvg-name="NewsMax" tvg-logo="https://thetruthaboutplas.com/wp-content/uploads/2018/07/newsmax-tv-logo.jpg",NewsMax
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 
 #EXTINF:-1 group-title="WORLD" tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png",HGTV
@@ -420,14 +423,14 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1 group-title="WORLD" tvg-id="LoveNature" tvg-name="LoveNature" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
+#EXTINF:-1 group-title="WORLD" tvg-id="BeautyIQ" tvg-name="BeautyIQ" tvg-country="US" tvg-logo="https://www.biqmedispa.com/assets/img/logo2x.png",BeautyIQ
+https://lsqvc4us-lh.akamaihd.net/i/lsqvc4us_01@802711/index_2500_av-p.m3u8?sd=10&rebase=on
+
 
 
 #EXTINF:-1 group-title="FASHION" tvg-id="A3BIKINI" tvg-name="A3Bikini" tvg-logo="https://pbs.twimg.com/profile_images/874855326067118080/BO33QPn__400x400.jpg",A3BIKINI
-#https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
-
-#EXTINF:-1 group-title="FASHION" tvg-id="BeautyIQ" tvg-name="BeautyIQ" tvg-country="US" tvg-logo="https://www.biqmedispa.com/assets/img/logo2x.png",BeautyIQ
-https://lsqvc4us-lh.akamaihd.net/i/lsqvc4us_01@802711/index_2500_av-p.m3u8?sd=10&rebase=on
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+#https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
 
 #EXTINF:-1 group-title="FASHION" tvg-id="HDFashion" tvg-name="HDFashion" tvg-country="US" tvg-logo="https://www.parsatv.com/index_files/channels/hdfashion.jpg",Fashion & Lifestyle
 http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
@@ -455,6 +458,20 @@ https://wfcint.mediacdn.ru/cdn/wfcrusweb/playlist_hdhigh.m3u8
 
 #EXTINF:-1 group-title="FASHION" tvg-id="DarcizzleOffshore" tvg-name="DarcizzleOffshore" tvg-logo="https://pbs.twimg.com/profile_images/1295819336226136067/MwohKciL_400x400.png",Darcizzle Offshore
 http://30a-tv.com/darcizzle.m3u8
+
+#EXTINF:-1 group-title="FASHION" tvg-id="" tvg-name="" tvg-logo="https://image.shutterstock.com/image-vector/handwritten-brush-lettering-composition-summer-260nw-1348534646.jpg",Summer Mix 2021 #1
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1618396151/ei/l292YJX2CJjujuMPyZGzkAg/ip/125.235.238.106/id/C6oR9cGZvXw.1/source/yt_live_broadcast/requiressl/yes/tx/23975652/txs/23975649%2C23975650%2C23975651%2C23975652%2C23975653%2C23975654/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgA5z8JHkH9UfxdMmkbTGrgwNA5ywttNiS7erP1lH24L0CIQCThdRUGth5dLB86t50ylD7m4vtIFSEuWkmWDYUDzYqEg%3D%3D/file/index.m3u8
+https://youtu.be/C6oR9cGZvXw
+
+#EXTINF:-1 group-title="FASHION" tvg-id="" tvg-name="" tvg-logo="https://image.shutterstock.com/image-vector/handwritten-brush-lettering-composition-summer-260nw-1348534646.jpg",Summer Mix 2021 #22
+https://youtu.be/4YkmUsvV4f8
+
+#EXTINF:-1 group-title="FASHION" tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2014/12/FT_logo.gif",Fashion Television
+https://youtu.be/231LL4T1KqM
+
+#EXTINF:-1 group-title="FASHION" tvg-id="" tvg-name="" tvg-logo="https://www.logomyway.com/logos_new/11207/bikini_2_329137593456.png",Bikini try on Haul
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1618399999/ei/n352YInCJvT94-EPtI2iQA/ip/125.235.238.106/id/ZoT9gE01ylQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAO-1WMvzqk8aAHonxmYP4aXV7fEq4hUYfzODvqDA5HSCAiBr0wP9LmMiSpqD7uiJqxVYr_QN1f_ysW9NtYa_BHaCAQ%3D%3D/file/index.m3u8
+https://youtu.be/ZoT9gE01ylQ
 
 
 
@@ -570,38 +587,30 @@ https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi_1080p.m3u
 #EXTINF:0 group-title="SCTV" tvg-id="sctv1" tvg-logo="https://i.ibb.co/fX3N2C9/SCTV1-BEARTV.png" type="stream",SCTV1 - Hài | TV24 SV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://chungxda.github.io/m3u8/TV24/SCTV/SCTV1HD.m3u8
-
-#EXTINF:0 group-title="SCTV" tvg-id="sctv1" tvg-logo="https://i.ibb.co/fX3N2C9/SCTV1-BEARTV.png" type="stream",SCTV1 - Hài | TV24 SV1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://chungxda.github.io/m3u8/TV24/SCTV/SCTV1HD.m3u8
+https://vtsstr3.tv24.vn/elive/SCTV_HD_Hai_4/chunklist.m3u8?uid=s2c526m574z5s4l5h4&cre=BearTV&token=72B2806DE8AC27F7BED6E9868F920270
 
 #EXTINF:0 group-title="SCTV" tvg-id="sctv2" tvg-logo="https://i.ibb.co/2WZRdz6/SCTV2-BEARTV.png" type="stream",SCTV2 - AMC TV |TV24 SCTV SV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://chungxda.github.io/m3u8/TV24/SCTV/SCTV2.m3u8
-
-#EXTINF:0 group-title="SCTV" tvg-id="sctv2" tvg-logo="https://i.ibb.co/2WZRdz6/SCTV2-BEARTV.png" type="stream",SCTV2 - AMC TV |TV24 SCTV SV6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://chungxda.github.io/m3u8/SCTV/SCTV2.m3u8
-
-#EXTINF:0 group-title="SCTV" tvg-id="sctv2" tvg-logo="https://i.ibb.co/2WZRdz6/SCTV2-BEARTV.png" type="stream",SCTV2 - AMC TV | FPT Play
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://livecdn.fptplay.net/sda/sctv2_2000.stream/chunklist.m3u8
 
 #EXTINF:0 group-title="SCTV" tvg-id="sctv3" tvg-logo="https://i.ibb.co/HqxQX8C/SCTV3-BEARTV.png" type="stream",SCTV3 - SEE TV |TV24 SV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://chungxda.github.io/m3u8/TV24/SCTV/SCTV3HD.m3u8
-
-#EXTINF:0 group-title="SCTV" tvg-id="sctv3" tvg-logo="https://i.ibb.co/HqxQX8C/SCTV3-BEARTV.png" type="stream",SCTV3 - SEE TV |TV24 SV6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://chungxda.github.io/m3u8/SCTV/SCTV3HD.m3u8
 
 #EXTINF:0 group-title="SCTV" tvg-id="sctv4" tvg-logo="https://i.ibb.co/3Sm2bkS/SCTV4-BEARTV.png" type="stream",SCTV4 - Giải Trí Tổng Hợp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://chungxda.github.io/m3u8/TV24/SCTV/SCTV4.m3u8
+https://vtsstr3.tv24.vn/elive1/SCTV_HD_GiaiTri_4/chunklist.m3u8?uid=s2c526m574z5s4l5h4&cre=BearTV&token=72B2806DE8AC27F7BED6E9868F920270
+
+#EXTINF:0 group-title="SCTV" tvg-id="sctv6" tvg-logo="https://i.ibb.co/tBfNQVR/SCTV6-BEARTV.png",SCTV6 HD - SNTV
+https://vtsstr3.tv24.vn/elive1/SCTV6HD_4/chunklist.m3u8?uid=s2c526m574z5s4l5h4&cre=BearTV&token=72B2806DE8AC27F7BED6E9868F920270
 
 #EXTINF:0 group-title="SCTV" tvg-id="sctv7" tvg-logo="https://i.ibb.co/rGyYtmX/SCTV7-BEARTV.png" type="stream",SCTV7 - Sân Khấu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://chungxda.github.io/m3u8/TV24/SCTV/SCTV7.m3u8
+https://vtsstr3.tv24.vn/elive/SCTV_HD_SanKhau_4/chunklist.m3u8?uid=s2c526m574z5s4l5h4&cre=BearTV&token=72B2806DE8AC27F7BED6E9868F920270
 
 #EXTINF:0 group-title="SCTV" tvg-id="sctv8" tvg-logo="https://i.ibb.co/3Mps2Cw/SCTV8-BEARTV.png" type="stream",SCTV8 - VITV Kinh Tế
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
@@ -613,6 +622,7 @@ https://chungxda.github.io/m3u8/TV24/SCTV/SCTV9HD.m3u8
 http://s2.nihontv.net:21585/sctv9/index.m3u8
 http://lvh9hi2tpd.vcdn.com.vn/hls/d17vduc/index.m3u8
 https://vtsstr3.tv24.vn/elive/_definst_/smil:SCTV_HD_PhimChauA.smil/playlist.m3u8?uid=v2a45474v23474z584x506&t_end=o4i5u5h514441394v22474s2p233y2&mytokenstarttime=1552149758&mytokenendtime=1552157258&mytokenhash=foTxVtf7w96VJqe2cwKoEHzzlqeqTHaFfnSfmGqs-ic=
+https://vtsstr3.tv24.vn/elive/SCTV_HD_PhimChauA_4/chunklist.m3u8?uid=s2c526m574z5s4l5h4&cre=BearTV&token=72B2806DE8AC27F7BED6E9868F920270
 
 #EXTINF:0 group-title="SCTV" tvg-id="sctv11" tvg-logo="https://i.ibb.co/3CqGtyy/SCTV11-BEARTV.png" type="stream",SCTV11 - STAR (Văn Hoá Nghệ Thuật) | TV24 SV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
