@@ -49,43 +49,6 @@ https://fr-1.galaxyott.com/viettv24/streamer/vpoptv/liveChannel/vpoptv/chunks.m3
 
 
 
-#EXTINF:-1 group-title="VTV" tvg-id="vtv1" tvg-name="VTV1" tvg-logo="https://i.ibb.co/gywZ98j/VTV1-HD-BEARTV.png",|Thời sự - Chính trị
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 group-title="VTV" tvg-id="vtv2" tvg-name="VTV2" tvg-logo="https://i.ibb.co/khkmQ4F/VTV2-HD-BEARTV.png",|Khoa học - Giáo dục
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://livecdn.fptplay.net/hda/vtv2_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 group-title="VTV" tvg-id="vtv3" tvg-name="VTV3" tvg-logo="https://i.ibb.co/87vc2Yr/VTV3-HD-BEARTV.png",|Giải trí tổng hợp
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://livecdn.fptplay.net/hda/vtv3hd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 group-title="VTV" tvg-id="vtv4" tvg-name="VTV4" tvg-logo="https://i.ibb.co/1nWtV9B/VTV4-HD-BEARTV.png",|Đối ngoại quốc gia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://livecdn.fptplay.net/hda/vtv4_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 group-title="VTV" tvg-id="vtv5" tvg-name="VTV5" tvg-logo="https://i.ibb.co/3FkgpPp/VTV5-HD-BEARTV.png",|Dân tộc thiểu số
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://livecdn.fptplay.net/hda/vtv5hd_2000.stream/chunklist.m3u8
-
-#EXTINF:-1 group-title="VTV" tvg-id="vtv6" tvg-name="VTV6" tvg-logo="https://i.ibb.co/61MhZPy/VTV6-HD-BEARTV.png",|Thanh thiếu niên
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 group-title="VTV" tvg-id="vtv7" tvg-name="VTV7" tvg-logo="https://i.ibb.co/27xvxDJ/VTV7-HD-BEARTV.png",|Giáo dục quốc gia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://chungxda.github.io/m3u8/VTVGo/vtv7vtvgo.m3u8
-
-#EXTINF:-1 group-title="VTV" tvg-id="vtv8" tvg-name="VTV8" tvg-logo="https://i.ibb.co/frqfTd1/VTV8-HD-BEARTV.png",|Miền Trung - Tây Nguyên
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://subs-livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 group-title="VTV" tvg-id="vtv9" tvg-name="VTV9" tvg-logo="https://i.ibb.co/6bFVqfq/VTV9-HD-BEARTV.png",|Nam Bộ
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV9-HD-1080p/playlist.m3u8
-
-
-
 #EXTINF:-1 group-title="CARTOON" tvg-id="Animax" tvg-name="Animax" tvg-logo="https://i.ibb.co/6BW91H3/Animax-BEARTV.png",Animax
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist.m3u8
 
@@ -166,6 +129,43 @@ https://livecdn.fptplay.net/hda/htvcthuanviethd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="HTVC" tvg-id="HTVCPlus" tvg-name="HTVCPlus" tvg-logo="https://i.ibb.co/K2tfJM6/HTVCPLUS-BEARTV.png",|Giải trí tổng hợp
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="VTV" tvg-id="vtv1" tvg-name="VTV1" tvg-logo="https://i.ibb.co/gywZ98j/VTV1-HD-BEARTV.png",|Thời sự - Chính trị
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="VTV" tvg-id="vtv2" tvg-name="VTV2" tvg-logo="https://i.ibb.co/khkmQ4F/VTV2-HD-BEARTV.png",|Khoa học - Giáo dục
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/hda/vtv2_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="VTV" tvg-id="vtv3" tvg-name="VTV3" tvg-logo="https://i.ibb.co/87vc2Yr/VTV3-HD-BEARTV.png",|Giải trí tổng hợp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/hda/vtv3hd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="VTV" tvg-id="vtv4" tvg-name="VTV4" tvg-logo="https://i.ibb.co/1nWtV9B/VTV4-HD-BEARTV.png",|Đối ngoại quốc gia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/hda/vtv4_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="VTV" tvg-id="vtv5" tvg-name="VTV5" tvg-logo="https://i.ibb.co/3FkgpPp/VTV5-HD-BEARTV.png",|Dân tộc thiểu số
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/hda/vtv5hd_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="VTV" tvg-id="vtv6" tvg-name="VTV6" tvg-logo="https://i.ibb.co/61MhZPy/VTV6-HD-BEARTV.png",|Thanh thiếu niên
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="VTV" tvg-id="vtv7" tvg-name="VTV7" tvg-logo="https://i.ibb.co/27xvxDJ/VTV7-HD-BEARTV.png",|Giáo dục quốc gia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://chungxda.github.io/m3u8/VTVGo/vtv7vtvgo.m3u8
+
+#EXTINF:-1 group-title="VTV" tvg-id="vtv8" tvg-name="VTV8" tvg-logo="https://i.ibb.co/frqfTd1/VTV8-HD-BEARTV.png",|Miền Trung - Tây Nguyên
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://subs-livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="VTV" tvg-id="vtv9" tvg-name="VTV9" tvg-logo="https://i.ibb.co/6bFVqfq/VTV9-HD-BEARTV.png",|Nam Bộ
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV9-HD-1080p/playlist.m3u8
 
 
 
