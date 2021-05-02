@@ -54,11 +54,11 @@ https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="CARTOON" tvg-id="disney" tvg-name="Disney Channel HD" tvg-logo="https://i.ibb.co/cC4cB1h/Disney-Channel-TV.png",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-http://quocthai.duckdns.org:18886/rtp/232.84.2.143:10678
+http://thanhfpt.duckdns.org:4567/rtp/232.84.2.143:10678
 
 #EXTINF:-1 group-title="CARTOON" tvg-id="disneyjunior" tvg-name="Disney Junior" tvg-logo="https://i.ibb.co/V3Kww3L/Disney-Junior-TV.png",Disney Junior
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-http://quocthai.duckdns.org:18886/rtp/232.84.3.200:11122
+http://thanhfpt.duckdns.org:4567/rtp/232.84.1.90:10398
 
 
 
