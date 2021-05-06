@@ -55,10 +55,12 @@ https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="CARTOON" tvg-id="disney" tvg-name="Disney Channel HD" tvg-logo="https://i.ibb.co/cC4cB1h/Disney-Channel-TV.png",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 http://thanhfpt.duckdns.org:4567/rtp/232.84.2.143:10678
+#http://iptvh.it/cocadisney
 
 #EXTINF:-1 group-title="CARTOON" tvg-id="disneyjunior" tvg-name="Disney Junior" tvg-logo="https://i.ibb.co/V3Kww3L/Disney-Junior-TV.png",Disney Junior
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 http://thanhfpt.duckdns.org:4567/rtp/232.84.1.90:10398
+#http://iptvh.it/cocajunior
 
 
 
@@ -247,7 +249,8 @@ https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 group-title="MOVIE" tvg-id="cinemaxhd" tvg-name="Cinemax HD" tvg-logo="https://i.ibb.co/pdPmkYm/cinemax-TV.png",CINEMAX
 #EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="Vietnamese"
-http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
+#http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
+http://iptvh.it/cocahbomax
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="cinemaworldhd" tvg-name="Cinema World HD" tvg-logo="https://i.ibb.co/0QH1vHg/Cinema-world-TV.png",Cinema World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
@@ -281,7 +284,8 @@ https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 group-title="MOVIE" tvg-id="hbohd-asia" tvg-name="HBO HD Asia" tvg-logo="https://i.ibb.co/6mB6gCT/hbo-TV.png",HBO Asia
 #EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="Vietnamese"
-http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
+#http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
+http://iptvh.it/cocahbo
 
 #EXTINF:0 group-title="MOVIE" tvg-id="hbofamilyhd-asia" tvg-name="HBO Family HD Asia" tvg-logo="https://i.ibb.co/LY2K7bJ/HBO-Family-TV.png",HBO Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
@@ -308,7 +312,8 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 #EXTINF:-1 group-title="MOVIE" tvg-id="redbyhbohd" tvg-name="Red By HBO HD" tvg-logo="https://i.ibb.co/0Y4XhdJ/Red-by-HBO-TV.png",Red by HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 #http://quocthai.duckdns.org:18886/rtp/232.84.2.172:10840
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+http://iptvh.it/cocahbored
+#https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="warnertvhd" tvg-name="Warner TV HD" tvg-logo="https://i.ibb.co/cgmrqjR/Warner-Channel-TV.png",Warner TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
@@ -330,6 +335,7 @@ http://51.68.141.106:8081/tv/tv-xxi/playlist.m3u8
 #EXTINF:0 group-title="MOVIE" tvg-id="vtvcab2hd" tvg-name="VTVCab2 HD - Phim Việt" tvg-logo="https://i.ibb.co/hg8nL6C/phimviet-TV.png",VTVCab2-Phim Việt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 http://s3.nihontv.net:21585/vtvcab2/index.m3u8
+http://thanhfpt.duckdns.org:4567/rtp/232.84.1.168:8982
 
 
 
@@ -559,6 +565,9 @@ http://30a-tv.com/darcizzle.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 
+#EXTINF:-1 group-title="FASHION" tvg-id="FashionTelevision.us" tvg-logo="https://i.ibb.co/vVwZ4Bp/Fashion-Television-TV.png",Fashion Television
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+
 #EXTINF:-1 group-title="FASHION" tvg-id="fashionhd" tvg-name="Fashion TV HD" tvg-logo="https://i.ibb.co/VB16qFp/fashiontv-blue-TV.png",Fashion TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
@@ -578,6 +587,9 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mi
 #http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="FASHION" tvg-id="IDFashion.ua" tvg-logo="https://i.ibb.co/tMyB5n2/IDFashion.png",ID Fashion
+https://idfashion.cdn-02.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+
 #EXTINF:0 group-title="FASHION", tvg-id="Jasmin.TV" tvg-name="Jasmin.TV" tvg-logo="https://i.ibb.co/7r9rkXp/Jasmin-TV.png",Jasmin.TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1190948669.m3u8
@@ -592,6 +604,9 @@ https://d3kefxscf5gq6l.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411
 #EXTINF:-1 group-title="FASHION" tvg-id="WFC" tvg-name="WFC" tvg-country="US" tvg-logo="https://i.ibb.co/tJ5L684/WFC-TV.png",World Fashion Rusia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://wfcint.mediacdn.ru/cdn/wfcrusweb/playlist_hdhigh.m3u8
+
+#EXTINF:-1 group-title="FASHION" tvg-id="GlobalFashion.us" tvg-logo="https://i.ibb.co/pLSDTkn/Global-Fashion-Channel-TV.png",Global Fashion Channel
+https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_540p.m3u8
 
 #EXTINF:-1 group-title="FASHION" tvg-id="Miami" tvg-name="Miami" tvg-country="US" tvg-logo="https://i.ibb.co/5WCDnMF/Miami-TV.png",MiamiTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
