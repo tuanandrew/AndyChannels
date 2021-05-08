@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://megavie.live/schedule/epg.xml" tvg-shift=0 m3uautoload=1
-#EXTM3U url-tvg="http://gg.gg/epgvnb9" tvg-shift=0 m3uautoload=2
+EXTM3U url-tvg="http://gg.gg/epgvnb9" tvg-shift=0 m3uautoload=2
 
 #EXTINF:-1 group-title="NEWs" tvg-id="antvhd" tvg-name="ANTV HD" tvg-logo="https://i.ibb.co/SvMhMCW/ANTV-TV.png",| An ninh TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
@@ -242,7 +242,8 @@ https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="axnhd" tvg-name="AXN HD" tvg-logo="https://i.ibb.co/bBTSt0g/AXN-TV.png",| AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b2500000.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
+#https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="blueantent" tvg-name="Blue Ant Entertainment HD" tvg-logo="https://i.ibb.co/SQDcF3f/Blue-ant-entertainment.png",| Blue Ant Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
@@ -251,12 +252,13 @@ https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="MOVIE" tvg-id="cinemaxhd" tvg-name="Cinemax HD" tvg-logo="https://i.ibb.co/pdPmkYm/cinemax-TV.png",| CINEMAX
 #EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="Vietnamese"
 #http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
-http://iptvh.it/cocahbomax
+#http://iptvh.it/cocahbomax
+https://rlink.vn/beartv-Cinemax
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="cinemaworldhd" tvg-name="Cinema World HD" tvg-logo="https://i.ibb.co/0QH1vHg/Cinema-world-TV.png",| Cinema World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
-#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/chunks.m3u8
+#https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/chunks.m3u8
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="CelestialMovies" tvg-name="CelestialMovies" tvg-logo="https://i.ibb.co/FsmgXmZ/celestial-movies-TV.png",| Celestial Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
@@ -285,8 +287,9 @@ https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="hbohd-asia" tvg-name="HBO HD Asia" tvg-logo="https://i.ibb.co/6mB6gCT/hbo-TV.png",| HBO Asia
 #EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="Vietnamese"
-http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
+#http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
 #http://iptvh.it/cocahbo
+https://rlink.vn/beartv-hbo
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="hbofamilyhd-asia" tvg-name="HBO Family HD Asia" tvg-logo="https://i.ibb.co/LY2K7bJ/HBO-Family-TV.png",| HBO Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
@@ -312,7 +315,7 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="redbyhbohd" tvg-name="Red By HBO HD" tvg-logo="https://i.ibb.co/0Y4XhdJ/Red-by-HBO-TV.png",| Red by HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-#http://quocthai.duckdns.org:18886/rtp/232.84.2.172:10840
+https://rlink.vn/beartv-RedbyHBO
 http://iptvh.it/cocahbored
 #https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 
@@ -335,8 +338,8 @@ http://51.68.141.106:8081/tv/tv-xxi/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="vtvcab2hd" tvg-name="VTVCab2 HD - Phim Việt" tvg-logo="https://i.ibb.co/hg8nL6C/phimviet-TV.png",| VTVCab2-Phim Việt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-http://s3.nihontv.net:21585/vtvcab2/index.m3u8
-#http://thanhfpt.duckdns.org:4567/rtp/232.84.1.168:8982
+#http://s3.nihontv.net:21585/vtvcab2/index.m3u8
+https://rlink.vn/beartv-vtvcab2
 
 
 
@@ -632,6 +635,10 @@ https://livecdn.fptplay.net/hda/btv1_2000.stream/chunklist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://livecdn.fptplay.net/hda/btv2_2000.stream/chunklist.m3u8
 
+#EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/IMovie_TV_logo_old.png",Bình Dương 4 - iMovie
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://livecdn.fptplay.net/hda/btv4hd_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-id="binhphuoc1" tvg-name="Bình Phước 1" tvg-logo="https://i.ibb.co/0f8bqzf/BPTV1logobyvovanloc.png",Bình Phước 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
@@ -812,6 +819,7 @@ https://chungxda.github.io/m3u8/TV24/SCTV/SCTV14.m3u8
 #EXTINF:0 group-title="SCTV" tvg-id="sctv16hd" tvg-name="SCTV16 HD" tvg-logo="https://i.ibb.co/xJbbrHy/SCTV16-BEARTV.png" type="stream",| Phim Nước Ngoài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 http://vtsstr6.tv24.vn:1935/live/SCTV_HD_phimnuocngoaidacsac_4/playlist.m3u8?uid=s2c526m574z5s4l5h4&token=sjh3n52mndhncnsk982hnmsn23n4nnjs01fg22h7jks?byhthanh
+https://rlink.vn/beartv-sctv16
 
 #EXTINF:0 group-title="SCTV" tvg-id="sctv17hd" tvg-name="SCTV17 HD" tvg-logo="https://i.ibb.co/nRbQjXc/SCTV17-BEARTV.png" type="stream",| Ssport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
@@ -829,7 +837,7 @@ http://vtsstr6.tv24.vn:1935/live/SCTV20_HD_4/chucklist.m3u8?uid=s2c526m574z5s4l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 #https://vtsstr1.tv24.vn/live/_definst_/smil:SCTVHDPhimTH.smil/chunklist_b2692000.m3u8
 http://vtsstr1.tv24.vn:1935/live/SCTVHDPhimTH_4/chunklist.b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50?byhthanh
-
+https://rlink.vn/beartv-sctvth
 
 #EXTINF:-1 group-title="Paris By Night" tvg-logo="https://i.ibb.co/dkczrfx/Thuy-Nga-TV.png",PBN-124 Anh Cho Em Mùa Xuân
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
