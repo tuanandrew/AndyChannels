@@ -285,13 +285,13 @@ https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="hbohd-asia" tvg-name="HBO HD Asia" tvg-logo="https://i.ibb.co/6mB6gCT/hbo-TV.png",| HBO Asia
 #EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="Vietnamese"
-#http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
-http://iptvh.it/cocahbo
+http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
+#http://iptvh.it/cocahbo
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="hbofamilyhd-asia" tvg-name="HBO Family HD Asia" tvg-logo="https://i.ibb.co/LY2K7bJ/HBO-Family-TV.png",| HBO Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-#https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="hbosignaturehd-asia" tvg-name="HBO Signature HD Asia" tvg-logo="https://i.ibb.co/ChNbwXG/HBO-Signature-TV.png",| HBO Signature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
@@ -318,8 +318,8 @@ http://iptvh.it/cocahbored
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="warnertvhd" tvg-name="Warner TV HD" tvg-logo="https://i.ibb.co/cgmrqjR/Warner-Channel-TV.png",| Warner TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://livecdn.fptplay.net/qnetlive/warnertv_2000.stream/chunklist.m3u8
-#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
+#https://livecdn.fptplay.net/qnetlive/warnertv_2000.stream/chunklist.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
 
 #EXTINF:-1 group-title="MOVIE" tvg-id="&Flix" tvg-name="&Flix" tvg-logo="https://i.ibb.co/QjzPS79/flix.png",| &Flix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
@@ -336,7 +336,7 @@ http://51.68.141.106:8081/tv/tv-xxi/playlist.m3u8
 #EXTINF:-1 group-title="MOVIE" tvg-id="vtvcab2hd" tvg-name="VTVCab2 HD - Phim Việt" tvg-logo="https://i.ibb.co/hg8nL6C/phimviet-TV.png",| VTVCab2-Phim Việt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 http://s3.nihontv.net:21585/vtvcab2/index.m3u8
-http://thanhfpt.duckdns.org:4567/rtp/232.84.1.168:8982
+#http://thanhfpt.duckdns.org:4567/rtp/232.84.1.168:8982
 
 
 
