@@ -20,12 +20,12 @@ https://livecdn.fptplay.net/sdc/quocphongvnhd_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="📰| NEWs" tvg-id="quochoi" tvg-name="Quốc Hội" tvg-logo="https://i.ibb.co/5j6XfTr/QUOCHOI-TV.png",| Quốc Hội
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 #http://113.191.251.90:1935/live/quochoitvlive.stream_360p/chunklist_w1809032196.m3u8
-#https://live-vthcm.vieon.vn:443/htv_drm/live/quoc_hoi/TV_HD/quoc_hoi_1080p/chunks.m3u8?cre=CoocaaTV
+#https://live-vthcm.vieon.vn:443/htv_drm/live/quoc_hoi/TV_HD/quoc_hoi_1080p/chunks.m3u8
 https://livecdn.fptplay.net/sdc/quochoivn_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="📰| NEWs" tvg-id="ttxvnhd" tvg-name="TTXVN HD" tvg-logo="https://i.ibb.co/TvJbNRw/V-NEWS-TV.png",| TTXVN- VNews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://live-vthcm.vieon.vn:443/htv_drm/live/ttxvn/TV_HD/ttxvn_1080p/chunks.m3u8?cre=CoocaaTV
+https://live-vthcm.vieon.vn:443/htv_drm/live/ttxvn/TV_HD/ttxvn_1080p/chunks.m3u8
 #http://36.37.252.114:888/Apple/OneTV-110/playlist.m3u8
 
 #EXTINF:-1 group-title="📰| NEWs" tvg-id="VOVTV" tvg-name="VOVTV" tvg-logo="https://i.ibb.co/zFZDWbh/VOV-TV.png",| VOV TV
@@ -83,7 +83,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV2-HD-1080p/chunks.m3u8
 https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
 #https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="📺| HTV" tvg-id="htvkey" tvg-name="HTV Key" tvg-logo="https://i.ibb.co/84yYn38/HTVKey-TV.png",HTVKey| Kiến thức
+#EXTINF:-1 group-title="📺| HTV" tvg-id="htvkey" tvg-name="HTV Key" tvg-logo="https://i.ibb.co/84yYn38/HTVKey-TV.png",HTV4| Kiến thức
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 
@@ -91,13 +91,13 @@ https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 #https://livecdn.fptplay.net/hda/htv7hd_hls.smil/chunklist_b2500000.m3u8
 #https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV7-HD-ABR/HTV-ABR/HTV7-HD-1080p/chunks.m3u8
-https://live-vthcm.vieon.vn:443/htv_drm/live/htv7/TV_HD/htv7_1080p/chunks.m3u8?cre=CoocaaTV
+https://live-vthcm.vieon.vn:443/htv_drm/live/htv7/TV_HD/htv7_1080p/chunks.m3u8
 
 #EXTINF:-1 group-title="📺| HTV" tvg-id="htv9hd" tvg-name="HTV9 HD" tvg-logo="https://i.ibb.co/4TqTtnM/HTV9-TV.png",HTV9| Giải trí tổng hợp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 #https://livecdn.fptplay.net/hda/htv9hd_hls.smil/chunklist_b2500000.m3u8
 #https://htv-drm-live-cdn.fptplay.net/CDN-FPT/HTV9-HD-ABR/HTV-ABR/HTV9-HD-1080p/chunks.m3u8
-https://live-vthcm.vieon.vn:443/htv_drm/live/htv9/TV_HD/htv9_1080p/chunks.m3u8?cre=CoocaaTV
+https://live-vthcm.vieon.vn:443/htv_drm/live/htv9/TV_HD/htv9_1080p/chunks.m3u8
 
 #EXTINF:-1 group-title="📺| HTV" tvg-id="htvthethaohd" tvg-name="HTV Thể Thao HD" tvg-logo="https://i.ibb.co/CMWbT2Y/HTV-the-thao.png",| Thể Thao
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
@@ -120,8 +120,8 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u
 #EXTINF:-1 group-title="📺| HTV" tvg-id="htvcphimhd" tvg-name="HTVC Phim HD" tvg-logo="https://i.ibb.co/pz8Qf49/HTVC-PHIM-TV.png",| Phim
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 #http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
-https://livecdn.fptplay.net/hda/htvcmoviehd_hls.smil/chunklist_b2500000.m3u8
-#https://live-vthcm.vieon.vn/htv_drm/live/htvc_phim/TV_HD/htvc_phim_1080p/chunks.m3u8
+#https://livecdn.fptplay.net/hda/htvcmoviehd_hls.smil/chunklist_b2500000.m3u8
+https://live-vthcm.vieon.vn/htv_drm/live/htvc_phim/TV_HD/htvc_phim_1080p/chunks.m3u8
 
 #EXTINF:-1 group-title="📺| HTV" tvg-id="htvcphunuhd" tvg-name="HTVC Phụ Nữ HD" tvg-logo="https://i.ibb.co/4KRF9G0/HTVC-PHU-NU-TV.png",| Phụ Nữ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
@@ -153,15 +153,15 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESH
 https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
 #https://live-vthn.vieon.vn:443/vtc/live/hd_vtv1_test/TV_HD/hd_vtv1_test_1080p/chunks.m3u8
 #https://13djpjxkw.vtvgiaitri.vn/vtv01/vtv01@1080p.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
+#http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
 
 #EXTINF:-1 group-title="📺| VTV" tvg-id="vtv2hd" tvg-name="VTV2 HD" tvg-logo="https://i.ibb.co/5Fcv9z1/VTV2-HD.png",| Khoa học - Giáo dục
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://livecdn.fptplay.net/hda/vtv2_2000.stream/chunklist.m3u8
 #https://live-vthn.vieon.vn:443/vtc/live/hd_vtv2_test/TV_HD/hd_vtv2_test_1080p/chunks.m3u8
 #https://13djpjxkw.vtvgiaitri.vn/vtv02/vtv02@1080p.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8
-https://livecdn.fptplay.net/hda/vtv2_hls.smil/chunklist_b2500000.m3u8
+#http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8
+#https://livecdn.fptplay.net/hda/vtv2_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="📺| VTV" tvg-id="vtv3hd" tvg-name="VTV3 HD" tvg-logo="https://i.ibb.co/sFrXz76/VTV3-HD.png",| Giải trí tổng hợp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
