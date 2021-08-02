@@ -155,10 +155,6 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/playlist.m3u8
 #https://live-vthcm.vieon.vn/htv_drm/live/htvc_mua_sam_tieu_dung/TV_HD/htvc_mua_sam_tieu_dung_480p/chunks.m3u8
 
-#EXTINF:-1 group-title="📺| HTV" tvg-id="htvc_coop" tvg-name="HTVC CO.OP" tvg-logo="https://i.ibb.co/L1ds7Sf/HTVCoop-TV.png",| HTV CO.OP
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://live-vthcm.vieon.vn/htv_drm/live/htv_coop/TV_HD/htv_coop_480p/chunks.m3u8
-
 
 
 #EXTINF:-1 group-title="📺| VTV" tvg-id="vtv1hd" tvg-name="VTV1 HD" tvg-logo="https://i.ibb.co/5Y7tgr0/VTV1-HD.png",| Thời sự - Chính trị
@@ -406,8 +402,10 @@ https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="🎬|MOVIE" tvg-id="cinemaxhd" tvg-name="Cinemax HD" tvg-logo="https://i.ibb.co/pdPmkYm/cinemax-TV.png",| CINEMAX
 #EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="Vietnamese"
 #http://iptvh.it/cocahbomax
-https://rlink.vn/beartv-Cinemax
+#https://rlink.vn/beartv-Cinemax
 #http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
+http://dimapro.cz:8080/00:1A:79:16:F9:3F/nrvaabtbixxxx/39106
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
 #EXTINF:-1 group-title="🎬|MOVIE" tvg-id="cinemaworldhd" tvg-name="Cinema World HD" tvg-logo="https://i.ibb.co/0QH1vHg/Cinema-world-TV.png",| Cinema World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
@@ -440,11 +438,17 @@ https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 #http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 
-#EXTINF:-1 group-title="🎬|MOVIE" tvg-id="hbohd-asia" tvg-name="HBO HD Asia" tvg-logo="https://i.ibb.co/6mB6gCT/hbo-TV.png",| HBO Asia
+#EXTINF:-1 group-title="🎬|MOVIE" tvg-id="hbohd-asia" tvg-name="HBO HD Asia" tvg-logo="https://i.ibb.co/6mB6gCT/hbo-TV.png",| HBO
 #EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="Vietnamese"
 #http://iptvh.it/cocahbo
-https://rlink.vn/beartv-hbo
-#http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
+#https://rlink.vn/beartv-hbo
+http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
+http://dimapro.cz:8080/00:1A:79:16:F9:3F/nrvaabtbixxxx/39122
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+
+#EXTINF:-1 group-title="🎬|MOVIE" tvg-id="HBO ZONE" tvg-name="HBO ZONE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png",HBO ZONE
+#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="Vietnamese"
+http://dimapro.cz:8080/00:1A:79:16:F9:3F/nrvaabtbixxxx/39123
 
 #EXTINF:-1 group-title="🎬|MOVIE" tvg-id="hbofamilyhd-asia" tvg-name="HBO Family HD Asia" tvg-logo="https://i.ibb.co/LY2K7bJ/HBO-Family-TV.png",| HBO Family
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
@@ -538,6 +542,7 @@ https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/chunklist_w2022642642.m
 
 #EXTINF:-1 group-title="🎵|MUSIC" tvg-id="mtvhd" tvg-name="MTV HD" tvg-logo="https://i.ibb.co/PWvh966/mtv-logo-TV.png",MTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://dimapro.cz:8080/00:1A:79:16:F9:3F/nrvaabtbixxxx/39155
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #http://27.67.64.69:18080//31_2.m3u8?AdaptiveType=HLS&SessionID=f4d29e31-cc5a-4dee-a430-c2405d807999&MinBw=0&MaxBw=2000000
 
@@ -629,6 +634,10 @@ https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m
 #EXTINF:-1 group-title="🌍|WORLD" tvg-id="davinci" tvg-name="DaVinci HD" tvg-logo="https://i.ibb.co/fY9r7Rq/Da-Vinci-TV.png",DaVinci
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="🌍|WORLD" tvg-id="" tvg-name="DIY Network" tvg-logo="https://dollypal.com/wp-content/uploads/2018/02/diy-network-logo-new-400x267.png",DIY Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+http://dimapro.cz:8080/00:1A:79:16:F9:3F/nrvaabtbixxxx/39131
 
 #EXTINF:-1 group-title="🌍|WORLD" tvg-id="france24eng" tvg-name="France 24 English" tvg-logo="https://i.ibb.co/y828g8Z/France24-TV.png",France 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
@@ -826,7 +835,7 @@ https://mekongpassion.com/live/tv/chunklist_w453327460.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://livecdn.fptplay.net/sdc/danang1_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="💗|KÊNH ĐỊA PHƯƠNG" tvg-id="DaNang2" tvg-name="BenTreDaNang2" tvg-logo="https://i.imgur.com/9LLBLSy.jpg",Đà Nẵng 2
+#EXTINF:-1 group-title="💗|KÊNH ĐỊA PHƯƠNG" tvg-id="DaNang2" tvg-name="DaNang2" tvg-logo="https://i.imgur.com/9LLBLSy.jpg",Đà Nẵng 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://livecdn.fptplay.net:443/sdc/danang2_hls.smil/chunklist_b2800000.m3u8
 
@@ -887,23 +896,23 @@ https://livecdn.fptplay.net/sdc/travinh_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 http://live.cdn.mobifonetv.vn/motv/mythvl1_hls.smil/chunklist.m3u8
 https://livecdn.fptplay.net/hda/vinhlong1_hls.smil/chunklist_b2500000.m3u8
-#https://live-vthcm.vieon.vn:443/htv_drm/live/thvl1/TV_HD/thvl1_1080p/chunks.m3u8?cre=CoocaaTV
+#https://live-vthcm.vieon.vn:443/htv_drm/live/thvl1/TV_HD/thvl1_1080p/chunks.m3u8
 
 #EXTINF:-1 group-title="💗|KÊNH ĐỊA PHƯƠNG" tvg-id="vinhlong2hd" tvg-name="THVL2 - Vĩnh Long 1 HD" tvg-logo="https://i.ibb.co/8XjWcJT/THVL2logobyvovanloc.png",Vĩnh Long 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 http://live.cdn.mobifonetv.vn/motv/mythvl2_hls.smil/chunklist.m3u8
 https://livecdn.fptplay.net/sdb/vinhlong2_hls.smil/chunklist_b2500000.m3u8
-#https://live-vthcm.vieon.vn:443/htv_drm/live/thvl2/TV_HD/thvl2_1080p/chunks.m3u8?cre=CoocaaTV
+#https://live-vthcm.vieon.vn:443/htv_drm/live/thvl2/TV_HD/thvl2_1080p/chunks.m3u8
 
 #EXTINF:-1 group-title="💗|KÊNH ĐỊA PHƯƠNG" tvg-id="vinhlong3hd" tvg-name="THVL3 - Vĩnh Long 1 HD" tvg-logo="https://i.ibb.co/sbJKS9Q/THVL3logobyvovanloc.png",Vĩnh Long 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://livecdn.fptplay.net/hda/vinhlong3_hls.smil/chunklist_b2500000.m3u8
-#https://live-vthcm.vieon.vn:443/htv_drm/live/thvl3/TV_HD/thvl3_1080p/chunks.m3u8?cre=CoocaaTV
+#https://live-vthcm.vieon.vn:443/htv_drm/live/thvl3/TV_HD/thvl3_1080p/chunks.m3u8
 
 #EXTINF:-1 group-title="💗|KÊNH ĐỊA PHƯƠNG" tvg-id="vinhlong4hd" tvg-name="THVL4 - Vĩnh Long 1 HD" tvg-logo="https://i.ibb.co/Lv2BffY/THVL4logobyvovanloc.png",Vĩnh Long 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://livecdn.fptplay.net/hda/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
-#https://live-vthcm.vieon.vn:443/htv_drm/live/thvl4/TV_HD/thvl4_1080p/chunks.m3u8?cre=CoocaaTV?lic=HThanh&cre=CoocaaTV
+#https://live-vthcm.vieon.vn:443/htv_drm/live/thvl4/TV_HD/thvl4_1080p/chunks.m3u8
 
 
 
