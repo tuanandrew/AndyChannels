@@ -38,33 +38,33 @@ https://live.truyenhinhdulich.vn/vovlive/tv1live.m3u8
 
 
 
-#EXTINF:-1 group-title="🧸| CARTOON" tvg-id="animaxhd" tvg-name="Animax HD" tvg-logo="https://i.ibb.co/25Z8kSx/Animax-TV.png",| Animax
+#EXTINF:-1 group-title="👀| CARTOON" tvg-id="animaxhd" tvg-name="Animax HD" tvg-logo="https://i.ibb.co/25Z8kSx/Animax-TV.png",| Animax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="🧸| CARTOON" tvg-id="boomerang" tvg-name="Boomerang" tvg-logo="https://i.ibb.co/7V1dx9t/Boomerang-TV.png",| Boomerang
+#EXTINF:-1 group-title="👀| CARTOON" tvg-id="boomerang" tvg-name="Boomerang" tvg-logo="https://i.ibb.co/7V1dx9t/Boomerang-TV.png",| Boomerang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="🧸| CARTOON" tvg-id="babyfirst" tvg-name="Baby First" tvg-logo="https://i.ibb.co/X3KLc64/Baby-First-TV.png",| Baby First
+#EXTINF:-1 group-title="👀| CARTOON" tvg-id="babyfirst" tvg-name="Baby First" tvg-logo="https://i.ibb.co/X3KLc64/Baby-First-TV.png",| Baby First
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="🧸| CARTOON" tvg-id="cartoonhd" tvg-name="Cartoon Network HD" tvg-logo="https://i.ibb.co/Y3Y1hkC/Cartoon-Network-TV.png",| Cartoon Network
+#EXTINF:-1 group-title="👀| CARTOON" tvg-id="cartoonhd" tvg-name="Cartoon Network HD" tvg-logo="https://i.ibb.co/Y3Y1hkC/Cartoon-Network-TV.png",| Cartoon Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
 #https://livecdn.fptplay.net/hda3/cartoonnetworkhd_2000.stream/chunklist_b250000.m3u8
 
-#EXTINF:-1 group-title="🧸| CARTOON" tvg-id="cbeebies" tvg-name="Cbeebies" tvg-logo="https://i.ibb.co/N2X8byK/CBeebies-TV.png",| Cbeebies
+#EXTINF:-1 group-title="👀| CARTOON" tvg-id="cbeebies" tvg-name="Cbeebies" tvg-logo="https://i.ibb.co/N2X8byK/CBeebies-TV.png",| Cbeebies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
 
-#EXTINF:-1 group-title="🧸| CARTOON" tvg-id="disney" tvg-name="Disney Channel HD" tvg-logo="https://i.ibb.co/cC4cB1h/Disney-Channel-TV.png",| Disney Channel
+#EXTINF:-1 group-title="👀| CARTOON" tvg-id="disney" tvg-name="Disney Channel HD" tvg-logo="https://i.ibb.co/cC4cB1h/Disney-Channel-TV.png",| Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 http://thanhfpt.duckdns.org:4567/rtp/232.84.2.143:10678
 #http://iptvh.it/cocadisney
 
-#EXTINF:-1 group-title="🧸| CARTOON" tvg-id="disneyjunior" tvg-name="Disney Junior" tvg-logo="https://i.ibb.co/V3Kww3L/Disney-Junior-TV.png",| Disney Junior
+#EXTINF:-1 group-title="👀| CARTOON" tvg-id="disneyjunior" tvg-name="Disney Junior" tvg-logo="https://i.ibb.co/V3Kww3L/Disney-Junior-TV.png",| Disney Junior
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 http://thanhfpt.duckdns.org:4567/rtp/232.84.1.90:10398
 #http://iptvh.it/cocajunior
@@ -700,60 +700,60 @@ http://203.162.235.41:16907
 
 
 
-#EXTINF:-1 group-title="🥻|FASHION" tvg-id="A3BIKINI" tvg-name="A3Bikini" tvg-logo="https://i.ibb.co/rQ9wYdw/A3BIKINI.png",A3BIKINI
+#EXTINF:-1 group-title="👁|FASHION" tvg-id="A3BIKINI" tvg-name="A3Bikini" tvg-logo="https://i.ibb.co/rQ9wYdw/A3BIKINI.png",A3BIKINI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 #https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
 
-#EXTINF:-1 group-title="🥻|FASHION" tvg-id="DarcizzleOffshore" tvg-name="DarcizzleOffshore" tvg-logo="https://i.ibb.co/NWby6mR/Darcizzle-Offshore-TV.png",Darcizzle Offshore
+#EXTINF:-1 group-title="👁|FASHION" tvg-id="DarcizzleOffshore" tvg-name="DarcizzleOffshore" tvg-logo="https://i.ibb.co/NWby6mR/Darcizzle-Offshore-TV.png",Darcizzle Offshore
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 http://30a-tv.com/darcizzle.m3u8
 
-#EXTINF:-1 group-title="🥻|FASHION" tvg-id="HDFashion" tvg-name="HDFashion" tvg-country="US" tvg-logo="https://i.ibb.co/Gd1jJ8X/hdfashion-TV.png",Fashion&Lifestyle
+#EXTINF:-1 group-title="👁|FASHION" tvg-id="HDFashion" tvg-name="HDFashion" tvg-country="US" tvg-logo="https://i.ibb.co/Gd1jJ8X/hdfashion-TV.png",Fashion&Lifestyle
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 
-#EXTINF:-1 group-title="🥻|FASHION" tvg-id="FashionTelevision.us" tvg-logo="https://i.ibb.co/vVwZ4Bp/Fashion-Television-TV.png",Fashion Television
+#EXTINF:-1 group-title="👁|FASHION" tvg-id="FashionTelevision.us" tvg-logo="https://i.ibb.co/vVwZ4Bp/Fashion-Television-TV.png",Fashion Television
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 
-#EXTINF:-1 group-title="🥻|FASHION" tvg-id="fashionhd" tvg-name="Fashion TV HD" tvg-logo="https://i.ibb.co/VB16qFp/fashiontv-blue-TV.png",Fashion TV
+#EXTINF:-1 group-title="👁|FASHION" tvg-id="fashionhd" tvg-name="Fashion TV HD" tvg-logo="https://i.ibb.co/VB16qFp/fashiontv-blue-TV.png",Fashion TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
 #https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="🥻|FASHION" tvg-id="FTV" tvg-name="FTV" tvg-logo="https://i.ibb.co/R2XWmf0/FTVunnamed-TV.png",FTV Czech&Slovak
+#EXTINF:-1 group-title="👁|FASHION" tvg-id="FTV" tvg-name="FTV" tvg-logo="https://i.ibb.co/R2XWmf0/FTVunnamed-TV.png",FTV Czech&Slovak
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 
-#EXTINF:-1 group-title="🥻|FASHION" tvg-id="FTV" tvg-name="FTV" tvg-logo="https://i.ibb.co/NSB898M/Fashion-TV.png",FTV PG16
+#EXTINF:-1 group-title="👁|FASHION" tvg-id="FTV" tvg-name="FTV" tvg-logo="https://i.ibb.co/NSB898M/Fashion-TV.png",FTV PG16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="🥻|FASHION" tvg-id="FTVMidnite" tvg-name="FTVMidnite" tvg-logo="https://i.ibb.co/68sWfPz/FTVBikini-TV.png",FTV Midnite
+#EXTINF:-1 group-title="👁|FASHION" tvg-id="FTVMidnite" tvg-name="FTVMidnite" tvg-logo="https://i.ibb.co/68sWfPz/FTVBikini-TV.png",FTV Midnite
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 #https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
 #http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
-#EXTINF:-1 group-title="🥻|FASHION" tvg-id="IDFashion.ua" tvg-logo="https://i.ibb.co/tMyB5n2/IDFashion.png",ID Fashion
+#EXTINF:-1 group-title="👁|FASHION" tvg-id="IDFashion.ua" tvg-logo="https://i.ibb.co/tMyB5n2/IDFashion.png",ID Fashion
 https://idfashion.cdn-02.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
 
-#EXTINF:-1 group-title="🥻|FASHION", tvg-id="Jasmin.TV" tvg-name="Jasmin.TV" tvg-logo="https://i.ibb.co/7r9rkXp/Jasmin-TV.png",Jasmin.TV
+#EXTINF:-1 group-title="👁|FASHION", tvg-id="Jasmin.TV" tvg-name="Jasmin.TV" tvg-logo="https://i.ibb.co/7r9rkXp/Jasmin-TV.png",Jasmin.TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 #http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1190948669.m3u8
 
-#EXTINF:-1 group-title="🥻|FASHION" tvg-id="Kaloopy" tvg-name="Kaloopy" tvg-logo="https://i.ibb.co/k69W6Np/kaloopy-TV.png",Kaloopy
+#EXTINF:-1 group-title="👁|FASHION" tvg-id="Kaloopy" tvg-name="Kaloopy" tvg-logo="https://i.ibb.co/k69W6Np/kaloopy-TV.png",Kaloopy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 #https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
 #https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/b5f211e6-ad49-438e-bb0f-5a259a662179/2.m3u8
 https://d3kefxscf5gq6l.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-DistoTV/31c4d8ca-fdcb-47d9-8026-8d5fc3c7ada3/0.m3u8
 
-#EXTINF:-1 group-title="🥻|FASHION" tvg-id="WFC" tvg-name="WFC" tvg-country="US" tvg-logo="https://i.ibb.co/tJ5L684/WFC-TV.png",World Fashion Rusia
+#EXTINF:-1 group-title="👁|FASHION" tvg-id="WFC" tvg-name="WFC" tvg-country="US" tvg-logo="https://i.ibb.co/tJ5L684/WFC-TV.png",World Fashion Rusia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://wfcint.mediacdn.ru/cdn/wfcrusweb/playlist_hdhigh.m3u8
 
-#EXTINF:-1 group-title="🥻|FASHION" tvg-id="GlobalFashion.us" tvg-logo="https://i.ibb.co/pLSDTkn/Global-Fashion-Channel-TV.png",Global Fashion Channel
+#EXTINF:-1 group-title="👁|FASHION" tvg-id="GlobalFashion.us" tvg-logo="https://i.ibb.co/pLSDTkn/Global-Fashion-Channel-TV.png",Global Fashion Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://vcngfc1.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_540p.m3u8
 
