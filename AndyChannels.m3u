@@ -26,10 +26,10 @@ https://livecdn.fptplay.net/sdc/quochoivn_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 group-title="📰| NEWs" tvg-id="ttxvnhd" tvg-name="TTXVN HD" tvg-logo="https://i.ibb.co/TvJbNRw/V-NEWS-TV.png",| TTXVN- VNews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-#http://live.vnanet.vn/VnewsLive_Layer1.m3u8
+http://livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 #http://36.37.252.114:888/Apple/OneTV-110/playlist.m3u8
 #http://live.cdn.mobifonetv.vn/motv2/ttxvn_hls.smil/chunklist_b1200000.m3u8
-https://live-vthcm.vieon.vn:443/htv_drm/live/ttxvn/TV_HD/ttxvn_1080p/chunks.m3u8
+#https://live-vthcm.vieon.vn:443/htv_drm/live/ttxvn/TV_HD/ttxvn_1080p/chunks.m3u8
 
 #EXTINF:-1 group-title="📰| NEWs" tvg-id="VOVTV" tvg-name="VOVTV" tvg-logo="https://i.ibb.co/zFZDWbh/VOV-TV.png",| VOV TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
@@ -65,6 +65,7 @@ https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
 #EXTINF:0 group-title="👀| CARTOON" tvg-id="" tvg-logo="https://i.ibb.co/ZBgDSh6/Dream-Works-BEARTV.png",DreamWorks
 #EXTVLCOPT:http-user-agent="BearTV"
 https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
+https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="👀| CARTOON" tvg-id="disney" tvg-name="Disney Channel HD" tvg-logo="https://i.ibb.co/cC4cB1h/Disney-Channel-TV.png",| Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
@@ -394,7 +395,6 @@ https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="🎬|MOVIE" tvg-id="cinemaxhd-asia" tvg-name="Cinemax HD" tvg-logo="https://i.ibb.co/pdPmkYm/cinemax-TV.png",| CINEMAX
 #EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="Vietnamese"
-https://rlink.vn/beartv-Cinemax
 https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
 #http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
@@ -403,16 +403,16 @@ https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="🎬|MOVIE" tvg-id="cinemaworldhd" tvg-name="Cinema World HD" tvg-logo="https://i.ibb.co/0QH1vHg/Cinema-world-TV.png",| Cinema World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/chunks.m3u8
-#https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CINEWORLD-SD-720p/chunks.m3u8
+#https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
 #http://106bec9d8.vws.vegacdn.vn/a95304bd853b57d125850c4859d428528eceef5e/1535127507/cliptv_live/amlst:cinemaworldhd/chunklist_b3620000.m3u8
 
 #EXTINF:-1 group-title="🎬|MOVIE" tvg-id="CelestialMovies" tvg-name="CelestialMovies" tvg-logo="https://i.ibb.co/FsmgXmZ/celestial-movies-TV.png",| Celestial Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 
-#EXTINF:0 group-title="🎵|MUSIC" tvg-id="boxhits" tvg-logo="https://i.ibb.co/XbkM9D2/Box-Hit-BEARTV.png",BOX HITS
+#EXTINF:0 group-title="🎬|MOVIE" tvg-id="boxhits" tvg-logo="https://i.ibb.co/XbkM9D2/Box-Hit-BEARTV.png",| BOX HITS
 #EXTVLCOPT:http-user-agent="BearTV"
 http://103.195.238.226/boxhits/mpegts
 http://gg.gg/beartv-boxhit|Referer=http://sctvonline.vn/
@@ -444,7 +444,6 @@ https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="🎬|MOVIE" tvg-id="hbohd-asia" tvg-name="HBO HD Asia" tvg-logo="https://i.ibb.co/6mB6gCT/hbo-TV.png",| HBO
 #EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.640015,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1920x1080,AUDIO="audiod",SUBTITLES="Vietnamese"
-https://rlink.vn/beartv-hbo
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
@@ -483,6 +482,7 @@ https://rlink.vn/beartv-RedbyHBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 #https://livecdn.fptplay.net/qnetlive/warnertv_2000.stream/chunklist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
+http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="🎬|MOVIE" tvg-id="&Flix" tvg-name="&Flix" tvg-logo="https://i.ibb.co/QjzPS79/flix.png",| &Flix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
@@ -573,15 +573,39 @@ https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
 https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 #https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
 
+#EXTINF:-1 group-title="🎵|MUSIC" tvg-logo="https://i.imgur.com/L71iY9t.png",Bridge TV | ÂM NHẠC QUỐC TẾ | 576P
+#EXTVLCOPT:http-user-agent=(_._)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://185.161.224.216/dash/Bridge_TV_SD.ism/playlist.mpd
+
+#EXTINF:-1 group-title="🎵|MUSIC" tvg-logo="https://i.imgur.com/L71iY9t.png",Bridge TV | ÂM NHẠC QUỐC TẾ | 480P
+#EXTVLCOPT:http-user-agent=(_._)
+http://92.43.140.200/s34/04.m3u8
+
+#EXTINF:-1 group-title="🎵|MUSIC" tvg-logo="https://i.imgur.com/L71iY9t.png",Bridge TV | ÂM NHẠC QUỐC TẾ | 480P | Dự phòng
+#EXTVLCOPT:http-user-agent=(_._)
+http://92.43.140.200/s78/04.m3u8
+
+#EXTINF:-1 group-title="🎵|MUSIC" tvg-logo="https://i.ibb.co/hmV06YR/bridge-tv-hits-BEARTV.png",BRIDGE TV Hits | ÂM NHẠC QUỐC TẾ
+#EXTVLCOPT:http-user-agent=(_._)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.is_realtime_stream=true
+http://185.161.224.216/dash/Bridge_TV_Dance_SD.ism/playlist.mpd
+
 
 
 #EXTINF:-1 group-title="🌍|WORLD" tvg-id="animalhd" tvg-name="Animal Planet HD" tvg-logo="https://i.ibb.co/PmDFnbb/Animal-Planet-TV.png",Animal Planet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+#https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 Group-title="🌍|WORLD" tvg-id="abcaustralia" tvg-name="ABC Australia" tvg-logo="https://i.ibb.co/JmrThrX/ABC-Australia-TV.png",ABC Australia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-http://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/chunklist_b2500000.m3u8
+#http://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/sdb/australiaplus_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="🌍|WORLD" tvg-id="afnhd" tvg-name="AFN HD" tvg-logo="https://i.ibb.co/vjGZf1y/AFN-TV.png",Asian Food Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
@@ -594,14 +618,17 @@ https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="🌍|WORLD" tvg-id="bbcearth" tvg-name="BBC Earth" tvg-logo="https://i.ibb.co/BLGqT51/BBC-Earth.png",BBC Earth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 http://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="🌍|WORLD" tvg-id="bbclifestyle" tvg-name="BBC Life Style" tvg-logo="https://i.ibb.co/kgg0spD/BBC-Life-Style-TV.png",BBC Lifestyle
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 http://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/sdb/bbclifestyle_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="🌍|WORLD" tvg-id="bbcworldnews" tvg-name="BBC World News" tvg-logo="https://i.ibb.co/5hFtjD1/bbc-world-news-TV.png",BBC World News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
+https://livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="🌍|WORLD" tvg-id="BeautyIQ" tvg-name="BeautyIQ" tvg-country="US" tvg-logo="https://i.ibb.co/M2s9YWN/Beauty-IQ-TV.png",BeautyIQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
@@ -614,6 +641,7 @@ https://livecdn.fptplay.net/qnetlive/bloomberg_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="🌍|WORLD" tvg-id="CNA" tvg-name="CNA" tvg-logo="https://i.ibb.co/54hjJN6/Channel-News-Asia-TV.png",Channel News Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://livecdn.fptplay.net/world/newsasia_hls.smil/chunklist_b2500000.m3u8
+http://livecdn.fptplay.net/sdb/newsasia_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="🌍|WORLD" tvg-id="cnn" tvg-name="CNN" tvg-logo="https://i.ibb.co/0yBr6XK/CNNlogobyvovanloc.png",CNN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -622,10 +650,12 @@ https://livecdn.fptplay.net/qnetlive/cnn_2000.stream/chunklist.m3u8
 #EXTINF:-1 group-title="🌍|WORLD" tvg-id="discoveryhd" tvg-name="Discovery Channel HD" tvg-logo="https://i.ibb.co/YRbY5fh/Discovery-Channel-TV.png",Discovery Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="🌍|WORLD" tvg-id="discoveryasiahd" tvg-name="Discovery Asia HD" tvg-logo="https://i.ibb.co/6Y0nM95/Discovery-Asia-TV.png",Discovery Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+http://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="🌍|WORLD" tvg-id="davinci" tvg-name="DaVinci HD" tvg-logo="https://i.ibb.co/fY9r7Rq/Da-Vinci-TV.png",DaVinci
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
@@ -670,10 +700,12 @@ http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 group-title="🌍|WORLD" tvg-id="ngchd" tvg-name="National Geographic HD" tvg-logo="https://i.ibb.co/ZVcWpgx/National-Geographic-TV.png",National Geographic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="🌍|WORLD" tvg-id="ngwhd" tvg-name="Nat Geo Wild HD" tvg-logo="https://i.ibb.co/YtZJFTp/Nat-Geo-Wild-TV.png",National Geo Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
+https://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="🌍|WORLD" tvg-id="NewsMax" tvg-name="NewsMax" tvg-logo="https://i.ibb.co/vPtZWgn/Newsmax-channel-TV.png",NewsMax TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
@@ -686,6 +718,15 @@ https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN_720p30.m3u8
 #EXTINF:-1 group-title="🌍|WORLD" tvg-id="outdoorhd" tvg-name="Outdoor Channel HD" tvg-logo="https://i.ibb.co/BCgNHZ4/Outdoor-Channel-TV.png",Outdoor Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🌍|WORLD" tvg-id="blueantent" tvg-logo="https://vthanh.xyz/ic/229.png",Rock Entertainment HD
+#EXTVLCOPT:http-user-agent=(_._)
+https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="🌍|WORLD" tvg-id="blueantext" tvg-logo="https://vthanh.xyz/ic/230.png",Rock Extreme HD
+#EXTVLCOPT:http-user-agent=(_._)
+https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="🌍|WORLD" tvg-id="RussiaToday" tvg-name="RussiaToday" tvg-logo="https://i.ibb.co/3Rm2wjy/Russia-today-TV.png",Russia Today
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
@@ -741,7 +782,6 @@ http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
-#https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="👁|FASHION" tvg-id="FTV" tvg-name="FTV" tvg-logo="https://i.ibb.co/R2XWmf0/FTVunnamed-TV.png",FTV Czech&Slovak
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
@@ -758,6 +798,7 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mi
 #http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1 group-title="👁|FASHION" tvg-id="IDFashion.ua" tvg-logo="https://i.ibb.co/tMyB5n2/IDFashion.png",ID Fashion
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://idfashion.cdn-02.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
 
 #EXTINF:-1 group-title="👁|FASHION", tvg-id="Jasmin.TV" tvg-name="Jasmin.TV" tvg-logo="https://i.ibb.co/7r9rkXp/Jasmin-TV.png",Jasmin.TV
@@ -792,16 +833,16 @@ http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
 #EXTINF:-1 group-title="💗|KÊNH ĐỊA PHƯƠNG" tvg-id="binhduong1" tvg-name="Bình Dương 1" tvg-logo="https://i.ibb.co/wNmr22m/BTV1logobyvovanloc.png",Bình Dương 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 #https://livecdn.fptplay.net/hda/btv1_2000.stream/chunklist.m3u8
-https://livecdn.fptplay.net/hda/btv1_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="💗|KÊNH ĐỊA PHƯƠNG" tvg-id="binhduong2" tvg-name="Bình Dương 2" tvg-logo="https://i.ibb.co/10BZLKG/BTV2logobyvovanloc.png",Bình Dương 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 #https://livecdn.fptplay.net/hda/btv2_2000.stream/chunklist.m3u8
-https://livecdn.fptplay.net/hda/btv2_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="💗|KÊNH ĐỊA PHƯƠNG" tvg-id="binhduong4" tvg-name="Bình Dương 4"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/IMovie_TV_logo_old.png",Bình Dương 4- iMovie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-https://livecdn.fptplay.net/hda/btv4hd_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda2/btv4hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="💗|KÊNH ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/f/f4/BTV.png",Bình Dương 6- VietTeen
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
@@ -990,6 +1031,7 @@ https://vtsstr3.tv24.vn/elive/SCTV_HD_SanKhau_4/chunklist.m3u8
 #EXTINF:0 group-title="SCTV" tvg-id="sctv8hd" tvg-name="SCTV8 HD" tvg-logo="https://i.ibb.co/3Mps2Cw/SCTV8-BEARTV.png" type="stream",| VITV Kinh Tế
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 http://vtsstr6.tv24.vn:1935/live/SCTV8_SD_4/chunklist_w986885603.m3u8
+http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 
 #EXTINF:0 group-title="SCTV" tvg-id="sctv9hd" tvg-name="SCTV9 HD" tvg-logo="https://i.ibb.co/tzjMs9N/SCTV9-BEARTV.png" type="stream",| Phim TVB
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
@@ -1034,49 +1076,3 @@ http://vtsstr6.tv24.vn:1935/live/SCTV20_HD_4/chucklist.m3u8
 #https://vtsstr1.tv24.vn/live/_definst_/smil:SCTVHDPhimTH.smil/chunklist_b2692000.m3u8
 http://vtsstr1.tv24.vn:1935/live/SCTVHDPhimTH_4/chunklist.b2692000.m3u8
 https://rlink.vn/beartv-sctvth
-
-#EXTINF:-1 group-title="Paris By Night" tvg-logo="https://i.ibb.co/dkczrfx/Thuy-Nga-TV.png",PBN-124 Anh Cho Em Mùa Xuân
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-http://www.mediafire.com/download/u4m3oeggwq1o2bt/PBN124.mkv
-#EXTINF:-1 group-title="Paris By Night" tvg-logo="https://i.ibb.co/dkczrfx/Thuy-Nga-TV.png",PBN-123 Ảo Ảnh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-http://www.mediafire.com/download/re218raga1h7pzw/PBN123.mkv
-#EXTINF:-1 group-title="Paris By Night" tvg-logo="https://i.ibb.co/dkczrfx/Thuy-Nga-TV.png",PBN-121 Song Ca Nhạc Vàng
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-http://www.mediafire.com/download/dhdqjmfpbo8wa7w/PBN21_720p.mkv
-#EXTINF:-1 group-title="Paris By Night" tvg-logo="https://i.ibb.co/dkczrfx/Thuy-Nga-TV.png",PBN-120 Còn Chút Gì Để Nhớ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-http://www.mediafire.com/download/78iypc7ozuupyju/Paris.By.Night.120.2016.HD.BluRay.Rip.720P.mkv
-#EXTINF:-1 group-title="Paris By Night" tvg-logo="https://i.ibb.co/dkczrfx/Thuy-Nga-TV.png",PBN-118 50 Năm Âm Nhạc Đức Huy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-http://www.youtube.com/watch?v=EI8oVmdK6r8
-#EXTINF:-1 group-title="Paris By Night" tvg-logo="https://i.ibb.co/dkczrfx/Thuy-Nga-TV.png",PBN-117 Vườn Hoa Âm Nhạc HD 1080p
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-http://www.mediafire.com/download/fj56quupoqr5d4b/Paris_By_Night_117_Vuon_Hoa_Am_Nhac_2016_mHD_BluRay_DD2.0_x264-TRiM.mp4
-#EXTINF:-1 group-title="Paris By Night" tvg-logo="https://i.ibb.co/dkczrfx/Thuy-Nga-TV.png",PBN-116 Nụ Cười Đầu Năm HD 1080p
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-http://www.mediafire.com/download/o1uuyuir30w6qcg/Paris.By.Night.116.Nu.Cuoi.Dau.Xuan.Bluray.1080i.x264.AC3.mp4
-#EXTINF:-1 group-title="Paris By Night" tvg-logo="https://i.ibb.co/dkczrfx/Thuy-Nga-TV.png",PBN-115 Nét Đẹp Á Đông HD 720p
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-http://www.mediafire.com/download/f922xg2xuh7y13w/blackbox-TN115.mp4
-#EXTINF:-1 group-title="Paris By Night" tvg-logo="https://i.ibb.co/dkczrfx/Thuy-Nga-TV.png",PBN-114 Tôi Là Người Việt Nam DVD-1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-http://www.mediafire.com/download/24bca4rhxf197q3/TN114-DVD1.mp4
-#EXTINF:-1 group-title="Paris By Night" tvg-logo="https://i.ibb.co/dkczrfx/Thuy-Nga-TV.png",PBN-114 Tôi Là Người Việt Nam DVD-2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-http://www.mediafire.com/download/tfooui5jcu33mi7/TN114-DVD2.mp4
-#EXTINF:-1 group-title="Paris By Night" tvg-logo="https://i.ibb.co/dkczrfx/Thuy-Nga-TV.png",PBN-114 Tôi Là Người Việt Nam DVD-3 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-http://www.mediafire.com/download/mhbs2g1vsc3r22g/TN114-DVD3.mp4
-#EXTINF:-1 group-title="Paris By Night" tvg-logo="https://i.ibb.co/dkczrfx/Thuy-Nga-TV.png",PBN-113 Mừng Tuổi Mẹ HD 720p(P1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-http://www.mediafire.com/download/m1435e1p3d338jd/TN113-Part1.mp4
-#EXTINF:-1 group-title="Paris By Night" tvg-logo="https://i.ibb.co/dkczrfx/Thuy-Nga-TV.png",PBN-113 Mừng Tuổi Mẹ HD 720p(P2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-http://www.mediafire.com/download/4ukpavn9e37vvc5/TN113-Part2.mp4
-#EXTINF:-1 group-title="Paris By Night" tvg-logo="https://i.ibb.co/dkczrfx/Thuy-Nga-TV.png",PBN-113 Mừng Tuổi Mẹ HD 720p(P3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-http://www.mediafire.com/download/68ddqmdl2qy7mce/TN113-Part3.mp4
-#EXTINF:-1 group-title="Paris By Night" tvg-logo="https://i.ibb.co/dkczrfx/Thuy-Nga-TV.png",PBN-113 Mừng Tuổi Mẹ HD 720p(P4)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
-http://www.mediafire.com/download/78ggue2uoeggpjf/TN113-Part4.mp4
