@@ -10,136 +10,131 @@
 #EXTINF:0, group-title="VTV", VTV1 (HD 8Mbps)
 #EXTVLCOPT:network-caching=1000
 udp://@225.1.2.249:30120
-#EXTINF:0, group-title="VTV", VTV2 (HD 8Mbps)
-#EXTVLCOPT:network-caching=1000
-udp://@225.1.2.13:30120
-#EXTINF:0, group-title="VTV", VTV3 (HD 8Mbps)
-#EXTVLCOPT:network-caching=1000
-udp://@225.1.2.247:30120
-#EXTINF:0, group-title="VTV", VTV4 (HD 8Mbps)
-#EXTVLCOPT:network-caching=1000
-udp://@225.1.2.20:30120
-#EXTINF:0, group-title="VTV", VTV5 (HD 8Mbps)
-#EXTVLCOPT:network-caching=1000
-udp://@225.1.1.131:30120
-#EXTINF:0, group-title="VTV", VTV C
-#EXTVLCOPT:network-caching=1000
-udp://@225.1.2.245:30120
-#EXTINF:0, group-title="VTV", VTV7 (HD 8Mbps)
-#EXTVLCOPT:network-caching=1000
-udp://@225.1.2.96:30120
-#EXTINF:0, group-title="VTV", VTV8 (HD 8Mbps)
-#EXTVLCOPT:network-caching=1000
-udp://@225.1.2.166:30120
-#EXTINF:0, group-title="VTV", VTV9 (HD 8Mbps)
-#EXTVLCOPT:network-caching=1000
-udp://@225.1.1.128:30120
-#EXTINF:0, group-title="VTV", VTV5 Tây Nam Bộ
-#EXTVLCOPT:network-caching=1000
-udp://@225.1.2.236:30120
-#EXTINF:0, group-title="VTV", VTV5 Tây Nguyên (HD 8Mbps)
-#EXTVLCOPT:network-caching=1000
-udp://@225.1.1.108:30120
 #EXTINF:0, group-title="VTV", VTV1 (HD 8.5Mbps)
 #EXTVLCOPT:network-caching=1000
 udp://@225.1.3.1:30120
-#EXTINF:0, group-title="VTV", VTV2 (HD 8.5Mbps)
-#EXTVLCOPT:network-caching=1000
-udp://@225.1.3.5:30120
-#EXTINF:0, group-title="VTV", VTV3 (HD 8.5Mbps)
-#EXTVLCOPT:network-caching=1000
-udp://@225.1.3.2:30120
-#EXTINF:0, group-title="VTV", VTV4 (HD 8.5Mbps)
-#EXTVLCOPT:network-caching=1000
-udp://@225.1.3.6:30120
-#EXTINF:0, group-title="VTV", VTV5 (HD 8.5Mbps)
-#EXTVLCOPT:network-caching=1000
-udp://@225.1.3.4:30120
-#EXTINF:0, group-title="VTV", VTV C
-#EXTVLCOPT:network-caching=1000
-udp://@225.1.3.3:30120
-#EXTINF:0, group-title="VTV", VTV7 (HD 8.5Mbps)
-#EXTVLCOPT:network-caching=1000
-udp://@225.1.3.15:30120
-#EXTINF:0, group-title="VTV", VTV8 (HD 8.5Mbps)
-#EXTVLCOPT:network-caching=1000
-udp://@225.1.3.11:30120
-#EXTINF:0, group-title="VTV", VTV9 (HD 8.5Mbps)
-#EXTVLCOPT:network-caching=1000
-udp://@225.1.3.9:30120
-#EXTINF:0, group-title="VTV", VTV5 Tây Nam Bộ
-#EXTVLCOPT:network-caching=1000
-udp://@225.1.3.42:30120
-#EXTINF:0, group-title="VTV", VTV5 Tây Nguyên (HD 8.5Mbps)
-#EXTVLCOPT:network-caching=1000
-udp://@225.1.3.30:30120
 #EXTINF:0, group-title="VTV", VTV1 (HD 4Mbps)
 #EXTVLCOPT:network-caching=1000
 udp://@225.1.4.1:30120
 #EXTINF:0, group-title="VTV", VTV2 (HD 4Mbps)
 #EXTVLCOPT:network-caching=1000
 udp://@225.1.4.2:30120
+#EXTINF:0, group-title="VTV", VTV2 (HD 8.5Mbps)
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.3.5:30120
+#EXTINF:0, group-title="VTV", VTV2 (HD 8Mbps)
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.2.13:30120
+#EXTINF:0, group-title="VTV", VTV3 (HD 8Mbps)
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.2.247:30120
+#EXTINF:0, group-title="VTV", VTV3 (HD 8.5Mbps)
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.3.2:30120
 #EXTINF:0, group-title="VTV", VTV3 (HD 4Mbps)
 #EXTVLCOPT:network-caching=1000
 udp://@225.1.4.3:30120
 #EXTINF:0, group-title="VTV", VTV4 (HD 4Mbps)
 #EXTVLCOPT:network-caching=1000
 udp://@225.1.4.4:30120
+#EXTINF:0, group-title="VTV", VTV4 (HD 8.5Mbps)
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.3.6:30120
+#EXTINF:0, group-title="VTV", VTV4 (HD 8Mbps)
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.2.20:30120
 #EXTINF:0, group-title="VTV", VTV5 (HD 8Mbps)
 #EXTVLCOPT:network-caching=1000
-udp://@225.1.4.5:30120
-#EXTINF:0, group-title="VTV", VTV C
+udp://@225.1.1.131:30120
+#EXTINF:0, group-title="VTV", VTV5 Tây Nam Bộ
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.2.236:30120
+#EXTINF:0, group-title="VTV", VTV5 Tây Nam Bộ
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.3.42:30120
+#EXTINF:0, group-title="VTV", VTV5 Tây Nguyên (HD 8.5Mbps)
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.3.30:30120
+#EXTINF:0, group-title="VTV", VTV5 Tây Nguyên (HD 8Mbps)
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.1.108:30120
+#EXTINF:0, group-title="VTV", VTV5 (HD 8.5Mbps)
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.3.4:30120
+#EXTINF:0, group-title="VTV", VTV Cần Thơ
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.2.245:30120
+#EXTINF:0, group-title="VTV", VTV Cần Thơ
 #EXTVLCOPT:network-caching=1000
 udp://@225.1.4.6:30120
-#EXTINF:0, group-title="VTV", VTV C
+#EXTINF:0, group-title="VTV", VTV Cần Thơ
 #EXTVLCOPT:network-caching=1000
 udp://@225.1.4.108:30120
+#EXTINF:0, group-title="VTV", VTV Cần Thơ
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.3.3:30120
+#EXTINF:0, group-title="VTV", VTV7 (HD 8Mbps)
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.2.96:30120
+#EXTINF:0, group-title="VTV", VTV7 (HD 8.5Mbps)
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.3.15:30120
 #EXTINF:0, group-title="VTV", VTV7 (HD 4Mbps)
 #EXTVLCOPT:network-caching=1000
 udp://@225.1.4.201:30120
 #EXTINF:0, group-title="VTV", VTV8 (HD 4Mbps)
 #EXTVLCOPT:network-caching=1000
 udp://@225.1.4.7:30120
+#EXTINF:0, group-title="VTV", VTV8 (HD 8.5Mbps)
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.3.11:30120
+#EXTINF:0, group-title="VTV", VTV8 (HD 8Mbps)
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.2.166:30120
+#EXTINF:0, group-title="VTV", VTV9 (HD 8Mbps)
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.1.128:30120
+#EXTINF:0, group-title="VTV", VTV9 (HD 8.5Mbps)
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.3.9:30120
 #EXTINF:0, group-title="VTV", VTV9 (HD 4Mbps)
 #EXTVLCOPT:network-caching=1000
 udp://@225.1.4.8:30120
-#EXTINF:0, group-title="VTV", VTV5 Tây Nam Bộ
-#EXTVLCOPT:network-caching=1000
-udp://@225.1.4.184:30120
+
 
 #EXTINF:0, group-title="Thiết Yếu", ANTV HD (HD 8Mbps)
 #EXTVLCOPT:network-caching=1000
 udp://@225.1.2.169:30120
-#EXTINF:0, group-title="Thiết Yếu", Nhân Dân TV (HD 8Mbps)
-#EXTVLCOPT:network-caching=1000
-udp://@225.1.1.91:30120
-#EXTINF:0, group-title="Thiết Yếu", Quốc Hội
-#EXTVLCOPT:network-caching=1000
-udp://@225.1.2.148:30120
-#EXTINF:0, group-title="Thiết Yếu", QPVN (HD 8Mbps)
-#EXTVLCOPT:network-caching=1000
-udp://@225.1.2.217:30120
-#EXTINF:0, group-title="Thiết Yếu", VNEWS (HD 8Mbps)
-#EXTVLCOPT:network-caching=1000
-udp://@225.1.1.167:30120
-#EXTINF:0, group-title="Thiết Yếu", VOV TV
-#EXTVLCOPT:network-caching=1000
-udp://@225.1.2.171:30120
 #EXTINF:0, group-title="Thiết Yếu", ANTV HD (HD 8.5Mbps)
 #EXTVLCOPT:network-caching=1000
 udp://@225.1.3.23:30120
+#EXTINF:0, group-title="Thiết Yếu", Nhân Dân TV (HD 8Mbps)
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.1.91:30120
 #EXTINF:0, group-title="Thiết Yếu", Nhân Dân TV (HD 8Mbps)
 #EXTVLCOPT:network-caching=1000
 udp://@225.1.3.41:30120
 #EXTINF:0, group-title="Thiết Yếu", Quốc Hội
 #EXTVLCOPT:network-caching=1000
 udp://@225.1.3.78:30120
+#EXTINF:0, group-title="Thiết Yếu", Quốc Hội
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.2.148:30120
+#EXTINF:0, group-title="Thiết Yếu", QPVN (HD 8Mbps)
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.2.217:30120
 #EXTINF:0, group-title="Thiết Yếu", QPVN (HD 8Mbps)
 #EXTVLCOPT:network-caching=1000
 udp://@225.1.3.54:30120
 #EXTINF:0, group-title="Thiết Yếu", VNEWS (HD 8.5Mbps)
 #EXTVLCOPT:network-caching=1000
 udp://@225.1.3.61:30120
+#EXTINF:0, group-title="Thiết Yếu", VNEWS (HD 8Mbps)
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.1.167:30120
+#EXTINF:0, group-title="Thiết Yếu", VOV TV
+#EXTVLCOPT:network-caching=1000
+udp://@225.1.2.171:30120
 #EXTINF:0, group-title="Thiết Yếu", VOV TV
 #EXTVLCOPT:network-caching=1000
 udp://@225.1.3.139:30120
@@ -358,10 +353,10 @@ udp://@225.1.1.184:30120
 #EXTINF:0, group-title="HTVC", HTVC Phim (HD 8Mbps)
 #EXTVLCOPT:network-caching=1000
 udp://@225.1.3.68:30120
-#EXTINF:0, group-title="HTVC", HTVC Ph
+#EXTINF:0, group-title="HTVC", HTVC Phụ Nữ
 #EXTVLCOPT:network-caching=1000
 udp://@225.1.3.53:30120
-#EXTINF:0, group-title="HTVC", HTVC Ph
+#EXTINF:0, group-title="HTVC", HTVC Phụ Nữ
 #EXTVLCOPT:network-caching=1000
 udp://@225.1.4.66:30120
 #EXTINF:0, group-title="HTVC", HTVC Phim
@@ -393,22 +388,22 @@ udp://@225.1.4.91:30120
 #EXTINF:0, group-title="Địa Phương", SCTV6 (HD 8Mbps)
 #EXTVLCOPT:network-caching=1000
 udp://@225.1.1.188:30120
-#EXTINF:0, group-title="Địa Phương", THLC _ TH Lào Cai (HD 8Mbps)
+#EXTINF:0, group-title="Địa Phương", TH Lào Cai (HD 8Mbps)
 #EXTVLCOPT:network-caching=1000
 udp://@225.1.1.119:30120
-#EXTINF:0, group-title="Địa Phương", YTV HD _ TH Yên Bái (HD 8Mbps)
+#EXTINF:0, group-title="Địa Phương", TH Yên Bái (HD 8Mbps)
 #EXTVLCOPT:network-caching=1000
 udp://@225.1.1.39:30120
 #EXTINF:0, group-title="Địa Phương", 
 #EXTVLCOPT:network-caching=1000
 udp://@225.1.1.74:30120
-#EXTINF:0, group-title="Địa Phương", HBTV HD _ TH Hòa Bình (HD 8Mbps)
+#EXTINF:0, group-title="Địa Phương", TH Hòa Bình (HD 8Mbps)
 #EXTVLCOPT:network-caching=1000
 udp://@225.1.2.168:30120
-#EXTINF:0, group-title="Địa Phương", LTV HD _ TH Lai Châu (HD 8Mbps)
+#EXTINF:0, group-title="Địa Phương", TH Lai Châu (HD 8Mbps)
 #EXTVLCOPT:network-caching=1000
 udp://@225.1.2.36:30120
-#EXTINF:0, group-title="Địa Phương", HGTV _ TH Hà Giang (HD 8Mbps)
+#EXTINF:0, group-title="Địa Phương", TH Hà Giang (HD 8Mbps)
 #EXTVLCOPT:network-caching=1000
 udp://@225.1.1.62:30120
 #EXTINF:0, group-title="Địa Phương", CRTV HD _ TH Cao Bằng
@@ -420,22 +415,22 @@ udp://@225.1.1.126:30120
 #EXTINF:0, group-title="Địa Phương", LSTV HD _ TH L
 #EXTVLCOPT:network-caching=1000
 udp://@225.1.1.160:30120
-#EXTINF:0, group-title="Địa Phương", TTV _ TH Tuyên Quang (HD 8Mbps)
+#EXTINF:0, group-title="Địa Phương", TH Tuyên Quang (HD 8Mbps)
 #EXTVLCOPT:network-caching=1000
 udp://@225.1.2.188:30120
-#EXTINF:0, group-title="Địa Phương", TN1 HD _ TH Thái Nguyên (HD 8Mbps)
+#EXTINF:0, group-title="Địa Phương", TH Thái Nguyên (HD 8Mbps)
 #EXTVLCOPT:network-caching=1000
 udp://@225.1.2.179:30120
-#EXTINF:0, group-title="Địa Phương", PTV HD _ TH Phan Thiết
+#EXTINF:0, group-title="Địa Phương", TH Phan Thiết
 #EXTVLCOPT:network-caching=1000
 udp://@225.1.2.165:30120
-#EXTINF:0, group-title="Địa Phương", BGTV _ TH Bắc Giang
+#EXTINF:0, group-title="Địa Phương", TH Bắc Giang
 #EXTVLCOPT:network-caching=1000
 udp://@225.1.1.164:30120
-#EXTINF:0, group-title="Địa Phương", QTV1 HD _ TH Quảng Trị
+#EXTINF:0, group-title="Địa Phương", TH Quảng Trị
 #EXTVLCOPT:network-caching=1000
 udp://@225.1.2.181:30120
-#EXTINF:0, group-title="Địa Phương", QTV3 HD _ TH Quảng Trị
+#EXTINF:0, group-title="Địa Phương", TH Quảng Trị
 #EXTVLCOPT:network-caching=1000
 udp://@225.1.2.180:30120
 #EXTINF:0, group-title="Địa Phương", BTV _ TH Bình Dương
